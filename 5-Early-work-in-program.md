@@ -1,3 +1,7 @@
+# Early work in program
+
+## Part 6
+
 > This isn't meant as a resume. It illustrates the university's lack of standing as a credible institution, having opposed and been late to every idea that turned out to be the next major leap in the field, including some I don't have the energy to elaborate on.
 >
 > It mainly shows how much I did in the first 3 years, amid the extreme terror, tragedy, and obstruction with the same institution on me concurrently. See [here](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md) for work I did throughout my PhD.
@@ -20,4 +24,22 @@ Note: I was new to Deep Learning in 2017 when I entered the program. I learned i
 
 I should add: I got an [honorable mention](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList) (type in Samuel Lerman under "Search by Name" and select "All Years") in the NSF GRFP, with all excellent reviews and the only doubt being that (at the time) I didn't have any publications. That is a highly competitive fellowship, but I received no funding due to that reason. Oh, the excellent reviews were for that very idea (composing relations querying associative memories) that I just qualified with an unnecessary disclaimer about acting professional, because despite the passion with which I considered these ideas (even entering "hypnogogic states"), I always acted professionally. This was my area exam, 2nd year as PhD student in program: [here](https://docs.google.com/presentation/d/1LK0urIs8yu_e7HyZ-VQoDJUiGpPeTPEUgfhjK5Kw_7w/edit?usp=sharing). Deep learning professor Chenliang Xu, at that area exam, asked me how I planned to do "relational representations", and I turned to slide 11, and taught them MHDPA. My then-advisor Henry Kautz didn't like that I called it "relational reasoning", but that is now a convention. In his defense, he told me I "passed with flying colors." To be fair to Chenliang, the advisor who decided I didn't have enough papers when he decided to leave (when I published 2 in the 3 years under him), it was and still is impressive to me that of all of them he was the only one who inquired on *how* I planned to do relational representations. MHDPA is the method that today underpins large-language models like ChatGPT, and ViTs. See [here](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md) for an innovative explanation of them that I called "Conv is all you need", also teaching a little more than the succinctness would let on.
 
-> I also proposed these [bio-inspired neurons]( https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) to my semantic parsing class in 2018, to Henry, and again to Chenliang later. But, no one other than me particularly took an interest, despite the extremely original, intuitive understanding.
+> I also proposed these [bio-inspired neurons]( https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) to my semantic parsing class in 2018, to Henry, and again to Chenliang later. But, no one other than me particularly took an interest, despite the extremely original, intuitive formulation.
+
+> TO DO: Describe disease modeling in its own section, as well as the Keras-type framework I built for medical modeling with long-term episodic memory, how that is still relevant via leveraging foundation model memory, and all the work I did at the medical center that I conveniently excluded here.
+
+Can include NSF GRFP documents.
+
+In progress: structure like this, and actually elaborate on the enormous work done:
+
+### Disease Prediction
+**2016 - 2020**
+
+### Persistent Biologically-Inspired RNN Cell 
+**2018**
+
+### Long-Term Memory
+**2018 - today**
+
+### ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
+**2018**

@@ -1,5 +1,14 @@
 # Ongoing
 
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a7e77c0c-495b-477c-97f1-d90e0eb4af3c">
+<picture>
+  <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a7e77c0c-495b-477c-97f1-d90e0eb4af3c">
+  <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a7e77c0c-495b-477c-97f1-d90e0eb4af3c">
+</picture>
+</a>
+</p>
+
 ## Part 7
 
 ### Email: 02/07/2024
@@ -22,9 +31,13 @@ From: **Michael**
 
 Hi Sam —
 
-I’m not sure which review you’re referring to: the one you skipped in Fall 2022, the unsuccessful one in Spring 2023, or the make-up review that you didn’t schedule.  The requirement for reviews is documented in the CS PhD Student Handbook.  Deadlines for reviews are communicated to all PhD students and advisors via email every year.
+I’m not sure which review you’re referring to: the one you skipped in Fall 2022, the unsuccessful one in Spring 2023, or the make-up review that you didn’t schedule.<sup>$^\text{\color{purple}[1.]}$</sup>  The requirement for reviews is documented in the CS PhD Student Handbook.  Deadlines for reviews are communicated to all PhD students and advisors via email every year.
 
 — Michael
+
+#
+
+<sup>$\text{\color{purple}[1.]:}$ In all cases, the answer was `"no."` I should’ve replied: <code>"The one that I was excused from, the one that I attended with a brand new <i>interim</i> committee, or the one that was post-hoc both with respect to advisor-desertion and requirement?”</code> Unlike what Michael's reply makes it sound like, his termination email didn't attribute my termination to any of these things, but rather to my research, e.g., the extremely-false reason given in the termination email was: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree." Meanwhile, my advisor and PI both said my plan was completed successfully and I was ready to defend that month. Whereas, they were all wrong: I needed more time to write a good thesis.</sup>
 
 ### Email: 02/09/2024
 
@@ -81,6 +94,19 @@ Also, Michael, why does a six-month review make-up have so much weight when I ha
 
 #
 
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7bf7a827-b0c6-46cf-87ee-4d473fb254bb">
+<picture>
+  <source width="5%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7bf7a827-b0c6-46cf-87ee-4d473fb254bb">
+  <img width="5%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7bf7a827-b0c6-46cf-87ee-4d473fb254bb">
+</picture>
+</a>
+</p>
+
+<sup>$\mathfrak{\color{green}\text{``T}he}$ $\mathfrak{\color{green}polic\text{y}}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}an}$ $\mathfrak{\color{green}incompetentl\text{y}}\text{\color{green}-}\mathfrak{\color{green}arbitrated}$ $\mathfrak{\color{green}si\text{x}\text{\color{green}-}month}$ $\mathfrak{\color{green}review}$ $\mathfrak{\color{green}ma\text{k}e\text{\color{green}-}up}\text{\color{green},}$ $\mathfrak{\color{green}mattered}$ $\mathfrak{\color{green}so}$ $\mathfrak{\color{green}much}$ $\mathfrak{\color{green}as}$ $\mathfrak{\color{green}to}$ $\mathfrak{\color{green}be}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}onl\text{y}}$ $\mathfrak{\color{green}reason}$ $\mathfrak{\color{green}for}$ $\mathfrak{\color{green}terminating}$ $\mathfrak{\color{green}\text{S}am}$ $\mathfrak{\color{green}6}$ $\mathfrak{\color{green}\text{y}ears}$ $\mathfrak{\color{green}into}$ $\mathfrak{\color{green}his}$ $\mathfrak{\color{green}\text{P}hD}\text{\color{green}?}$ $\mathfrak{\color{green}After}$ $\mathfrak{\color{green}discredited}$ $\mathfrak{\color{green}reasons}\text{\color{green},}$ $\mathfrak{\color{green}grossl\text{y}}$ $\mathfrak{\color{green}erroneous}$ $\mathfrak{\color{green}reasons\text{,}}$ $\mathfrak{\color{green}desertion}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}advisor\text{,}}$ $\mathfrak{\color{green}desertions}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}previous}$ $\mathfrak{\color{green}advisor}$ $\mathfrak{\color{green}and}$ $\mathfrak{\color{green}committee\text{,}}$ $\mathfrak{\color{green}and}$ $\mathfrak{\color{green}opposition}$ $\mathfrak{\color{green}to}$ $\mathfrak{\color{green}all}$ $\mathfrak{\color{green}right}$ $\mathfrak{\color{green}principles}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}justice\text{?}}$ $\mathfrak{\color{green}\text{A}nd\text{,}}$ $\mathfrak{\color{green}man}$ $\mathfrak{\color{green}\text{wh}o}$ $\mathfrak{\color{green}holds}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}gavel\text{,}}$ $\mathfrak{\color{green}did}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}previous}$ $\mathfrak{\color{green}atrocities}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}\text{y}our}$ $\mathfrak{\color{green}institution}$ $\mathfrak{\color{green}on}$ $\mathfrak{\color{green}him\text{,}}$ $\mathfrak{\color{green}those}$ $\mathfrak{\color{green}apothecarial}$ $\mathfrak{\color{green}atrocities}$ $\mathfrak{\color{green}that}$ $\mathfrak{\color{green}have}$ $\mathfrak{\color{green}all}$ $\mathfrak{\color{green}been}$ $\mathfrak{\color{green}made}$ $\mathfrak{\color{green}a\text{w}are}$ $\mathfrak{\color{green}to}$ $\mathfrak{\color{green}\text{y}ou\text{,}}$ $\mathfrak{\color{green}not}$ $\mathfrak{\color{green}matter\text{,}}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}institution}$ $\mathfrak{\color{green}\text{y}ou}$ $\mathfrak{\color{green}assume}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}representative}$ $\mathfrak{\color{green}role}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}b\text{y}}$ $\mathfrak{\color{green}ma\text{k}ing}$ $\mathfrak{\color{green}\text{y}our}$ $\mathfrak{\color{green}ruling\text{?"}}$</sup>
+
+#
+
 There was no reply. Michael never answered any of my questions or addressed the things I asked to be addressed, or referred anyone else to address the things I asked to be addressed. Michael and the University of Rochester stayed silent on the whole of the matters conveyed in this repo, to date of writing. Below, in the Epilogue, I will disprove their own judgement using their own policy. But first, Credits.
 
 # $\mathfrak{Credits,}$ $\text{written by}$ $\mathcal{Frodo  \ Baggins}$ <sup> $(Sam)$ </sup>
@@ -117,25 +143,24 @@ The modern cultures, leaders, and institutions, including the education/research
 
 The University of Rochester: **Saruman**
 
-# $\mathcal{Epilogue}$ (Conclusive disproof of Michael)
+# $\mathfrak{\mathrm{E}pilogue}$
 
-Resume dark tone:
+## <sub>🔎</sub> Reminder of context from [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
 
-## Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
+> [!IMPORTANT]
+> The PhD student handbook has **only one clause of accountability** for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
+> - in writing
+> - when support is withdrawn
 
-Unlike here, the main [disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) continued without the suppositions described here about everything they claim being true. 
-
-The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement.
-
-The only time reinstatement was mentioned was by Michael. No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, there wasn't a path (and none of these things were suggested by the faculty in writing). Michael reached out to meet in person, but that would not be sufficient for reinstatement nor secure my future as an employee with a salary, advisor, and a basic standard of living. The reason for wanting to meet was "mutual understanding", not "what is necessary" for reinstatement, unless "mutual understanding" with Michael, someone who I don't know and never met, becomes a requirement for reinstatement, the chair of a department in an institution that tortured me in person for six years, during yet another trauma, this time being actively inflicted by him. 
-
-Also, I replied to the email (while still officially a grad student) asking for evidence and my reply was ignored. It was the last message sent between us prior to these ones that I reinstated, also currently being ignored.
-
-Additionally, I cannot endure more meetings and deliberations where I have to defend against their morally outrageous actions after this ump-teenth set of traumas (including ones I haven't mentioned in this repo that also happened during this time period, also are egregious, and also were induced by the Medical Center via coercion, ["#NotEnoughCarbs"](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md) and more...) culminating six years of torture from this one institution.
-
-It's taking me a year to write this. They couldn't even understand my research, and Michael isn't even in my field. Did he really expect me to convey all of this in a single meeting as well while I had no salary or income? I responded to Michael about that directly: (1) "Hi Michael, I’d be willing to meet. But please extend my stipend through November," and "I would be glad to meet in person, but I ask that you restore my stipend for the month of November. Thank you." (November is my birthday actually). I did my best to convey and elaborate on everything and he ignored those emails too. Meanwhile, I was being actively overseen remotely and in person by two different research groups requiring regular research updates, software engineering tasks, and progress reports — both of whom said I was done and ready to defend, and none of whom were Michael.
-
-Furthermore, support was withdrawn long before Michael sent that email.
+- The only time reinstatement was mentioned was by Michael [on **10/31/2024**](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md#email-10312023). No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, there wasn't a path (and none of these things were suggested by the faculty in writing).
+- I replied to that reinstatement-mentioning email when it was sent on **10/31/2024**, that is, on my last day of being an employed PhD student, [asking for evidence for the termination reasons](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md#hypocrisy) and my reply was ignored. It was the last message sent between us, prior to [these ones](#email-02072024) above that I resumed also currently being ignored. In the [above email](#email-02072024) (the latest of the ignored), I brought up that the reinstatement-condition wasn't indicated to me.
+- In that reinstatement-mentioning email that Michael ignored my replies to, Michael had reached out to meet in person, but that wouldn't suffice for reinstatement nor secure my future as an employee with a salary, advisor, and a basic standard of living. The reason for wanting to meet was "mutual understanding." The reinstatement-clause explicitly specifies "in writing."
+  - It's taking me a year to write this book. "Mutual understanding" requires at least a book's-worth of traumatic context, that according to Michael, would somehow be better conveyable off-the-record via a meeting while I had no salary or income to an authority in a threatening position, who ignored my replies, hid away from my emailed questions, and disrespected me via a sudden termination email (the Termination Slam) on **10/12/2024** immediately following sending him my sincere research proposal that his previous email specified as the condition for staying in the program (of research that I'd already done, and according to two PIs and former advisor was ready to defend)... and the idea of "proposing" a research "plan" in one's 6th year — already having done the substance of the PhD — is ridiculous, not to mention my advisor's only caveat to graduation that month being that I follow his formatting instructions, ridiculous in itself since I hadn't started writing the thesis yet. Michael didn't approve my plan due to contradictory opinions from a brand new interim committee, despite everything that was communicated and verified to him by email, such as my advisor's opinion that I was ready to defend, the confirmation that my advisor was leaving (second advisor to do so, and again for no particular reason), Chris Kanan's forgetting of details about the meeting ("[Deus Ex Memory](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md)"), and all of the [aforementioned trauma](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md) condensed as much as I could've, communicated and re-visited for him elaborately in real-time in writing.
+- I responded to Michael about meeting in person on **10/25/2024**: (1) "Hi Michael, I’d be willing to meet. But please extend my stipend through November," and (2) "I would be glad to meet in person, but I ask that you restore my stipend for the month of November. Thank you." November is my birthday actually.
+  - To establish "in person" instead of "in writing" as having been an "implicitly" indicated reinstatement-condition requires rephrasing the reinstatement-clause, foregoing explicit formal communications, and violating ethics by demanding that I participate in an unpaid face-to-face meeting with an authority actively inflicting trauma who has no background or expertise in my field, who has no power to address the issues preventing my reinstatement (e.g. lack of advisor), as the only imaginable grounds for hypothetical reinstatement after a disrespectful, unjustified, un-evidenced termination.
+- Support, as distinct from pay, was withdrawn long before Michael or any faculty mentioned reinstatement.
+  - As evidenced by my second advisor's communication of withdrawal and reallocation of funding on **07/24/2024**, the sudden termination email on **10/12/2024**, and [many tortures](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md), including permanent or ongoing ones, inflicted by Michael's institution. To reiterate, all I asked for in the research proposal that Michael slammed with a termination, was peace to write my thesis. That detail was the only part he specified in a later email as having an issue with.
+- Note also: the University of Rochester's CS department doesn't have PhD "reinstatement applications." Any appearance of that reinstatement-mentioning email of **10/31/2024** as indicating a reinstatement-condition is gaslighting. The referent of what is mentioned is reinstatement, not a reinstatement-condition. Even if that weren't the case, "in writing" cannot be relegated as "in person" (and thereby “off the record”) unless the indicated reinstatement-condition can redefine the clause from which it's necessitated, but the PhD student handbook isn't a rewritable Turing tape (at least not ad lib), making that absurd to such a point that asserting it becomes gaslighting.
 
 ## Definitions
 
@@ -145,27 +170,19 @@ Define the set of "what is necessary for reinstatement of support, indicated to 
 
 $x$ $\coloneqq$ $\emptyset$.
 
-That is the empty set, as described in the [context reminder](#reminder-of-context-mentioned-in-first-disproof). 
+That is the empty set, as described in the $\color{#7B52D7} \textbf{&#9432;}$ [context reminder](#-reminder-of-context-from-first-disproof). 
 
 ## Propositions
 
-### (1) Truth.
+### (1) Goodness, truth, and sufficiency.
 
-Suppose every reason they had for terminating me was true. (False, but assume True).
+Suppose some reasons they had for terminating me were good, true, and sufficient. (False, but assume true).
 
-### (2) Sufficient cause.
+### (2) Student's negligence.
 
-Suppose any one of them suffices. (False, but assume True).
+Suppose I didn’t do something they suggested, requested, or required of me, prior to my second advisor's communication of withdrawal of support. (False, but assume true).
 
-### (3) Student's negligence.
-
-Suppose I didn’t do anything they suggested or requested of me. (Extraordinarily False, but assume True).
-
-&#9432; This is now the strongest set of possible assumptions I can make in their favor, because it assumes that everything they did was perfect and accurate up to and probably well beyond their claims.
-
-Finally:
-
-### (4) PhD student handbook.
+### (3) PhD student handbook.
 
 “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15. Mathematically:
 
@@ -173,7 +190,15 @@ $\vert x \vert > 0$.
 
 ## Disproofs
 
-### (1) Proposition 4.
+### (1) Propositions 1 or 2. 
+
+Goodness, truth, and sufficiency; or student's negligence.
+
+**Disproved in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).**
+
+### (2) Proposition 3. 
+
+$\vert x \vert > 0$.
 
 **Disproof.**
 
@@ -183,8 +208,34 @@ $\rightarrow |x| = 0$
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
-## Disproof conclusion
+## Conclusion
 
-- If they find this point too pedantic, then they should consider what it's like to endure six years of trauma and get terminated by their torturers for far less justification.
-- They can't claim “just doing their jobs” as an excuse for these events, because they aren’t, even by their own policy, even when all of their claims are treated as steel by supposing: (1) every reason they had for terminating me was true, (2) any one of them suffices, and (3) I didn’t do anything they suggested or requested of me. That is, "steel-manning" them as opposed to ["straw-manning"](https://en.wikipedia.org/wiki/Straw_man).
-- I wrote in the email, "Also, Michael, why does a six-month review make-up have so much weight when I had to report to two labs every action I took every week for the last 3 years?" Seems somewhat pedantic. But it's policy, of course, and therefore, going by the University of Rochester’s **wisdom**, policy is more important than human rights. Then this disproven one that's being **broken** by the University of Rochester right now, perhaps matters. But who knows, maybe the point of including it in the PhD student handbook was just to get me to write all of this. Maybe, somebody else would like to hear about my would-be thesis, had you and the committee not rejected and desecrated it. 5 - 7 years is the average time for a PhD. I was finishing my 6th year. All I asked for was a year in peace (and in reply to that you sent the termination letter). Though I can't say this year is going great, living with my mom and writing this, unemployed and sick with eczema and no salary or health insurance, and tons of student debt to pay off, I can say that my thesis plans won't be wasted. I wrote this. I'm writing more. And the disrespect you paid to me is your "teacher"'s debt. The mindset that led to the University of Rochester's policies and practices, across the medical, research, and learning centers, are militaristic, not healing or serving to the interests of human intelligence or whatever may exist out there, not consciously anyway. Unconsciously, that has yet to be determined. People are fueled by greed and motives that bias academic and medical goals, but I think we collectively want the world to be a better place. Perhaps this can play a large role in exposing something true about the depths of these institutions that others might not be aware of or haven't articulated. Perhaps my research can directly contribute to exposing some of the linguistic, neural, and physical hypotheses underlying a more literal consciousness in the collective sphere, political or metaphysical, curtail the unethical rise of AI consumerism, and actually teach people something.
+- Proposition 3 is the policy of accountability that the PhD student handbook requires the faculty to satisfy.
+- Disproof 2 formally disproves the claim of Proposition 3, and proves that the faculty are currently violating the policy of the PhD student handbook.
+
+<p align='center'>𖥸</p>
+
+- An Alderman of the ruling judges ultimately invoked the policy of the PhD student handbook as his justification for the latest in a series of atrocities committed against me by this institution.
+- The Alderman initially tried to invoke other reasons for the atrocity, but the reality didn't support him.
+- The Alderman is the only ruling judge charged by the University of Rochester to me as the representative of the policies behind those atrocities.
+
+## $\mathbf{Dialogue \ of \ the \ Congress \ 2}$
+
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
+<picture>
+  <source width="18%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
+  <img width="18%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
+</picture>
+</a>
+</p>
+
+"Who is Sam?" the Congress asks.
+
+“He’s a PhD flunkee,” the Alderman decides with another firmest resolve —
+
+The Alderman strikes his gavel against the ivory surface of his desk, but the mallet's head **breaks**, the impact sends a quake through the **wisdoms** in the alder, and the cracked wood sprouts with roots, branches, and moss.
+
+In a thunder, the alder-tree says:  $\mathfrak{\color{green}\text{\color{green}``Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.}}\text{\color{green}"}$
+
+<p align='center'>𖥸</p>
