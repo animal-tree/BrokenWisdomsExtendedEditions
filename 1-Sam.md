@@ -72,6 +72,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - "Life ruined" post
       - Mikhaila Peterson steak-only diet concurrent recommendation
       - Jordan Peterson's sensationalized Benzo-brain damage timing
+      - House on May St. where I came up with my long-term memory and BioCell research ideas, and realized that stochasticism in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature
       - Physics
   - Thesis
     - [Early work in program](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md)   
