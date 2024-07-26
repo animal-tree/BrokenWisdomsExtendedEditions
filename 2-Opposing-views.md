@@ -124,7 +124,7 @@ They said they'd wean me off before I was discharged, but changed their minds. P
 
 He didn't, and he was a bastard. I saw him for about 5 months and don't remember his name either. But not because of being high. At that point, I was in severe cognitive decline. And the euphoria was turning into excruciating anxiety and fear, and then grey cloud and fog, and terror. I should've weaned myself off, but not only did the drug effect impair my cognition, but because of the terror-state I was in due to the drug, my self-confidence was too low to defy my doctor’s orders, even as every rational thought told me I should. I listened to him up to the 6 months point, arguing as he kept vaguely prolonging a distant eventual taper date, for no justification specified other than falling back on clinical authority. I argued and I think that's most of what contributed to his doubling down.
 
-3 months in, after reporting that I was brain damaged, he didn't believe me and wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low.
+3 months in, after reporting that I was brain damaged, he didn't believe me and wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low. He wanted to increase the dose.
 
 I can't describe this. 
 
