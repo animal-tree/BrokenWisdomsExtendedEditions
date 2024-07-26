@@ -271,7 +271,7 @@ Henry recommended me to the position at the Med Center to do disease modeling, w
 
 While I was working and researching under Charles, I had built a [disease prognostication machine learning model](https://github.com/slerman12/DiseaseModeling) that won top-three in the Michael J. Fox Foundation for Parkinson's Research PPMI  contest, and came up with the idea of building a web app for the prognostication to give clinicians a clean, elegant interface. I had to argue a bit, and convince them, and then they let me, and, as a PhD student (about in my second year, already in benzo withdrawal), I even presented it at a conference in DC in front of reknowned researchers in the Parkinson's research field. Despite that being my idea and my [prototype](https://github.com/slerman12/DiseaseModelingWebApp), they liked it so much that they hired a web development team to build one, and since have never given me credit. Charles also said they were going to patent it and contacted a patent lawyer, and since have given me no information or updates about that either.
 
-Perhaps Charles or some of his colleagues may find the [above diagram](#benzodiazepine-mechanism-of-action) ("5 Computational Neurons") valuable in their work, this time ideally with credit attribution.
+Perhaps Charles or some of his colleagues may find the above diagram (["5 Computational Neurons"](#benzodiazepine-mechanism-of-action)) valuable in their work, this time ideally with credit attribution.
 
 ### Henry Kautz
 
