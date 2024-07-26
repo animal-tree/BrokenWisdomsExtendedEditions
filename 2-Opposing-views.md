@@ -58,7 +58,7 @@ This is going to be hard. What the fuck can I say? I was going to exclude this w
 
 Eczema leads to hair loss leads to depression and worsening psychiatric state…
 
-### Psychosis
+### Psychosis and Rochester General Hospital (RGH)
 
 I had a psychotic episode that was diagnosed as a “manic episode” (but in my opinion was psychotic, since it involved: 
 
