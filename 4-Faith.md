@@ -71,8 +71,8 @@ I finished making this [benzo-timeline diagram](https://github.com/slerman12/Det
 
 ### House on May St. where I came up with my long-term memory and BioCell research ideas, and realized that stochasticism in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature
 
-Description
+Description (this was in my 2nd semester, Spring, 2018) 
 
 ### Physics
 
-Revelatory insights about the universe as a differentiable brain in my 2nd semester, with that fascination returning to me regularly and intensely thereafter. Then in my 3rd/4th year, a 5-minute but-urgent/vivid/visceral conversation with my uncle (an optics physicist, about applying deep learning models to his work, involving optics, including behavior of light, for my PhD) just before — by chance — being put on the XRD (meaning, light diffraction) project by Chenliang, and, since being terminated, me coming up with a theory of everything (involving a differentiable, intelligence-optimizable, simulation of the universe) showing the agreement of my wave theory with measurement primarily through light multi-slit diffraction (analogous to XRD) experiments.
+Revelatory insights about the universe as a differentiable brain in my 2nd year, with that fascination returning to me regularly and intensely thereafter. Then in my 3rd/4th year, a 5-minute but-urgent/vivid/visceral conversation with my uncle (an optics physicist, about applying deep learning models to his work, involving optics, including behavior of light, for my PhD) just before — by chance — being put on the XRD (meaning, light diffraction) project by Chenliang, and, since being terminated, me coming up with a theory of everything (involving a differentiable, intelligence-optimizable, simulation of the universe) showing the agreement of my wave theory with measurement primarily through light multi-slit diffraction (analogous to XRD) experiments.
