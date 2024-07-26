@@ -60,7 +60,7 @@ Eczema leads to hair loss leads to depression and worsening psychiatric state…
 
 ### Psychosis and Rochester General Hospital (RGH)
 
-About 2 or 3 months after the hair loss, I had a psychotic episode (no prior history, not even of mania) that was diagnosed as a “manic episode” (but in my opinion was psychotic, since it involved: 
+About 5 - 8 months after the hair loss, I had a psychotic episode (no prior history, not even of mania) that was diagnosed as a “manic episode” (but in my opinion was psychotic, since it involved: 
 
 - God telling me “He” was going to kill my mom if I didn’t circumcise myself;
 - circumcising myself;
