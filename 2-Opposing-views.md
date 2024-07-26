@@ -82,7 +82,7 @@ I had a psychotic episode that was diagnosed as a “manic episode” (but in my
 - then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile when she did that — not like an insincere smile, a smile because I desperately needed that love and warmth, and was afraid;
 - and the doctor reassured her that I wasn’t conscious;
 - I also gave the “for pleasure” answer to the psychiatrist, who diagnosed me with an acute manic episode and catatonia;
-- then Rochester General Hospital discharged me two weeks later;
+- then RGH discharged me two weeks later;
 - months later I stayed in the University of Rochester’s Strong Hospital since I hadn’t slept all night one night and my sister suspected I might be going through another manic episode;
 - subsequent doctors didn’t question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;
 - I don’t remember what reason they had for holding me there, other than my mom and sister wanting them to because my sister was worried).
