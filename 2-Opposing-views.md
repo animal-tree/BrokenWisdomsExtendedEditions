@@ -54,11 +54,55 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 - **University psychiatric ward janitor**
 - **University-hospital police officers**
 
-### Psychiatrists
-
 This is going to be hard. What the fuck can I say? I was going to exclude this whole section. This is night-marish and you should be scared. Oh friendly psychiatrist pops in to tell me that they can't stop the benzodiazapine coercion. No, that's not the beginning...
 
-Eczema leads to hair loss leads to depression and worsening psychiatric state. I get hospitalized. They force me to take benzodiazepines. I can barely recall those days because the dosage was so high... “and I was \*so high\*” is an accurate way to characterize the coerced drug’s unsolicited effect. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. So those days were a blur. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
+Eczema leads to hair loss leads to depression and worsening psychiatric state…
+
+### Psychosis
+
+I had a psychotic episode that was diagnosed as a “manic episode” (but in my opinion was psychotic, since it involved: 
+
+- God telling me “He” was going to kill my mom if I didn’t circumcise myself;
+- circumcising myself;
+- God telling me “He” was going to kill my mom if I didn’t go somewhere;
+- staying in the woods in the freezing snow all day and night in what happened by chance to be Christmas Eve a holiday I don’t even celebrate since my family is Jewish;
+- “God” telling me my mom was drowning in the freezing brook;
+- me jumping in the freezing brook to save my mom who the whole time I thought was dying;
+- me crawling out of the freezing brook feeling unable to move due to the cold, as I envisioned that my mom was dead having drowned, smiling at me with deep sadness from beyond the realms of consciousness, and that I was going to resurrect as my paralyzed wheelchair-bound neighbor who got registered as a sex-offender because of internet child porn, who depended on his 80-something year-old mom to take care of him to function, who smelled like pee, who constantly made our whole apartment hallway reek of pee, and who was an alcoholic, a Russian man named Volyoda who, interestingly, ended up dying later that subsequent year in a psychosis revolving around his mom dying; and — resuming the part about me — 
+- me then screaming for the ambulance to a full moon in the woods, my voice randomly and suddenly sounding insincere;
+- my pants had fallen partially down my legs when I had crawled out of the brook and God “told me” not to adjust them on faith;
+- the ambulance then finding me like that at around maybe 3 AM or 4 AM, wet from the brook water and possibly hypothermic with pants partially down though they pulled them up quickly as they carried me up to the ambulance, and bringing me to the hospital;
+- however, I didn’t share any of those details;
+- “God told me” to tell the ambulance responders that I was in there “for pleasure” on a faith regarding my pants that had partially fallen over my boxers and the sex-offender resurrection vision, which I did;
+- and that was all I told the ambulance responders or the first nurses about what happened — “for pleasure”;
+- my legs were thawed in some machine and my mom arrived and I was still afraid she was going to die, but I didn’t say anything;
+- then, after they dragged me to another room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it;
+- I went into a conscious catatonia and stayed still due to a “command from God” to do so, even as the doctors chatted about me being “Jesus” bullying/sarcastically while they dragged my body to the MRI machine;
+- I’d kind of intimately shaken hands with the police officers prior to the catatonia, so I think that’s what triggered that bullying;
+- then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile when she did that — not like an insincere smile, a smile because I desperately needed that love and warmth, and was afraid;
+- and the doctor reassured her that I wasn’t conscious;
+- I also gave the “for pleasure” answer to the psychiatrist, who diagnosed me with an acute manic episode and catatonia;
+- then RGH discharged me two weeks later;
+- months later I stayed in the University of Rochester’s Strong Hospital since I hadn’t slept all night one night and my sister suspected I might be going through another manic episode;
+- subsequent doctors didn’t question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;
+- I don’t remember what reason they had for holding me there, other than my mom and sister wanting them to because my sister was worried).
+
+Additional details: This was after my house on May st., a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house to myself for $600/month. It was beautiful, and even had a porch and balcony, basement, dishwasher, and laundry machine. The other PhD students who visited me wanted to move in, since they needed housing, but I liked having the place to myself. However, I’m the admin/moderator of the university Facebook housing page, so I ended up adding my landlord to that page and, thanks to the ad I ended up posting ([here it is](https://github.com/user-attachments/assets/dbe5ceff-3b06-4582-97fb-c13c30d00564)), I redirected inquiries to his email and his email flooded with other PhD students looking to fill that house, including one of the ones who’d originally asked me. The landlord’s house is now never lacking in interested grad students looking to rent from him. In fact, lucky for him, the neighboring building is now [a herbal apothecary](https://www.democratandchronicle.com/story/news/2019/09/19/little-apothecary-becomes-little-herbary-south-ave-rochester-ny/2365775001/), since it was abandoned when I lived there (due to, if I recall correctly, a murder, though I didn't know that moving in, the Fall, 2017 that I did).
+
+And after extensive yoga.
+
+And after more than a year of regular meditation, starting from when I lived in that May St. house.
+
+- And, when I was psychotic in the woods, “God” told me to choose — “up” or “down” — with a throat movement situation that I sensed — where “up” meant “power” and “siding with men” and “down” meant siding with my mom. I chose down and kept choosing down
+- He also commanded me to put a stick in my butt while threatening to kill my mom, so I did that as well in the woods, uncomfortably, since I can’t even tolerate my own finger there
+
+Additional details:
+
+It was in that house when Aetna cut me off from Dupilumab, and it was after I’d started losing my hair and moved in with my mom that I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I entered psychosis, and it was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Lily (temporarily, while I’m still writing this, not her real name).
+
+### Psychiatrists at the University of Rochester’s Strong Hospital
+
+I get hospitalized, because my sister was worried; I’m fully lucid; they force me to take benzodiazepines. I can barely recall those days because the dosage was so high... “and I was *so high*” is an accurate way to characterize the coerced drug’s unsolicited effect. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. So those days were a blur. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
 
 Damn. I'm sorry. This is hard. 
 
