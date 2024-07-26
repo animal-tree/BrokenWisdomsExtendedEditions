@@ -77,7 +77,7 @@ About 5 - 8 months after the hair loss, I had a psychotic episode (no prior hist
 - and that was all I told the ambulance responders or the first nurses about what happened — “for pleasure”;
 - my legs were thawed in some machine and my mom arrived and I was still afraid she was going to die, but I didn’t say anything;
 - then, after they dragged me to another room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it;
-- I went into a conscious catatonia and stayed still due to a “command from God” to do so, even as the doctors chatted about me being “Jesus” bullying/sarcastically while they dragged my body to the MRI machine;
+- I went into a conscious catatonia and stayed still due to a “command from God” to do so, even as the doctors, who thought I was unconscious, chatted about me being “Jesus” bullying/sarcastically while they dragged my body to the MRI machine;
 - I’d kind of intimately shaken hands with the police officers prior to the catatonia, so I think that’s what triggered that bullying;
 - then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile when she did that — not like an insincere smile, a smile because I desperately needed that love and warmth, and was afraid;
 - and the doctor reassured her that I wasn’t conscious;
