@@ -36,8 +36,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Charles Venuto
       - Henry Kautz
       - Chenliang Xu
-      - Comedic Aside: Sexier moments during Chenliang tenure:
-      - Niaz Abdolrahim (okay, some more not-tragedy)
+      - Niaz Abdolrahim
       - Chris Kanan
       - Tom Howard
       - Charles Venuto
