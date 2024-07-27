@@ -97,6 +97,7 @@ And after more than a year of regular meditation, starting from when I lived in 
 
 - And, when I was psychotic in the woods, “God” told me to choose — “up” or “down” — with a throat movement situation that I sensed — where “up” meant “power” and “siding with men” and “down” meant siding with my mom. I chose down and kept choosing down
 - He also commanded me to put a stick in my butt while threatening to kill my mom, so I did that as well in the woods, uncomfortably, since I can’t even tolerate my own finger there
+- When I got out of the brook, He told me that the sewage line into the brook was the reason I was born with eczema (though I wasn’t born with eczema; it developed a month into infancy)
 
 Additional details:
 
