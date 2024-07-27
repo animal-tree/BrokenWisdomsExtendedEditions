@@ -214,6 +214,8 @@ Laying on the couch for a year, immobilized, shaking with excruciating agony. No
 
 The nightmare I mentioned earlier was a waking one for a year.
 
+The two days of trauma I went through during my psychosis don't compare to the year of benzo neurochemical torture.
+
 You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. For some reason my teeth had calcified during the time I was on the benzos. She diagnosed it, by whatever authority she has, as that. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos.
 
 The steak-diet saved my ass.
@@ -223,8 +225,6 @@ That Hell from the GABA downregulation didn't go away for more than a year, thou
 And yep to mention the paranoia and distrust built from undergoing psychiatrist coercion (and malpractice), repeatedly being told I was going to be weaned off by the psychiatrists soon then relatively soon then at least eventually, and with the psychiatrist promises ultimately having proved to be straight-up lies, unjustified by any argument, all of my predictions still holding true and evidenced by the outcome and all of the psychiatrist self-contradicting plans causing the Hell on me that I warned them (the psychiatrists) of.
 
 Did I mention these were University of Rochester *psychiatrists*? Okay good, just making sure the subject is still clear. The referent object, me, not having done anything to deserve this, in case that's in doubt, and all of this being inflicted by the same institution.
-
-The two days of trauma I went through during my psychosis don't compare to the year of benzo neurochemical torture.
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
