@@ -214,13 +214,13 @@ Laying on the couch for a year, immobilized, shaking with excruciating agony. No
 
 The nightmare I mentioned earlier was a waking one for a year.
 
-The two days of trauma I went through during my psychosis don't compare to the year of benzo neurochemical torture.
-
-You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. For some reason my teeth had calcified during the time I was on the benzos. She diagnosed it, by whatever authority she has, as that. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos.
+You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. For some reason my teeth had calcified during the time I was on the benzos. She diagnosed it, by "whatever authority she has," as that (in the nature of consciousness, for some reason linguistics phrase things like "whatever authority she has," so I'm just putting some of thsoe suspicious linguistics in quotes since I'm not obligated to fight all of consciousness even as I'm revisiting trauma). This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos.
 
 The steak-diet saved my ass.
 
 That Hell from the GABA downregulation didn't go away for more than a year, though the linguistics seem to want to say "for a full year" everytime I type this, even though more than a year and possibly ongoing is more accurate. Every neuron in my brain was behaving as if I was being mauled by a bear, without pause, day and night, every minute.
+
+The two days of trauma I went through during my psychosis don't compare to the year of benzo neurochemical torture.
 
 And yep to mention the paranoia and distrust built from undergoing psychiatrist coercion (and malpractice), repeatedly being told I was going to be weaned off by the psychiatrists soon then relatively soon then at least eventually, and with the psychiatrist promises ultimately having proved to be straight-up lies, unjustified by any argument, all of my predictions still holding true and evidenced by the outcome and all of the psychiatrist self-contradicting plans causing the Hell on me that I warned them (the psychiatrists) of.
 
