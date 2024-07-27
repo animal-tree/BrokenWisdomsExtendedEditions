@@ -377,7 +377,7 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 </a>
 </p>
 
-I was transferred to the Mechanical Engineering department. It was there, while working under Chenliang (who symbollically led the deep learning side of the work, with me leading the deep learning side of the work) and Niaz (who was a great PI) that Chenliang informed me I didn't have enough papers, while in the middle of a paper-review for a paper with really positive reviews, and he would be deserting as my advisor.
+I was transferred to the Mechanical Engineering department. It was there, while working under Chenliang (who symbolically led the deep learning side of the work, with me leading the deep learning side of the work) and Niaz (who was a great PI) that Chenliang informed me I didn't have enough papers, while in the middle of a paper-review for a paper with really positive reviews, and he would be deserting as my advisor.
 
 I asked if Niaz could be my advisor, and she said transfering to the Mechanical Engineering department — formally — is hard and that it was unlikely.
 
