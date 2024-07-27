@@ -107,6 +107,7 @@ Oh I also grew out a full beard (except a really small patch probably from a lif
 
 I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary disciplines, while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center building neural models to predict the progression of Parkinson's disease, and that house is where I started to get my idea for how stochasticity in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature, hypothetically.
 
+> [!NOTE]
 > I'm actually proud of that psychosis because it proved how much I'd do to save a person's life, at least my mom's anyway.
 
 ### Psychiatrists at the University of Rochester’s Strong Hospital
