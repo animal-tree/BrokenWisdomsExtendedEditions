@@ -365,7 +365,7 @@ Well, I suppose there was the thanksgiving with Lily (as mentioned above, in [a 
 
 That’s all the very brief glimpses of [happiness](https://github.com/user-attachments/assets/236cf39c-c0a4-45e2-b932-18f62195edd2) I got under Chenliang. Resume tragedy. 
 
-### Niaz Abdolrahim
+### Niaz Abdolrahim (okay, some more not-tragedy)
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/93e5513c-604f-4f07-aa9f-8d8e9f61fd9c">
