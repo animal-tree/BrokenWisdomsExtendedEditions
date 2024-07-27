@@ -97,6 +97,7 @@ And after more than a year of regular meditation, starting from when I lived in 
 
 - And, when I was psychotic in the woods, “God” told me to choose — “up” or “down” — with a throat movement situation that I sensed — where “up” meant “power” and “siding with men” and “down” meant siding with my mom. I chose down and kept choosing down
 - He also commanded me to put a stick in my butt while threatening to kill my mom, so I did that as well in the woods, uncomfortably, since I can’t even tolerate my own finger there
+  - Incidentally, this was all on Christmas, Christman Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that. And though this doesn't help my case to add, I barely knew it was Christmas since my family is Jewish and we don't celebrate.
 
 Additional details:
 
