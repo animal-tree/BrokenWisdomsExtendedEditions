@@ -297,22 +297,7 @@ With respect to Chenliang, Chenliang wanted to allocate that Mechanical Engineer
 
 Meanwhile, under Niaz, in the Mechanical Engineering department, specicially Materials Science, I produced exactly the paper rate that she wanted, and through really hard work to make sure the ideas, experiments, grant-writing, data, and programming were all quality ([here is the GitHub repo I built for us](https://github.com/AGI-init/XRDs)).
 
-### Comedic Aside: Sexier moments during Chenliang tenure:
-
-Got to message someone named Tayler a week after my Taylor-CAM paper who reached out to me on Facebook who turned out to be a cam-girl ([“Taylor-CAM”](https://arxiv.org/abs/2006.08601))… and wasn’t as reproducible as I would’ve liked (she was barren), she also rejected me a few times like the conferences that rejected me (including the first time after all positive reviews)! I never met her.
-- She was quite a synchronicity because she went through a similar thing that I did on the same Christmas, 2018 night, except together with a bald Jewish guy (who she was married to at the time), and our interaction began exactly one week after I first archived my Taylor-CAM paper, my first-ever published paper, though I only realized all of this two years later when I was mourning that she’d stopped messaging with me on our coinciding November birthdays — yes really I’m serious. Well, coinciding week-wise. She was a couple years younger than me.
-
-Waxed wise with a close friend who I met on a trip to Israel many years back — someone who rather serendipitously was seated next to me on that plane — about reinforcement learning on Facebook, reconnected, and at his birthday party ran into someone who my religious friend (different guy incidentally) introduced me to years ago, who I then kept running into the next weeks at the beach literally by just remarkable luck, and each usually-accidental date we had was like a reinforcement learning episode, of me trying to listen to my subconscious and instinct, and getting rewarded or punished and ultimately the world’s lowest ever score aside from one much needed hug! We were both RL agents in that one (no not [“reinforcement learning agents”](https://github.com/slerman12/UnifiedMLold2/tree/master/Agents), “real life agents”)! The fun never ends. 
-
-The next summer I got another miraculous house situation where this really attractive person my age gave me a house rental without a lease with her lesbian roommate (roommates plural ‘cause girlfriend) and no background checks, where I came up with my [BittleBot idea with the methodology of using YouTube](https://github.com/AGI-init/Tributaries/blob/73e95d5006438f678507d0067025e484e66c6e73/Examples/Sweeps/Bittle.py#L11), and she was like a famous YouTuber, and not even the first talented YouTuber I got to meet (the other one by chance while I was editing [a YouTube video](https://youtu.be/VKoSfmECpx0?si=6PNBfaqbE-iY_GV8) in the park)! Then we never talked again (except the second person who I ran into a few years later, by a [physics-subverting](https://www.nature.com/articles/s41524-023-01164-8) precognitive sense that I can’t even describe here, who I talked to around the theme of “firing” just before I wrote [this essay about fire](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Fire.md) and Chenliang called me in to notify/“fire” me I didn’t get him enough papers — not sure what that would’ve entailed considering the statistically significant correlations of all of these probably deserving [their own interrogation of p-value](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/quackery.md)).
-
-Somebody I was texting, who I knew from undergrad, was planning to go to Acadia National Park with me, and that inspired me to call my [rQdia paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=rqdia&btnG=) “rQdia” (pronounced Arcadia), but that one was on purpose, and it was rejected, and we ended up not going (it’s still in the not-really-planned-but-hypothetical books)!
-
-Well, I suppose there was the thanksgiving with Lily (as mentioned above, in [a relevant chapter](#hospitalization)), which I also appreciated (and appreciate) and give thanks to.
-
-That’s all the very brief glimpses of [happiness](https://github.com/user-attachments/assets/236cf39c-c0a4-45e2-b932-18f62195edd2) I got under Chenliang. Resume tragedy. 
-
-### Niaz Abdolrahim (okay, some more not-tragedy)
+### Niaz Abdolrahim
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/93e5513c-604f-4f07-aa9f-8d8e9f61fd9c">
