@@ -65,7 +65,7 @@ About 5 - 8 months after the hair loss, I had a psychotic episode (no prior hist
 - God telling me “He” was going to kill my mom if I didn’t circumcise myself;
 - circumcising myself;
 - then God telling me “He” was going to kill my mom if I didn’t go somewhere;
-- then staying in the woods in the freezing snow all day and night in what happened by chance to be on Christmas Eve, which I don’t celebrate or observe since my family is Jewish, and didn't at the time notice;
+- staying in the woods in the freezing snow all day and night in what happened by chance to be Christmas Eve a holiday I don’t even celebrate since my family is Jewish;
 - “God” telling me my mom was drowning in the freezing brook;
 - me jumping in the freezing brook to save my mom who the whole time I thought was dying;
 - me crawling out of the freezing brook feeling unable to move due to the cold, as I envisioned that my mom was dead having drowned, smiling at me with deep sadness from beyond the realms of consciousness, and that I was going to resurrect as my paralyzed wheelchair-bound neighbor who got registered as a sex-offender because of internet child porn, who depended on his 80-something year-old mom to take care of him to function, who smelled like pee, who constantly made our whole apartment hallway reek of pee, and who was an alcoholic, a Ukranian man in his 50s named Volyoda who, interestingly, ended up dying later that subsequent year in a psychosis revolving around his mom dying; and — resuming the part about me — 
