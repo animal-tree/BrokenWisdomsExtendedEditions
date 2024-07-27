@@ -364,7 +364,7 @@ The next summer I got another miraculous house situation where this really attra
 
 Somebody I was texting, who I knew from undergrad, was planning to go to Acadia National Park with me, and that inspired me to call my [rQdia paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=rqdia&btnG=) “rQdia” (pronounced Arcadia), but that one was on purpose, and it was rejected, and we ended up not going (it’s still in the not-really-planned-but-hypothetical books)!
 
-Well, I suppose there was the thanksgiving with Lily (as mentioned above, in [a relevant chapter](#hospitalization)), which I also appreciated and give thanks to.
+Well, I suppose there was the thanksgiving with Lily (as mentioned above, in [a relevant chapter](#hospitalization)), which I also appreciated (and appreciate) and give thanks to.
 
 That’s all the very brief glimpses of [happiness](https://github.com/user-attachments/assets/236cf39c-c0a4-45e2-b932-18f62195edd2) I got under Chenliang. Resume tragedy. 
 
