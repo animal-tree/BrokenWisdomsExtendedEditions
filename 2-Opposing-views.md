@@ -54,17 +54,71 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 - **University psychiatric ward janitor**
 - **University-hospital police officers**
 
-### Psychiatrists
-
 This is going to be hard. What the fuck can I say? I was going to exclude this whole section. This is night-marish and you should be scared. Oh friendly psychiatrist pops in to tell me that they can't stop the benzodiazapine coercion. No, that's not the beginning...
 
-Eczema leads to hair loss leads to depression and worsening psychiatric state.
+Eczema leads to hair loss leads to depression and worsening psychiatric state…
 
-I get hospitalized. They force me to take benzodiazepines. The dosage was so high... “and I was *so high*” is an accurate way to characterize the coerced drug’s unsolicited effect. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing as much GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
+### Psychosis and Rochester General Hospital (RGH)
+
+About 5 - 8 months after the hair loss, I had a psychotic episode (no prior history, not even of mania) that was diagnosed as a “manic episode” (but in my "opinion," by an ordinary psychiatric definition, was "psychotic," since the two days of it prior to the hospitalization involved: 
+
+- God telling me “He” was going to kill my mom if I didn’t circumcise myself;
+- circumcising myself;
+- then God telling me “He” was going to kill my mom if I didn’t go somewhere;
+- staying in the woods in the freezing snow all day and night;
+- “God” telling me my mom was drowning in the freezing brook;
+- me jumping in the freezing brook to save my mom who the whole time I thought was dying;
+- me crawling out of the freezing brook feeling unable to move due to the cold, as I envisioned that my mom was dead having drowned, smiling at me with deep sadness from beyond the realms of consciousness, and that I was going to resurrect as my paralyzed wheelchair-bound neighbor who got registered as a sex-offender because of internet child porn, who depended on his 80-something year-old mom to take care of him to function, who smelled like pee, who constantly made our whole apartment hallway reek of pee, and who was an alcoholic, a Ukranian man in his 50s named Volyoda who, interestingly, ended up dying later that subsequent year in a psychosis revolving around his mom dying; and — resuming the part about me — 
+- me then screaming for the ambulance to a full moon in the woods, my voice randomly and suddenly sounding insincere;
+- my pants had fallen partially down my legs when I had crawled out of the brook and God “told me” not to adjust them on faith;
+- the ambulance then finding me like that at around maybe 3 AM or 4 AM, wet from the brook water and possibly hypothermic with pants partially down though they pulled them up quickly as they carried me up to the ambulance, and bringing me to the hospital;
+- however, I didn’t share any of those details;
+- “God told me” to tell the ambulance responders that I was in there “for pleasure” on a faith regarding my pants that had partially fallen over my boxers and the sex-offender resurrection vision, which I did;
+- and that was all I told the ambulance responders or the first nurses about what happened — “for pleasure”;
+- my legs were thawed in some machine and my mom arrived and I was still afraid she was going to die, but I didn’t say anything;
+- then, after they dragged me to another room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it;
+- I went into a conscious catatonia and stayed still due to a “command from God” to do so, even as the doctors, who thought I was unconscious, chatted about me being “Jesus” bullying/sarcastically while they dragged my body to the MRI machine;
+- I’d kind of intimately shaken hands with the police officers prior to the catatonia, so I think that’s what triggered that bullying;
+- then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile when she did that — not like an insincere smile, a smile because I desperately needed that love and warmth, and was afraid;
+- and the doctor reassured her that I wasn’t conscious;
+- I also gave the “for pleasure” answer to the psychiatrist, who diagnosed me with a manic episode and catatonia;
+- then RGH discharged me two weeks later;
+- months later I stayed in the University of Rochester’s Strong Hospital since I hadn’t slept all night one night and my sister suspected I might be going through another manic episode;
+- subsequent doctors didn’t question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;
+- I don’t remember what reason they had for holding me there, other than my mom and sister wanting them to because my sister was worried).
+
+What else might've contributed to causing the psychosis in addition to the hair loss?
+
+Additional details: This was after my house on May St., a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished multiple rooms since, inexplicably and literally miraculously, the landlord didn't believe he'd be able to find anyone on his own without my help to rent out to, and he wanted grad students. It was beautiful, and even had a porch and balcony, big kitchen, a freezer for big-game hunting (this detail becomes funny later), basement, dishwasher, and laundry machine. The other PhD students who visited me wanted to move in, since they needed housing, and the landlord and I showed them around the rooms, and one of them even mentioned to the landlord at the end having the funds to pay the full year's rent already — I don't remember why they ended up not moving in, but that was also clearly miraculous. However, I’m the admin/moderator of the university Facebook housing page, so, after there was no chance left of getting to keep the place to myself longer, having already lived there for a year, I ended up adding my landlord to that page, where, technically I'm not supposed to allow landlords, only students, and, thanks to the ad I ended up posting ([here it is](https://github.com/user-attachments/assets/dbe5ceff-3b06-4582-97fb-c13c30d00564)), I redirected inquiries to his email and his email flooded with other PhD students looking to fill that house, including one of the ones who’d originally wanted and planned to. The landlord’s house is now never lacking in interested grad students looking to rent from him. In fact, lucky for him, the neighboring building is now [a herbal apothecary](https://www.democratandchronicle.com/story/news/2019/09/19/little-apothecary-becomes-little-herbary-south-ave-rochester-ny/2365775001/), since it was abandoned when I lived there (due to, if I recall correctly, a murder, though I didn't know that moving in).
+
+And after extensive yoga.
+
+And after more than a year of regular meditation, starting from when I lived in that May St. house.
+
+- And, when I was psychotic in the woods, “God” told me to choose — “up” or “down” — with a throat movement situation that I sensed — where “up” meant “power” and “siding with men” and “down” meant siding with my mom. I chose down and kept choosing down
+- He also commanded me to put a stick in my butt while threatening to kill my mom, so I did that as well in the woods, uncomfortably, since I can’t even tolerate my own finger there
+  - Incidentally, this was all on Christmas, Christman Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that. And though this doesn't help my case to add, I barely knew it was Christmas since my family is Jewish and we don't celebrate
+
+Additional details:
+
+It was in that house when Aetna cut me off from Dupilumab, and it was after I’d started losing my hair and moved in with my mom that I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I entered psychosis, and it was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Lily (temporarily name-changed, while I’m still writing this).
+
+Oh I also grew out a full beard (except a really small patch probably from a lifetime of topical eczema creams) and full mustache while I lived in that May St. house based on some intuition, that I shaved on December 15th (since it was the day my best friend visited me at that house and encouraged me to shave it) some months before Aetna cut me off from the prescription to Dupilumab, but it was the first time I ever grew out my facial hair. [Here's a picture with my family at that house from my 22nd birthday](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144), not too long after I started to grow it out.
+
+I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary disciplines, while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center building neural models to predict the progression of Parkinson's disease, and that house is where I started to get my idea for how stochasticity in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature, hypothetically.
+
+> [!NOTE]
+> I'm actually proud of that psychosis because it proved how much I'd do to save a person's life, at least my mom's anyway.
+
+### Psychiatrists at the University of Rochester’s Strong Hospital
+
+I get hospitalized that second time months after that discharge from the first hospitalization, because my sister was worried; I’m fully lucid but sleep deprived, and I end up not sleeping another night; they force me to take benzodiazepines, not for the sleep deprivation, but I believe for mania or catatonia, at a dosage only prescribed for severe catatonia, so presumably that (I think maybe to prevent catatonia?). The dosage was so high... “and I was *so high*” is an accurate way to characterize the coerced drug’s unsolicited effect. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing as much GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
 
 Damn. I'm sorry. This is hard. 
 
-Clinicians come in, telling me I have to keep taking the benzos. It's not my choice. In the hospital, they threatened me that I had to or they would get a court order. The dose is huge. I also had a prescription before, for stress-induced eczema, and social anxiety. And I remember carefully tabulating when I could take one, but I only did rarely, mostly for social events if anxiety was too high. I knew they were dangerous. I warily took a quarter to a half of a milligram before, usually much less than once every two weeks, during the time when I took them at all, and that much left hangover symptoms. Not major hangovers, not like alcohol, but noticeable, next-day drowsiness and my cognition feeling blurred. That was before the hospitalization. The hospital rate was beyond unprecedented for me, a 5'5" 110lb guy.
+Even if they knew every detail about what happened from the previous hospitalization, daily coerced administration of benzos still wouldn’t have been medically helpful in that second hospitalization. Benzos don't do anything to treat the underlying issues involved in mania, and are extremely likely to worsen them. Their administration for halting catatonia is okay, but beyond that they aren't a medicine, but a drug.
+
+Clinicians come in, telling me I have to keep taking the benzos. It's not my choice. In the hospital, they threatened me that I had to or they would get a court order. The dose is huge, bigger than I'd ever taken. Other than the temporary dose I was given by a different doctor at RGH, I also had a prescription before, for stress-induced eczema, and social anxiety. And I remember carefully tabulating when I could take one, but I only did rarely, mostly for social events if anxiety was too high. I knew they were dangerous. I warily took a quarter to a half of a milligram before, usually much less than once every two weeks, during the time when I took them at all, and that much left hangover symptoms. Not major hangovers, not like alcohol, but noticeable, next-day drowsiness and my cognition feeling blurred. That was before the hospitalization. The hospital rate was beyond unprecedented for me, a 5'5" 110lb guy.
 
 I had to stay there for a month and they forced me to take 48x that dosage reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most, had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
 
@@ -171,6 +225,8 @@ You know, the way I learned about the calcification was because chunks of what I
 The steak-diet saved my ass.
 
 That Hell from the GABA downregulation didn't go away for more than a year, though the linguistics seem to want to say "for a full year" everytime I type this, even though more than a year and possibly ongoing is more accurate. Every neuron in my brain was behaving as if I was being mauled by a bear, without pause, day and night, every minute.
+
+The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the year of benzo neurochemical torture.
 
 And yep to mention the paranoia and distrust built from undergoing psychiatrist coercion (and malpractice), repeatedly being told I was going to be weaned off by the psychiatrists soon then relatively soon then at least eventually, and with the psychiatrist promises ultimately having proved to be straight-up lies, unjustified by any argument, all of my predictions still holding true and evidenced by the outcome and all of the psychiatrist self-contradicting plans causing the Hell on me that I warned them (the psychiatrists) of.
 
@@ -297,7 +353,22 @@ With respect to Chenliang, Chenliang wanted to allocate that Mechanical Engineer
 
 Meanwhile, under Niaz, in the Mechanical Engineering department, specicially Materials Science, I produced exactly the paper rate that she wanted, and through really hard work to make sure the ideas, experiments, grant-writing, data, and programming were all quality ([here is the GitHub repo I built for us](https://github.com/AGI-init/XRDs)).
 
-### Niaz Abdolrahim
+### Comedic Aside: Sexier moments during Chenliang tenure:
+
+Got to message someone named Tayler a week after my Taylor-CAM paper who reached out to me on Facebook who turned out to be a cam-girl ([“Taylor-CAM”](https://arxiv.org/abs/2006.08601))… and wasn’t as reproducible as I would’ve liked (she was barren), she also rejected me a few times like the conferences that rejected me (including the first time after all positive reviews)! I never met her.
+- She was quite a synchronicity because she went through a similar thing that I did on the same Christmas, 2018 night, except together with a bald Jewish guy (who she was married to at the time), and our interaction began exactly one week after I first archived my Taylor-CAM paper, my first-ever published paper, though I only realized all of this two years later when I was mourning that she’d stopped messaging with me on our coinciding November birthdays — yes really I’m serious. Well, coinciding week-wise. She was a couple years younger than me.
+
+Waxed wise with a close friend who I met on a trip to Israel many years back — someone who rather serendipitously was seated next to me on that plane — about reinforcement learning on Facebook, reconnected, and at his birthday party ran into someone who my religious friend (different guy incidentally) introduced me to years ago, who I then kept running into the next weeks at the beach literally by just remarkable luck, and each usually-accidental date we had was like a reinforcement learning episode, of me trying to listen to my subconscious and instinct, and getting rewarded or punished and ultimately the world’s lowest ever score aside from one much needed hug! We were both RL agents in that one (no not [“reinforcement learning agents”](https://github.com/slerman12/UnifiedMLold2/tree/master/Agents), “real life agents”)! The fun never ends. 
+
+The next summer I got another miraculous house situation where this really attractive person my age gave me a house rental without a lease with her lesbian roommate (roommates plural ‘cause girlfriend) and no background checks, where I came up with my [BittleBot idea with the methodology of using YouTube](https://github.com/AGI-init/Tributaries/blob/73e95d5006438f678507d0067025e484e66c6e73/Examples/Sweeps/Bittle.py#L11), and she was like a famous YouTuber, and not even the first talented YouTuber I got to meet (the other one by chance while I was editing [a YouTube video](https://youtu.be/VKoSfmECpx0?si=6PNBfaqbE-iY_GV8) in the park)! Then we never talked again (except the second person who I ran into a few years later, by a [physics-subverting](https://www.nature.com/articles/s41524-023-01164-8) precognitive sense that I can’t even describe here, who I talked to around the theme of “firing” just before I wrote [this essay about fire](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Fire.md) and Chenliang called me in to notify/“fire” me I didn’t get him enough papers — not sure what that would’ve entailed considering the statistically significant correlations of all of these probably deserving [their own interrogation of p-value](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/quackery.md)).
+
+Somebody I was texting, who I knew from undergrad, was planning to go to Acadia National Park with me, and that inspired me to call my [rQdia paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=rqdia&btnG=) “rQdia” (pronounced Arcadia), but that one was on purpose, and it was rejected, and we ended up not going (it’s still in the not-really-planned-but-hypothetical books)!
+
+Well, I suppose there was the thanksgiving with Lily (as mentioned above, in [a relevant chapter](#hospitalization)), which I also appreciated (and appreciate) and give thanks to.
+
+That’s all the very brief glimpses of [happiness](https://github.com/user-attachments/assets/236cf39c-c0a4-45e2-b932-18f62195edd2) I got under Chenliang. Resume tragedy. 
+
+### Niaz Abdolrahim (okay, some more not-tragedy)
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/93e5513c-604f-4f07-aa9f-8d8e9f61fd9c">
@@ -584,4 +655,3 @@ That’s the whole story, and where in there is even the slightest administrativ
 2. Something I didn't mention or elaborate on here yet: Chenliang lied, as soon as I sent [my first email](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) to the committee. Here's a story that Chenliang knows is true: After he notified me of his leaving and my income being cut, I reached out my hand to shake his hand, he didn't shake it, and then I said, "I consider you someone I personally hold dear", and patted my heart with my hand as I left his office and another student entered. I meant it. That's why I refrained from telling the other committee members and Michael that Chenliang lied in his reply email until after they had formally notified me of my termination. This was the fabrication, on email: "Dr. Niaz Abdolrahim delivered my message to you [... that] I can continue to provide funding support (Sep, Oct, Nov)." No, she did not. She didn't say anything about continued funding support. She can confirm, though she didn't risk their professional relationship by replying either when I CC'd her. Even if she had offered any words of financial security for between then and November, November time limit before losing my funding and having to find my — what, fourth? After Charles, Henry, and Chenliang — PhD advisor, in my 6th year, on short-notice, in the context of the extreme work I did across many labs including mostly uncredited work, and what that same institution induced, would still be Kafkaesque and unacceptable.
 3. I built a whole machine learning web app for the Med Center, professional and beautiful, a web app that prognosticated a patient's Parkinson's disease progression based on inputs using machine learning models that I trained, that they later outsourced to a team of programmers who could scale it, and at-least planned to patent it and contacted a patent lawyer, then ignored the fact that it was my idea, that I had to convince them of the idea, prove that it gets good reception by presenting it to major researchers at a conference in DC in front of them (uncredited), and that I literally built a fully functioning and elegant prototype, concluding with all of them pretending that I had no involvement as they were handing it over to build from scratch to a hired professional web dev team with me trying to chime in and getting ignored at the table as if it was a brand new idea that they didn't realize was in any way affiliated with me, and perhaps that was necessary for the patent.
 4. If they appreciated my research, I would not want the brand new interim committe to be interim. I would've wanted to include all of them on my committee and give them credit and attribution for my thesis.
-
