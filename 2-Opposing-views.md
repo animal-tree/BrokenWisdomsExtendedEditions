@@ -81,7 +81,7 @@ About 5 - 8 months after the hair loss, I had a psychotic episode (no prior hist
 - I’d kind of intimately shaken hands with the police officers prior to the catatonia, so I think that’s what triggered that bullying;
 - then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile when she did that — not like an insincere smile, a smile because I desperately needed that love and warmth, and was afraid;
 - and the doctor reassured her that I wasn’t conscious;
-- the "catatonia" might've not been catatonia since it stemmed from a conscious cognitive delusion, in which I was obseying a yogic-type control of my body, but which did not immobilize me if I made the cognitive choice to surrender the obedience, which i didn't, because my mom's life was still being threatened in my mind;
+- the "catatonia" might've not been catatonia since it stemmed from a conscious cognitive delusion, in which I was obseying a yogic-type control of my body, but which did not immobilize me if I made the cognitive choice to surrender the obedience, which I didn't, because I was afraid that my mom was going to die if I did;
 - I also gave the “for pleasure” answer to the psychiatrist, who diagnosed me with a manic episode and catatonia;
 - then RGH discharged me two weeks later;
 - months later I stayed in the University of Rochester’s Strong Hospital since I hadn’t slept all night one night and my sister suspected I might be going through another manic episode;
