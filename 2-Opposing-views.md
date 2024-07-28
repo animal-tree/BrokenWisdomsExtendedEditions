@@ -654,7 +654,7 @@ add details about vision and dental coverage in the student insurance policy, an
 - And that I had to pay out of pocket for glasses, but with deadlines from the university, I missed the prescription filing deadline for the prescription I got for those glasses, and had to pay the full sum anyway, without even receiving the glasses I needed
 - I was seeing my therapist who I'd seen since 12th grade of high school, and Aetna (the university's health insurance policy) was charging me about $10 per session. Without warning, they stopped covering my therapist's regular prices and I ended up getting multiple bills in the hundreds of dollars from them. So I couldn't afford to see him anymore. This was after the medical trauma. 
 
-### ”Circumcision”
+”Circumcision" details:
 
 I got a clamp iron. How to describe the other tool I used?
 
@@ -668,7 +668,7 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 
 #
 
-Yes, the University of Rochester health insurance wanted to bill me for therapy.
+I was seeing my therapist who I'd seen since 12th grade of high school, and Aetna (the university's health insurance policy) was charging me about $10 per session. Without warning, they stopped covering my therapist's regular prices and I ended up getting multiple bills in the hundreds of dollars from them. So I couldn't afford to see him anymore. This price gouging was years after any medical event or hospitalization, and unjustified by any reason.
 
 ## Additional details for part 3
 
