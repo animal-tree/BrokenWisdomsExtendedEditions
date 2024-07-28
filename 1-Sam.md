@@ -28,7 +28,8 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
   - [Opposing views](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
     - Part 2 (University-hospital psychiatrists, University outpatient doctor, University psychiatric ward janitor, University-hospital police officers)
-      - Psychosis 
+      - Psychosis and Rochester General Hospital (RGH) 
+      - Psychiatrists at the University of Rochester’s Strong Hospital
       - Benzodiazepine mechanism of action
       - Hospitalization
       - My... trauma
@@ -36,7 +37,8 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Charles Venuto
       - Henry Kautz
       - Chenliang Xu
-      - Niaz Abdolrahim
+      - Comedic Aside: Sexier moments during Chenliang tenure:
+      - Niaz Abdolrahim (okay, some more not-tragedy)
       - Chris Kanan
       - Tom Howard
       - Charles Venuto
