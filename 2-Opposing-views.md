@@ -121,10 +121,11 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 - "God" telling me to wait like that for three days, with my jaw clenched;
 - a couple days later, benzos brought me out of the pseudo-catatonia;
 - I also gave the “for pleasure” answer to the psychiatrist, who diagnosed me with a manic episode and catatonia;
-- then RGH discharged me two weeks later;
-- **months later I stayed in the University of Rochester’s Strong Hospital since I hadn’t slept all night one night and my sister suspected I might be going through another manic episode;**
-- **subsequent doctors didn’t question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
-- **I don’t remember what reason they had for holding me there, other than my mom and sister wanting them to because my sister was worried.**
+- then RGH discharged me two weeks later.
+- then classes started again, and **months since the first hospitalization, at RGH**, I ended up not sleeping all night; 
+- my sister was visiting and suspected I might be going through another manic episode and drove me to **the University of Rochester’s Strong Hospital;**
+- **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
+- **I was there based on sleep deprivation.**
 
 > [!NOTE]
 > I'm actually proud of that psychosis because it proved how much I'd do to save a person's life, at least my mom's anyway.
