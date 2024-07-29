@@ -91,6 +91,7 @@ About 5 - 8 months after the hair loss, on Chrsitmas Eve, 2018, I had a psychoti
   - I cleaned up the blood with paper towels;
 - then God telling me “He” was going to kill my mom if I didn’t go somewhere;
 - staying in the woods in the freezing snow all day and night;
+- "God" telling me I had to stay there for one week;
 - “God” telling me to choose — “up” or “down” — with a throat movement situation that I sensed — where “up” meant “power” and “siding with men” and “down” meant siding with my mom, and I chose down and kept choosing down;
 - "God" commanding me to put a stick in my butt while threatening to kill my mom, so I did that as well in the woods, uncomfortably, since I can’t even tolerate my own finger there;
   - incidentally, this was all on Christmas, Christman Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas since my family is Jewish and we don't celebrate;
