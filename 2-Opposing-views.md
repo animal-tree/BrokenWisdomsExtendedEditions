@@ -86,8 +86,11 @@ About 5 - 8 months after the hair loss, on Chrsitmas Eve, 2018, I had a psychoti
 - circumcising myself;
 - then God telling me “He” was going to kill my mom if I didn’t go somewhere;
 - staying in the woods in the freezing snow all day and night;
+- “God” telling me to choose — “up” or “down” — with a throat movement situation that I sensed — where “up” meant “power” and “siding with men” and “down” meant siding with my mom, and I chose down and kept choosing down;
+- "God" commanding me to put a stick in my butt while threatening to kill my mom, so I did that as well in the woods, uncomfortably, since I can’t even tolerate my own finger there;
+  - incidentally, this was all on Christmas, Christman Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas since my family is Jewish and we don't celebrate;
 - “God” telling me my mom was drowning in the freezing brook;
-- me jumping in the freezing brook to save my mom who the whole time I thought was dying;
+- me jumping in the freezing brook to save my mom who the whole time I thought was dying, and now thought was drowning in the brook;
 - me crawling out of the freezing brook feeling unable to move due to the cold, as I envisioned that my mom was dead having drowned, smiling at me with deep defeat from beyond the realms of consciousness, and that I was going to resurrect as my paralyzed wheelchair-bound neighbor who got registered as a sex-offender because of internet child porn, who depended on his 80-something year-old mom to take care of him to function, who smelled like pee, who constantly made our whole apartment hallway reek of pee, and who was an alcoholic, a Ukranian man in his 50s named Volyoda who, interestingly, ended up dying later that subsequent year in a psychosis revolving around his mom dying; and — resuming the part about me — 
 - me then screaming for the ambulance to a full moon in the woods, my voice randomly and suddenly sounding insincere;
 - my pants had fallen partially down my legs when I had crawled out of the brook and God “told me” not to adjust them on faith;
@@ -107,14 +110,6 @@ About 5 - 8 months after the hair loss, on Chrsitmas Eve, 2018, I had a psychoti
 - months later I stayed in the University of Rochester’s Strong Hospital since I hadn’t slept all night one night and my sister suspected I might be going through another manic episode;
 - subsequent doctors didn’t question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;
 - I don’t remember what reason they had for holding me there, other than my mom and sister wanting them to because my sister was worried).
-
-
-
-- And, when I was psychotic in the woods, “God” told me to choose — “up” or “down” — with a throat movement situation that I sensed — where “up” meant “power” and “siding with men” and “down” meant siding with my mom. I chose down and kept choosing down
-- He also commanded me to put a stick in my butt while threatening to kill my mom, so I did that as well in the woods, uncomfortably, since I can’t even tolerate my own finger there
-  - Incidentally, this was all on Christmas, Christman Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that. And though this doesn't help my case to add, I barely knew it was Christmas since my family is Jewish and we don't celebrate
-
-
 
 > [!NOTE]
 > I'm actually proud of that psychosis because it proved how much I'd do to save a person's life, at least my mom's anyway.
