@@ -74,9 +74,9 @@ I was working really hard in that house, developing my long-term memory research
 
 I was sleeping in one of the second bedrooms, when, on a rare occasion, my housemate friend and his girlfriend woke me climbing up the stairs. Somehow I had a sudden realization, near around 3 AM or whatever time it was in that night, that the universe's particles might be random, and therefore can be shifted by slight standard deviations by an intelligence — like the biological or artificial kind — in such a way that still respects the known laws of physics and yet permits the possibility of an intelligent nature, that can modulate how those particles are sampled with respect to the sampling distributions.
 
-It was in that house when Aetna cut me off from Dupilumab.
-
 In that house and thereafter (continuing for years, mostly without pause), I practiced many disciplines, including meditation, strict dietary and ascetic disciplines, and, later, yoga.
+
+It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
 
 After that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized. It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Lily (temporarily name-changed, while I’m still writing this).
 
