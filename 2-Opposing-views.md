@@ -126,10 +126,10 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 > [!NOTE]
 > I'm actually proud of that psychosis because it proved how much I'd do to save a person's life, at least my mom's anyway.
   
-- then classes started again, and **months since the first hospitalization, at RGH**, I ended up not sleeping all night; 
+- **Months since the first hospitalization**, I end up not sleeping all night; 
 - my sister was visiting and suspected I might be going through another manic episode and drove me to **the University of Rochester’s Strong Hospital;**
 - **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
-- **I was there based on sleep deprivation.**
+- **I was there because my sister was worried.**
 
 ### Psychiatrists at the University of Rochester’s Strong Hospital
 
