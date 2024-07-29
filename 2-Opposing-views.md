@@ -110,6 +110,9 @@ About 5 - 8 months after the hair loss, on Chrsitmas Eve, 2018, I had a psychoti
 
 There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The ambulance driver had a big bushy white beard that only now, as I’m remembering, do I sense some irony of humor about his rather out of the ordinary decision to visit me in the hospital room to check in, like coming off his ambulance sleigh to wish me a sardonic Christmas). 
 
+> [!NOTE]
+> I'm actually proud of that psychosis because it proved how much I'd do to save a person's life, at least my mom's anyway.
+
 - Then, after they dragged me to another room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it;
 - I went into a conscious catatonia and stayed still due to a “command from God” to do so, even as the doctors, who thought I was unconscious, chatted about me being “Jesus” bullying/sarcastically while they dragged my body to the MRI machine;
 - I’d kind of intimately shaken hands with the police officers prior to the catatonia, so I think that’s what triggered that bullying;
@@ -126,9 +129,6 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 - my sister was visiting and suspected I might be going through another manic episode and drove me to **the University of Rochester’s Strong Hospital;**
 - **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
 - **I was there based on sleep deprivation.**
-
-> [!NOTE]
-> I'm actually proud of that psychosis because it proved how much I'd do to save a person's life, at least my mom's anyway.
 
 ### Psychiatrists at the University of Rochester’s Strong Hospital
 
