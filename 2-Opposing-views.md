@@ -119,7 +119,7 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 - there was a lot of confusion after the catatonia, so the information about my foreskin didn’t pass from nurse 1 to people N, or else “mania” wouldn’t have been the diagnosis, and more questions would’ve been asked;
 - that nurse was just there to help thaw my legs to prevent hypothermia and frostbite;
 - then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile when she did that — not like an insincere smile, a smile because I desperately needed that love and warmth, and was afraid;
-- and the doctor reassured her that I wasn’t conscious;
+- and the doctor reassured her that I wasn’t (conscious);
 - the "catatonia" might've not been catatonia since it stemmed from a conscious cognitive delusion, in which I was obseying a yogic-type control of my body, but which did not immobilize me if I made the cognitive choice to surrender the obedience, which I didn't, because I was afraid that my mom was going to die if I did;
 - "God" telling me to wait like that for three days, with my jaw clenched;
   - this detail also doesn't get shared with anyone;
