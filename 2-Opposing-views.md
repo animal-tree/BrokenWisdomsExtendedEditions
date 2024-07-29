@@ -76,7 +76,7 @@ It was in that house when Aetna cut me off from Dupilumab.
 
 In that house and thereafter (continuing for years, mostly without pause), I practiced many disciplines, including meditation, strict dietary and ascetic disciplines, and, later, yoga.
 
-It was in that house that I’d started losing my hair, after which I moved in with my mom and came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized. It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Lily (temporarily name-changed, while I’m still writing this).
+After that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized. It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Lily (temporarily name-changed, while I’m still writing this).
 
 ### Psychosis and Rochester General Hospital (RGH)
 
