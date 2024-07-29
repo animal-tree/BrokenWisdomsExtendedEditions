@@ -119,6 +119,7 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 - and the doctor reassured her that I wasn’t conscious;
 - the "catatonia" might've not been catatonia since it stemmed from a conscious cognitive delusion, in which I was obseying a yogic-type control of my body, but which did not immobilize me if I made the cognitive choice to surrender the obedience, which I didn't, because I was afraid that my mom was going to die if I did;
 - "God" telling me to wait like that for three days, with my jaw clenched;
+  - this detail also doesn't get shared with anyone;
 - a couple days later, benzos brought me out of the pseudo-catatonia;
 - I also gave the “for pleasure” answer to the psychiatrist, who diagnosed me with a manic episode and catatonia;
 - then RGH discharged me two weeks later.
