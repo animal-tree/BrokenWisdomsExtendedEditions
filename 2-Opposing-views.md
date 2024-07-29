@@ -107,9 +107,9 @@ About 5 - 8 months after the hair loss, on Chrsitmas Eve, 2018, I had a psychoti
 - the "catatonia" might've not been catatonia since it stemmed from a conscious cognitive delusion, in which I was obseying a yogic-type control of my body, but which did not immobilize me if I made the cognitive choice to surrender the obedience, which I didn't, because I was afraid that my mom was going to die if I did;
 - I also gave the “for pleasure” answer to the psychiatrist, who diagnosed me with a manic episode and catatonia;
 - then RGH discharged me two weeks later;
-- months later I stayed in the University of Rochester’s Strong Hospital since I hadn’t slept all night one night and my sister suspected I might be going through another manic episode;
-- subsequent doctors didn’t question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;
-- I don’t remember what reason they had for holding me there, other than my mom and sister wanting them to because my sister was worried).
+- **months later I stayed in the University of Rochester’s Strong Hospital since I hadn’t slept all night one night and my sister suspected I might be going through another manic episode;**
+- **subsequent doctors didn’t question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
+- **I don’t remember what reason they had for holding me there, other than my mom and sister wanting them to because my sister was worried**).
 
 > [!NOTE]
 > I'm actually proud of that psychosis because it proved how much I'd do to save a person's life, at least my mom's anyway.
