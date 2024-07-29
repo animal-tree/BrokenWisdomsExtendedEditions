@@ -679,7 +679,7 @@ I got a clamp iron. How to describe the other tool I used?
 
 There was a lot of confusion after the catatonia, so that information didn’t pass from nurse 1 to people N, or else “mania” wouldn’t have been the diagnosis, and more questions would’ve been asked. That nurse was just there to help thaw my legs to prevent hypothermia and frostbite. 
 
-[add details from MyChart]
+[add details about frostbite/hypothermia situation from MyChart, which notably includes nothing about any of teh details of the psychosis, including any circumcision]
 
 There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The ambulance driver had a big bushy white beard that only now, as I’m remembering, do I sense some irony of humor about his rather out of the ordinary decision to visit me in the hospital room to check in, like coming off his ambulance sleigh to wish me a sardonic Christmas). 
 
