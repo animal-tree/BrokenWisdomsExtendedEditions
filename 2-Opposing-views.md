@@ -84,6 +84,10 @@ About 5 - 8 months after the hair loss, on Chrsitmas Eve, 2018, I had a psychoti
 
 - God telling me “He” was going to kill my mom if I didn’t circumcise myself;
 - circumcising myself;
+  - I got a clamp iron, and — how to describe the other tool I used? —
+  - “saw knife” might not be what it’s called,
+  - a kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by;
+  - I think “God” figured “good enough” after that, seeing as all my strength was used, and blood over the kitchen floor that I cleaned up in case my mom saw;
 - then God telling me “He” was going to kill my mom if I didn’t go somewhere;
 - staying in the woods in the freezing snow all day and night;
 - “God” telling me to choose — “up” or “down” — with a throat movement situation that I sensed — where “up” meant “power” and “siding with men” and “down” meant siding with my mom, and I chose down and kept choosing down;
@@ -99,17 +103,25 @@ About 5 - 8 months after the hair loss, on Chrsitmas Eve, 2018, I had a psychoti
 - “God told me” to tell the ambulance responders that I was in there “for pleasure” on a faith regarding my pants that had partially fallen over my boxers and the sex-offender resurrection vision, which I did;
 - and that was all I told the ambulance responders or the first nurses about what happened — “for pleasure”;
 - my legs were thawed in some machine and my mom arrived and I was still afraid she was going to die, but I didn’t say anything;
-- then, after they dragged me to another room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it;
+- a nurse, but no one else, saw and remarked on the slice/gash on my foreskin;
+- the foreskin eventually healed, and that is a miracle;
+- [add details about frostbite/hypothermia situation from MyChart, which notably includes nothing about any of the details of the psychosis, including any circumcision]).
+
+There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The ambulance driver had a big bushy white beard that only now, as I’m remembering, do I sense some irony of humor about his rather out of the ordinary decision to visit me in the hospital room to check in, like coming off his ambulance sleigh to wish me a sardonic Christmas). 
+
+- Then, after they dragged me to another room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it;
 - I went into a conscious catatonia and stayed still due to a “command from God” to do so, even as the doctors, who thought I was unconscious, chatted about me being “Jesus” bullying/sarcastically while they dragged my body to the MRI machine;
 - I’d kind of intimately shaken hands with the police officers prior to the catatonia, so I think that’s what triggered that bullying;
+- there was a lot of confusion after the catatonia, so the information about my foreskin didn’t pass from nurse 1 to people N, or else “mania” wouldn’t have been the diagnosis, and more questions would’ve been asked;
+- that nurse was just there to help thaw my legs to prevent hypothermia and frostbite;
 - then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile when she did that — not like an insincere smile, a smile because I desperately needed that love and warmth, and was afraid;
 - and the doctor reassured her that I wasn’t conscious;
-- the "catatonia" might've not been catatonia since it stemmed from a conscious cognitive delusion, in which I was obseying a yogic-type control of my body, but which did not immobilize me if I made the cognitive choice to surrender the obedience, which I didn't, because I was afraid that my mom was going to die if I did;
+- the "catatonia" might've not been catatonia since it stemmed from a conscious cognitive delusion, in which I was obseying a yogic-type control of my body, but which did not immobilize me if I made the cognitive choice to surrender the obedience, which I didn't, because I was afraid that my mom was going to die if I did.
 - I also gave the “for pleasure” answer to the psychiatrist, who diagnosed me with a manic episode and catatonia;
 - then RGH discharged me two weeks later;
 - **months later I stayed in the University of Rochester’s Strong Hospital since I hadn’t slept all night one night and my sister suspected I might be going through another manic episode;**
 - **subsequent doctors didn’t question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
-- **I don’t remember what reason they had for holding me there, other than my mom and sister wanting them to because my sister was worried**).
+- **I don’t remember what reason they had for holding me there, other than my mom and sister wanting them to because my sister was worried.**
 
 > [!NOTE]
 > I'm actually proud of that psychosis because it proved how much I'd do to save a person's life, at least my mom's anyway.
@@ -670,18 +682,6 @@ add details about vision and dental coverage in the student insurance policy, an
 - Those details include that I had to see the dentist for the damage the university did to me (the tooth chunks falling out from benzo-induced teeth calcification), and the university’s health insurance didn’t cover dental
 - And that I had to pay out of pocket for glasses, but with deadlines from the university, I missed the prescription filing deadline for the prescription I got for those glasses, and had to pay the full sum anyway, without even receiving the glasses I needed
 - I was seeing my therapist who I'd seen since 12th grade of high school, and Aetna (the university's health insurance policy) was charging me about $10 per session. Without warning, they stopped covering my therapist's regular prices and I ended up getting multiple bills in the hundreds of dollars from them. So I couldn't afford to see him anymore. This price gouging was years after any medical event or hospitalization, and unjustified by any reason. Not to mention, the severest of the traumas were induced by the university who was providing the health insurance as part of my employment.
-
-”Circumcision" details:
-
-I got a clamp iron. How to describe the other tool I used?
-
-“Saw knife” might not be what it’s called. A kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by. I think “God” figured “good enough” after that, seeing as all my strength was used and, later in the hospital, a nurse (but no one else) saw and remarked on the slice/gash, which over the next weeks did heal. That (the part at the very tip of that sentence) is a miracle. 
-
-There was a lot of confusion after the catatonia, so that information didn’t pass from nurse 1 to people N, or else “mania” wouldn’t have been the diagnosis, and more questions would’ve been asked. That nurse was just there to help thaw my legs to prevent hypothermia and frostbite. 
-
-[add details about frostbite/hypothermia situation from MyChart, which notably includes nothing about any of teh details of the psychosis, including any circumcision]
-
-There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The ambulance driver had a big bushy white beard that only now, as I’m remembering, do I sense some irony of humor about his rather out of the ordinary decision to visit me in the hospital room to check in, like coming off his ambulance sleigh to wish me a sardonic Christmas). 
 
 #
 
