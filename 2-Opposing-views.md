@@ -87,7 +87,8 @@ About 5 - 8 months after the hair loss, on Chrsitmas Eve, 2018, I had a psychoti
   - I got a clamp iron, and — how to describe the other tool I used? —
   - “saw knife” might not be what it’s called,
   - a kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by;
-  - I think “God” figured “good enough” after that, seeing as all my strength was used, and blood over the kitchen floor that I cleaned up in case my mom saw;
+  - I think “God” figured “good enough” after that, seeing as all my strength was used, and blood was over the kitchen floor;
+  - I cleaned up the blood with paper towels;
 - then God telling me “He” was going to kill my mom if I didn’t go somewhere;
 - staying in the woods in the freezing snow all day and night;
 - “God” telling me to choose — “up” or “down” — with a throat movement situation that I sensed — where “up” meant “power” and “siding with men” and “down” meant siding with my mom, and I chose down and kept choosing down;
