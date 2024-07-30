@@ -80,7 +80,7 @@ It was in that house when Aetna cut me off from Dupilumab and my hair started fa
 
 After that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized. It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Lily (temporarily name-changed, while I’m still writing this).
 
-### Spiritual Birth, or Psychosis, and Rochester General Hospital (RGH)
+### Psychosis, and Rochester General Hospital (RGH)
 
 About 5 - 8 months after the hair loss, on Chrsitmas Eve, 2018, I had a psychotic episode (no prior history, not even of mania) that was diagnosed as a “manic episode” (but in my "opinion," by an ordinary psychiatric definition, was "psychotic," since the two days of it prior to the hospitalization involved: 
 
