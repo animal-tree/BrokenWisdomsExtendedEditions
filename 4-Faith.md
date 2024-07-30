@@ -80,6 +80,8 @@ CMT deleted their record of my MHDPA innovation paper, the one that foretold Cha
 
 The head of OpenAI, the company that invented ChatGPT (that used the same method I was still uncredited for by my university for foretelling to them), whose name is "Sam Altman" (mine is Sam Lerman), and "Altman" does not mean "teacher," was terminated as the head of OpenAI in an unusually sensationalized situation exactly 17 days after my termination, then was brought back.
 
+They were working on some AGI project called Q* broaching on my field of study.
+
 ### The “life ruined” post being deleted 5 months after I emailed it to the faculty/administrators, after having shown it to Niaz who commented in person about it, and writing BrokenWisdoms as a result of the depression and fear that came from losing my only description of those events, one I hadn’t backed up anywhere, with comments from others about having experienced similar things, the trauma of benzodiazepine addiction/coercion, and expressing extreme sympathy, and it was the top post in that for 4-ish years running
 
 Description
