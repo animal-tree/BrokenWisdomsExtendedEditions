@@ -69,13 +69,14 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Allies
       - Enemies
     - Synchronicities
-      - Deus ex memory
+      - Chris Kanan (Deus ex memory)
+      - Jordan Peterson
+      - Mikhaila Peterson
       - Timing of benzodiazepine coercion diagram
+      - CMT deletion of record
       - "Sam Altman" same-time termination, OpenAI's Q* project
       - "Life ruined" post
-      - Mikhaila Peterson steak-only diet concurrent recommendation
-      - Jordan Peterson's sensationalized Benzo-brain damage timing
-      - House on May St. where I came up with my long-term memory research ideas, and realized that stochasticism in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature
+      - House on May St.
       - Physics
   - Thesis
     - [Early work in program](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md)   
