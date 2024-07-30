@@ -50,7 +50,7 @@ Prior to that, by coincidence, his daughter Mikhaila (thankfully) recommended th
 
 ### Covid
 
-Then Covid interestingly happened when I joined an all-Chinese lab (Chenliang’s). Almost like he was taking vengeance for me, since such pragmatic ruthlessness is in [his](governance) nature.
+Then Covid interestingly happened when I joined an all-Chinese lab (Chenliang’s). Almost like he was taking vengeance for me, since such pragmatic ruthlessness is in [his](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md) nature.
 
 Note: I didn't make this association.
 
