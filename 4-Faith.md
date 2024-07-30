@@ -49,22 +49,13 @@ Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.
 - There was also [one more synchronicity]() involving Chris Kanan that I’ll leave for Ancillary.
 - I never met Chris Kanan in person and my advisor suggested him as one of the last-minute replacement committee members. Note: I don't think he should be punished for this. I think whatever powers-that-be that regulate his consciousness proved stronger than the ones that facilitate the atmosphere/landscape of the formal University of Rochester, and did good amid impossible programming.
 
-### Jordan Peterson
+### Jordan Peterson's sensationalized Benzo-brain damage timing
 
 My benzo trauma was with a [comparatively](https://www.mdcalc.com/calc/10091/benzodiazepine-conversion-calculator) higher dose than what Jordan Peterson took (he took approximately 12% - 80% the dose I did, and that's when I was taking them at the lowest dose the psychistrists had reduced to), and preceded the situation Mikhaila Peterson, his daughter, described (originally on her channel), about how the professional psychoanalyst was caught off guard by the severe damages that the drugs caused, wherein he took [0.5 mg](https://ashnavabi.com/2022/01/19/jordan-peterson-was-not-addicted-to-benzos/) of [Clonazepam](https://windwardway.com/rehab-blog/jordan-peterson-finishes-lengthy-treatment-for-addiction/) per day as prescribed, reportedly, and unlike him I didn’t have the entire Russian army brigade bringing me into health (he went to Russia, where they were the first to have the medicine and specialized treatment to help him).
 
-### Mikhaila Peterson
+### Mikhaila Peterson steak-only diet concurrent recommendation
 
 Prior to that, by coincidence, his daughter Mikhaila (thankfully) recommended the steak-only diet (for an independent thing), which is where I heard it from, a clip from her podcast. That’s a global-level synchronicity involving them that happened after I was put through all of this crisis, which contributed to bringing me out, as well as my hair growing back, thanks to her diet recommendation.
-
-### Covid
-
-Then Covid interestingly happened when I joined an all-Chinese lab (Chenliang’s). Almost like he was taking vengeance for me, since such pragmatic ruthlessness is in [his](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md) nature.
-
-Note: I didn't make this association.
-
-### Translations
- Also wasn’t unfitting given my Taoist practices and interests, which is one of the most peaceful religions on Earth, credited to the Chinese, namely Laozi, not Chenliang, and good translators including Richard Wilhelm, who was German (and “Lerman” is actually of German Ashkenazi root, meaning “teacher,” also a good translator, of [ancient wisdom](https://github.com/animal-tree/BrokenWisdomsExtendedEditions/blob/main/Philosophy/My-Spirituality.md), [convoluted](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md) AI topics for Chenliang’s somewhat-[convoluted](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md) lab group, [complex math](https://github.com/slerman12/Teaching/blob/master/Other%20materials/Integrals.md), [myth](https://github.com/animal-tree/BrokenWisdomsExtendedEditions/blob/main/Philosophy/Cosmogenesis-Myth.md), [chemistry](https://github.com/animal-tree/BrokenWisdomsExtendedEditions/blob/main/Philosophy/Fire.md), and now [apparently physics](https://github.com/animal-tree/BrokenWisdomsExtendedEditions/blob/main/Philosophy/Velocity-Addition-Formula.md)). 
 
 ### Timing of benzodiazepine coercion [diagram](https://github.com/slerman12/Detective-Sam/assets/9126603/497f6d9b-ff12-4e6a-97c5-e5230c05e505)
 
