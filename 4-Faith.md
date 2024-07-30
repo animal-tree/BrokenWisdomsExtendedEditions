@@ -40,7 +40,7 @@ Screenshots
 
 Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.org/wiki/Synchronicity) happened that can be listed below and I leave for your judgement on their metaphysical or coincidental nature.
 
-### Deus ex memory
+### Chris Kanan (Deus ex memory)
 
 - Indeed, my faith regarding sending my sincere description of the traumas, despite the difficulty of doing so, was somewhat rewarded, though probably not by their conscious intent, rather by a lucky [“Deus Ex Memory”](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md), wherein one of the 3 committee members (accidentally) recorded to official record that he really-extraordinarily didn’t remember the details of the meeting on which their termination was based.
 - Following this [“Deus Ex Memory”](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md) exchange with Chris Kanan, I had yet another reply I wanted to send afterwards that would’ve ruined the conclusive punctuation of the previous, and by chance my internet went down or some disruption to the internet happened after hitting send and I was really lucky that it didn’t go through, leaving this exchange on the note of “we all know what just happened,” and a strong discredit to the committee's judgement-making thoughtfulness and memory.
@@ -49,11 +49,11 @@ Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.
 - There was also [one more synchronicity]() involving Chris Kanan that I’ll leave for Ancillary.
 - I never met Chris Kanan in person and my advisor suggested him as one of the last-minute replacement committee members. Note: I don't think he should be punished for this. I think whatever powers-that-be that regulate his consciousness proved stronger than the ones that facilitate the atmosphere/landscape of the formal University of Rochester, and did good amid impossible programming.
 
-### Jordan Peterson's sensationalized Benzo-brain damage timing
+### Jordan Peterson
 
 My benzo trauma was with a [comparatively](https://www.mdcalc.com/calc/10091/benzodiazepine-conversion-calculator) higher dose than what Jordan Peterson took (he took approximately 12% - 80% the dose I did, and that's when I was taking them at the lowest dose the psychistrists had reduced to), and preceded the situation Mikhaila Peterson, his daughter, described (originally on her channel), about how the professional psychoanalyst was caught off guard by the severe damages that the drugs caused, wherein he took [0.5 mg](https://ashnavabi.com/2022/01/19/jordan-peterson-was-not-addicted-to-benzos/) of [Clonazepam](https://windwardway.com/rehab-blog/jordan-peterson-finishes-lengthy-treatment-for-addiction/) per day as prescribed, reportedly, and unlike him I didn’t have the entire Russian army brigade bringing me into health (he went to Russia, where they were the first to have the medicine and specialized treatment to help him).
 
-### Mikhaila Peterson steak-only diet concurrent recommendation
+### Mikhaila Peterson
 
 Prior to that, by coincidence, his daughter Mikhaila (thankfully) recommended the steak-only diet (for an independent thing), which is where I heard it from, a clip from her podcast. That’s a global-level synchronicity involving them that happened after I was put through all of this crisis, which contributed to bringing me out, as well as my hair growing back, thanks to her diet recommendation.
 
