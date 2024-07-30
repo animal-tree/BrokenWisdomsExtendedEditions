@@ -70,7 +70,7 @@ I finished making this [benzo-timeline diagram](https://github.com/slerman12/Det
 - There was also [one more synchronicity]() involving Chris Kanan that I’ll leave for Ancillary.
 - I never met Chris Kanan in person and my advisor suggested him as one of the last-minute replacement committee members. Note: I don't think he should be punished for this. I think whatever powers-that-be that regulate his consciousness proved stronger than the ones that facilitate the atmosphere/landscape of the formal University of Rochester, and did good amid impossible programming.
 
-### I foretold ChatGPT and CMT minimized the loss
+### CMT minimized the loss
 
 Description [truncate]
 
