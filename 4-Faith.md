@@ -46,7 +46,7 @@ My benzo trauma was with a [comparatively](https://www.mdcalc.com/calc/10091/ben
 
 ### Mikhaila Peterson
 
-Prior to that, by coincidence, his daughter Mikayla (thankfully) recommended the steak-only diet (for an independent thing), which is where I heard it from, a clip from her podcast. That’s a global-level synchronicity involving them that happened after I was put through all of this crisis, which contributed to bringing me out, as well as my hair growing back, thanks to her diet recommendation.
+Prior to that, by coincidence, his daughter Mikhaila (thankfully) recommended the steak-only diet (for an independent thing), which is where I heard it from, a clip from her podcast. That’s a global-level synchronicity involving them that happened after I was put through all of this crisis, which contributed to bringing me out, as well as my hair growing back, thanks to her diet recommendation.
 
 ### Covid
 
