@@ -163,19 +163,19 @@ The antipsychotics I accepted, but the catatonia “medicine” — benzos — I
 
 By the way, my mom even prevented electroshock therapy (as you'll see later, not all patients were so lucky). I had my mom ask them not to give me the benzos, and they either convinced her enough, or she had no say.
 
-Benzos are a drug with similar effects and risks to alcohol and an alcohol-like mechanism of action (GABA), and the longer one takes them, the more one’s brain changes states to downregulate, neurologically like a hangover, even from one dose, let alone daily for months at obscene doses. 
+<!-- Benzos are a drug with similar effects and risks to alcohol and an alcohol-like mechanism of action (GABA), and the longer one takes them, the more one’s brain changes states to downregulate, neurologically like a hangover, even from one dose, let alone daily for months at obscene doses. -->
 
-Benzos are alcohol in a pill. The results of the studies that claim to support their use in the long-term contradict previous ones of prior decades, by the way, if that doesn’t raise an eyebrow. GABA doesn’t come up without coming down, hard. Potent GABA agonists, including benzos, should never be thought of as safer or especially different from alcohol, nor prescribed differently than alcohol is recommended, that is, the short-term or with moderation between consumption/“doses.” 
+<!-- Benzos are alcohol in a pill. The results of the studies that claim to support their use in the long-term contradict previous ones of prior decades, by the way, if that doesn’t raise an eyebrow. GABA doesn’t come up without coming down, hard. Potent GABA agonists, including benzos, should never be thought of as safer or especially different from alcohol, nor prescribed differently than alcohol is recommended, that is, the short-term or with moderation between consumption/“doses.” -->
 
 I also was prescribed antipsychotics, starting from RGH. But the remainder of this book will not be a dissection of antipsychotics, since hereafter I was on them together with benzos, making the judgement of their efficacy compared to the damage from benzos hard to disentangle. The rest of this will be about the experience that was most-plausibly caused by the benzos. 
 
-If the University of Rochester’s Strong Hospital’s logic follows their actions, their reasoning must’ve gone something like this: if benzos helped in RGH, I just didn’t take them long enough, so waterboard my brain with them into oblivion, no questions, forget the timeline, hold me in the hospital for some reason for a month.
+<!-- If the University of Rochester’s Strong Hospital’s logic follows their actions, their reasoning must’ve gone something like this: if benzos helped in RGH, I just didn’t take them long enough, so waterboard my brain with them into oblivion, no questions, forget the timeline, hold me in the hospital for some reason for a month. -->
 
 I was locked in there for an arbitrary time date, until they weaned me off from the benzos, which they planned to do, and promised me they would, *before* I was discharged.
 
 ### Dosage
 
-The dose is huge, bigger than I'd ever taken. Other than the temporary dose I was given by a different doctor at RGH, I also had a prescription before, when I was in undergrad, primarily for stress-induced eczema (which is actually an unconventional but appreciated prescription), and social anxiety. And I remember carefully tabulating when I could take one, but I only did rarely, mostly for social events if anxiety was too high. I had and have the intelligence to do preliminary research before taking a drug, and knew and know they're dangerous, and I took $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram before, during the time when I took them at all, spacing out dosages usually by at least two weeks, carefully. They left hangovers, not like alcohol, but noticeable, drowsiness and my cognition blurred, the next day or when they wore off. I'm 5'5" 110lb. 
+The dose is huge, bigger than I'd ever taken. Other than the temporary dose I was given by a different doctor at RGH, I also had a prescription before, when I was in undergrad, primarily for stress-induced eczema (which is an unconventional but reasonable prescription), and social anxiety. And I remember carefully tabulating when I could take one, but I only did rarely, mostly for social events if anxiety was too high. I had and have the intelligence to do preliminary research before taking a drug, and knew and know they're dangerous, and I took $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram before, during the time when I took them at all, spacing out dosages usually by at least two weeks, carefully. They left hangovers, not like alcohol, but noticeable, drowsiness and my cognition blurred, the next day or when they wore off. I'm 5'5" 110lb. 
 
 The hospital rate was beyond unprecedented for me.
 
@@ -183,15 +183,58 @@ They forced me to take 48x that dosage reduced later to 12x that dosage, over th
 
 Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $168\text{x}$ increase.
 
-I was extremely high.
+For the first three weeks or so, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
-### Yoga and crapes
+### Psychiatrists
 
-What else could the doctors have done?
+Clinicians come in, telling me I have to keep taking the benzos. 
 
-[Somewhere here add details about the yoga and dietary disciplines I was doing in the hospital] [Describe how my uncle came in and all that, aunt brought crapes]
+I argued with them from the beginning. 
 
-### Other patients
+There were two psychiatrists. The first one wanted to wean me off. The second one, who came in later to replace him, whose name I don't remember because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision and said the outpatient doctor would wean me off after the hospitalization.
+
+He didn't. He was like exactly what you'd imagine as the archetypal bad psychiatrist who doesn't care about his patient, is cold, unbelieving, and consumed with authority. I saw him for about 5 - 6 months and don't remember his name either. But not because of being high. At the point early when I was starting to see him, I was in severe cognitive decline, excruciating anxiety, fear, greyness and fog, and as our sessions progressed, terror, before burning hellfire with no exit. I should've weaned myself off as early as possible, but the impairment to my cognition prevented me from trusting myself enough to hear my own arguments and disobey his prescription.
+
+In the first month with him, I told him about all of those symptoms, and tried to relay the agony. He didn't care. He thought the benzos would help. He argued they could be safely taken for years.
+
+At no point did he specify a tapering schedule, despite me practically begging him.
+
+In the second month, I told him I was brain damaged. He wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low. He wanted to increase the dose.
+
+I can't describe this. 
+
+Intermission...
+
+> The brain's writing mechanisms revolve around memory. During that period, I had no memory. My brain was grey. My linguistics have nothing vivid to center on because everything from that time period was grey. My brain didn't form the kind of memories I need to now relay the extreme trauma that it went through.
+
+### Benzodiazepine mechanism of action
+
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
+<picture>
+  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
+  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
+</picture></a><br><i></i>
+</p>
+
+This diagram is an original understanding of the  computational neuron with a differentiable analog implemented <a href="https://github.com/slerman12/UnifiedMLold2/tree/master/Blocks/Architectures/LermanBlocks/BioNeuron">here</a>. 
+
+Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) I made on the topic.
+
+#
+
+Let's begin a simplified explanation of the brain's neuron. Neurons are cells that are connected to one each other by dendrites and axons that pass chemical messengers from one neuron to downstream neurons. The two most common chemical messengers in the brain are the excitatory neurotransmitter Glutamate and the inhibitory neurotransmitter GABA. Excitatory means they cause the next neuron to also release their neurotransmitters ("fire"). Inhibitory means they lower the voltage activity of the next neuron such that the next neuron is subdued. GABA is the mechanism of action of alcohol. People think alcohol is "disinhibitory", that it "disinhibits" them, but the reality is alcohol is actually inhibitory. It confuses GABA receptors into activating, causing an inhibition of that neuron and all the neurons in your brain. It's a system-wide drug that indiscriminately simulates GABA throughout every part of your brain, from the Occipital lobe, where your eyes see (in the back of your head), to the frontal lobe, where your brain thinks it thinks.
+
+Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance GABA receptor function. But unlike the alcohol simulation evolved readily by the fermentation of fruit abundant in nature, benzos have not been integrated into the biological balancing mechanisms of the brain. They are more synthetic, and far more insidious, because they get around the brain's securities more, so much so that you might not even notice a headache the next day. Seems like a Godsend, a Panacea, but it's not. Because they are worse than alcohol. As a result of the influx of poison, the brain downregulates GABA production and receptor sensitivity universally across the brain, including Hippocampal memory, with no directly-evolved recovery response (see [here](https://youtu.be/TEKgesBVTJ0?si=OtXQYMZgVd3Qu36M) for a video I made on evolutionary algorithms in deep learning).
+
+Nobody understands this mechanism. To understand this mechanism, you'd have to solve all of neurology and artificial intelligence, and psychiatrists definitely haven't. My diagram shows how GABA and GABA downregulation influence neurons (and more generally, the brain). Benzos are a floodbath, and your brain responds to those GABA bursts by "downregulation": every neuron in the brain that is inhibited by GABA (that's almost every neuron in your brain) is directly affected. So doctors and psychiatrists, including the expert frontier researchers, not only don't understand the mechanisms of the entire brain, e.g. long-term memory, but feel equipped to coerce their interventions on every part, from the Amygdala to Hippocampal memory to the frontal cortex. Lack of GABA, as a result of GABA downregulation, then results in higher proportions of excitatory Glutamate than inhibitory GABA, a frequently observed result of which is epileptic seizures. It also leads to immense Hell, since GABA downregulation is anxiety itself. Think of the most anxious you've ever been in your life. Your brain was trying to lower/downregulate GABA levels compared to Glutamate in that moment to create that fear-response sensation. Having your brain's GABA downregulated is like living actively in a warzone. It is, without exaggeration, a form of legalized torture. Coerced benzo usage is neurochemical waterboarding. I mean that: we're not talking about some small theoretical evil. Former addicts of heroin or cocaine who withdrew from benzos have, in full sincerity, described the withdrawal (or to be more accurate, I would add downregulation, since the effect can begin well before withdrawing) as being worse than heroin or cocaine. Not long ago, lobotomies and conversion therapies were standard practice. History will recognize the barbarism of today's psychiatric practices, especially around coercion, in particular of benzodiazepines. Scientific studies en masse, since 1980, showed that benzos cause long-term and sometimes permanent neurological damage, questionably contradicted but with almost none to support their long-term and daily-consumed efficacy.
+
+1. By the way, I made these arguments to my outpatient doctor, and without any specific retort, he insisted on increasing the dosage. I sensed that literal healing came secondary to a psychological reaction in him to enforce his clinical authority rather than hear the truth or internalize the logic of the arguments, such as about GABA downregulation and the plethora of studies corroborating the dangers.
+2. While systemic issues don't excuse an individual clinician's disbelief in or coercion of a patient, the profits of big pharma companies in the $3 billion benzo drug market have added to the disarray of confusion in the practice and principle of clinicians, and I suspect studies.
+3. I suspect the 6 months of inconsistent psychiatrist and doctor plans were due to the self-reinforcing biases clinicians (in the general sense) can create in themselves as they change a patient's personality through chemical interventions. My personality started very charming and cheerful due to the benzos, at which point they still planned to wean me off within the hospital. Then fear and anxiety rose due to increasing downregulation. As those induced neurological changes "doctored" my perception and psyche, my persuasiveness lessened and my presentation didn't have the emotional wealth that was perhaps expected for believability (due solely to my reduced neurological function, not any fundamental behavioral change aside from mental impairment and increasingly extreme fear), and each psychiatrist and changing shift of psychiatrists extended the asserted duration of the coerced prescription, changing the plans of themselves or of the previous psychiatrists, culminating with the outpatient doctor insisting on only increasing the dose, with no taper schedule on the foreseeable horizon. Doctors are aggressively playing Gods, and have no understanding of the severe bias that their own interventions produce in themselves, in their clinical decisions, and in their decision-making. Measurement-bias is a known analogous problem in science. Detection can result in a change in the state of the physical system (or organism or body) being detected. In medicine, this problem is less widely understood since the subjects being observed, detected, analyzed, judged, and changed are people.
+4. This reminds me, that outpatient doctor commented on my bald head. He wouldn't believe me that the hair loss was induced. $\color{#d08370}\text{He}$ $\color{#d08370}\text{interrogated,}$ $\color{#d08370}\text{rather}$ $\color{#d08370}\text{repeatedly,}$ $\color{#d08370}\text{even}$ $\color{#d08370}\text{after}$ $\color{#d08370}\text{I}$ $\color{#d08370}\text{answered,}$ $\color{#d08370}\text{whether}$ $\color{#d08370}\text{I}$ $\color{#d08370}\text{had}$ $\color{#d08370}\text{pulled}$ $\color{#d08370}\text{the}$ $\color{#d08370}\text{hair}$ $\color{#d08370}\text{out}$ $\color{#d08370}\text{myself}$.
+
+### Hospitalization
 
 > My friend Lily (not her real name), who was a 24-year-old inpatient, had sex with the 50-something janitor of the psychiatric ward, in the psychiatric ward, while drugged by the university with benzos. Hudson, they electroshocked. Jeremiah, who's always been kind and never even the slightest dangerous, was pinned down violently and tackled on a driveway by the university-hospital police officers. Mobi, was a 16-year-old drug addict who they kept institutionalizing periodically and made take benzos for probably longer than me. 
 
@@ -227,55 +270,6 @@ And he was intelligent and respectful and well mannered. There is no way he shou
 The next part of the story conveys some of my trauma, and it's the hardest to write about. I might not... Hold on...
 
 > These chapters are still in progress:
-
-### Three psychiatrists, zero consensus, zero consent
-
-I was told they'd wean me off before I was discharged. 
-
-Clinicians come in, telling me I have to keep taking the benzos. 
-
-I argued with them from the beginning. 
-
-For the first two or three weeks, I was high and getting along well with everybody because benzos (and GABA agonists generally including alcohol) reduce my social anxiety. Then the fog rolled in. The chemical waterboarding was taking effect.
-
-Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something, or perhaps the second psychiatrist saw me in the "fog" personality, whereas the first one had seen me in the "high" personality, but they changed their minds about weaning me off before I was discharged. I could tell the first psychiatrist wasn't convinced. The second one was sure.
-
-There were two psychiatrists. The first one wanted to wean me off. The second one, who came in later to replace him, whose name I don't remember because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision and said the outpatient doctor would wean me off after the hospitalization, though they did gradually reduce the dose.
-
-The outpatient doctor didn't. He was like exactly what you'd imagine as the archetypal bad psychiatrist who doesn't care about his patient, is cold, unbelieving, and consumed with authority. I saw him for about 5 - 6 months and don't remember his name either. But not because of being high. At the point early when I was starting to see him, I was in severe cognitive decline, excruciating anxiety, fear, grey cloud and fog, and as our sessions progressed, terror, before burning hellfire with no exit even had he weaned me off due to the persistence of GABA downregulation. I should've weaned myself off as early as possible, but the impairment to my cognition impaired my self-certainty, not enough to not argue, but enough to believe his authority. I listened to him up to the 5 - 6 months point, arguing in increasing levels of delirium and torment and cognitive powerlessness as he kept vaguely prolonging a distant eventual taper date, for no justification specified other than falling back on his clinical authority. I argued and I think that's most of what contributed to his doubling down.
-
-3 months into taking the benzos, I reported that I was brain damaged, he didn't believe me and wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low. He wanted to increase the dose.
-
-I can't describe this. 
-
-Intermission...
-
-### Benzodiazepine mechanism of action
-
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
-<picture>
-  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
-  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
-</picture></a><br><i></i>
-</p>
-
-This diagram is an original understanding of the  computational neuron with a differentiable analog implemented <a href="https://github.com/slerman12/UnifiedMLold2/tree/master/Blocks/Architectures/LermanBlocks/BioNeuron">here</a>. 
-
-Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) I made on the topic.
-
-#
-
-Let's begin a simplified explanation of the brain's neuron. Neurons are cells that are connected to one each other by dendrites and axons that pass chemical messengers from one neuron to downstream neurons. The two most common chemical messengers in the brain are the excitatory neurotransmitter Glutamate and the inhibitory neurotransmitter GABA. Excitatory means they cause the next neuron to also release their neurotransmitters ("fire"). Inhibitory means they lower the voltage activity of the next neuron such that the next neuron is subdued. GABA is the mechanism of action of alcohol. People think alcohol is "disinhibitory", that it "disinhibits" them, but the reality is alcohol is actually inhibitory. It confuses GABA receptors into activating, causing an inhibition of that neuron and all the neurons in your brain. It's a system-wide drug that indiscriminately simulates GABA throughout every part of your brain, from the Occipital lobe, where your eyes see (in the back of your head), to the frontal lobe, where your brain thinks it thinks.
-
-Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance GABA receptor function. But unlike the alcohol simulation evolved readily by the fermentation of fruit abundant in nature, benzos have not been integrated into the biological balancing mechanisms of the brain. They are more synthetic, and far more insidious, because they get around the brain's securities more, so much so that you might not even notice a headache the next day. Seems like a Godsend, a Panacea, but it's not. Because they are worse than alcohol. As a result of the influx of poison, the brain downregulates GABA production and receptor sensitivity universally across the brain, including Hippocampal memory, with no directly-evolved recovery response (see [here](https://youtu.be/TEKgesBVTJ0?si=OtXQYMZgVd3Qu36M) for a video I made on evolutionary algorithms in deep learning).
-
-Nobody understands this mechanism. To understand this mechanism, you'd have to solve all of neurology and artificial intelligence, and psychiatrists definitely haven't. My diagram shows how GABA and GABA downregulation influence neurons (and more generally, the brain). Benzos are a floodbath, and your brain responds to those GABA bursts by "downregulation": every neuron in the brain that is inhibited by GABA (that's almost every neuron in your brain) is directly affected. So doctors and psychiatrists, including the expert frontier researchers, not only don't understand the mechanisms of the entire brain, e.g. long-term memory, but feel equipped to coerce their interventions on every part, from the Amygdala to Hippocampal memory to the frontal cortex. Lack of GABA, as a result of GABA downregulation, then results in higher proportions of excitatory Glutamate than inhibitory GABA, a frequently observed result of which is epileptic seizures. It also leads to immense Hell, since GABA downregulation is anxiety itself. Think of the most anxious you've ever been in your life. Your brain was trying to lower/downregulate GABA levels compared to Glutamate in that moment to create that fear-response sensation. Having your brain's GABA downregulated is like living actively in a warzone. It is, without exaggeration, a form of legalized torture. Coerced benzo usage is neurochemical waterboarding. I mean that: we're not talking about some small theoretical evil. Former addicts of heroin or cocaine who withdrew from benzos have, in full sincerity, described the withdrawal (or to be more accurate, I would add downregulation, since the effect can begin well before withdrawing) as being worse than heroin or cocaine. Not long ago, lobotomies and conversion therapies were standard practice. History will recognize the barbarism of today's psychiatric practices, especially around coercion, in particular of benzodiazepines. Scientific studies en masse, since 1980, showed that benzos cause long-term and sometimes permanent neurological damage, questionably contradicted but with almost none to support their long-term and daily-consumed efficacy.
-
-1. By the way, I made these arguments to my outpatient doctor, and without any specific retort, he insisted on increasing the dosage. I sensed that literal healing came secondary to a psychological reaction in him to enforce his clinical authority rather than hear the truth or internalize the logic of the arguments, such as about GABA downregulation and the plethora of studies corroborating the dangers.
-2. While systemic issues don't excuse an individual clinician's disbelief in or coercion of a patient, the profits of big pharma companies in the $3 billion benzo drug market have added to the disarray of confusion in the practice and principle of clinicians, and I suspect studies.
-3. I suspect the 6 months of inconsistent psychiatrist and doctor plans were due to the self-reinforcing biases clinicians (in the general sense) can create in themselves as they change a patient's personality through chemical interventions. My personality started very charming and cheerful due to the benzos, at which point they still planned to wean me off within the hospital. Then fear and anxiety rose due to increasing downregulation. As those induced neurological changes "doctored" my perception and psyche, my persuasiveness lessened and my presentation didn't have the emotional wealth that was perhaps expected for believability (due solely to my reduced neurological function, not any fundamental behavioral change aside from mental impairment and increasingly extreme fear), and each psychiatrist and changing shift of psychiatrists extended the asserted duration of the coerced prescription, changing the plans of themselves or of the previous psychiatrists, culminating with the outpatient doctor insisting on only increasing the dose, with no taper schedule on the foreseeable horizon. Doctors are aggressively playing Gods, and have no understanding of the severe bias that their own interventions produce in themselves, in their clinical decisions, and in their decision-making. Measurement-bias is a known analogous problem in science. Detection can result in a change in the state of the physical system (or organism or body) being detected. In medicine, this problem is less widely understood since the subjects being observed, detected, analyzed, judged, and changed are people.
-4. This reminds me, that outpatient doctor commented on my bald head. He wouldn't believe me that the hair loss was induced. $\color{#d08370}\text{He}$ $\color{#d08370}\text{interrogated,}$ $\color{#d08370}\text{rather}$ $\color{#d08370}\text{repeatedly,}$ $\color{#d08370}\text{even}$ $\color{#d08370}\text{after}$ $\color{#d08370}\text{I}$ $\color{#d08370}\text{answered,}$ $\color{#d08370}\text{whether}$ $\color{#d08370}\text{I}$ $\color{#d08370}\text{had}$ $\color{#d08370}\text{pulled}$ $\color{#d08370}\text{the}$ $\color{#d08370}\text{hair}$ $\color{#d08370}\text{out}$ $\color{#d08370}\text{myself}$.
 
 ### My... trauma
 
