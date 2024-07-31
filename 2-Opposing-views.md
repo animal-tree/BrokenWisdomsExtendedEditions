@@ -151,7 +151,7 @@ I was sleep deprived and my sister should’ve left me alone.
 
 You know, it was around this time I did an I Ching reading what causes humanity's problems. The answer was, "Difficulty at the beginning" and then "increase."
 
-Oh yes, there was a difficulty at the beginning. I was sleep deprived. Or, you could trace it back even further to when my sister saw me in the hospital, told (by doctor) I was catatonic, and possibly on some level she was traumatized by that, some generalized anxiety fueling level, especially when her inner subconcious probably knew something about her brother's state was different than she was told, and that he was afraid. But then the increase came later.
+Oh yes, there was a difficulty at the beginning. I was sleep deprived. Or, you could trace it back even further to when my sister saw me in the hospital, told (by doctor) I was catatonic, and possibly on some level was traumatized by that, some generalized anxiety fueling level, especially when her inner subconcious probably knew something about her brother's state was different than she was told, and that he was afraid. But then the increase came later.
 
 The increase came in drugs.
 
