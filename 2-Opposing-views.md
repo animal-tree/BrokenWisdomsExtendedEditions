@@ -185,7 +185,7 @@ Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{
 
 For the first three weeks or so, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
-Benzos are a drug with similar effects and risks to alcohol and an alcohol-like mechanism of action (GABA), and the longer one takes them, the more one’s brain changes states to downregulate, neurologically like a hangover. At the dosage I was taking, they were like 6 - 8 shots of tequila in a pill.
+Benzos are a drug with similar effects and risks to alcohol and an alcohol-like mechanism of action (GABA), and the longer one takes them, the more one’s brain changes states to downregulate, neurologically like a hangover. At the dosage I was taking, they were like 4 - 10 shots or more of tequila a day.
 
 ### Psychiatrists
 
@@ -195,7 +195,7 @@ I argued with them from the beginning.
 
 There were two psychiatrists. The first one wanted to wean me off. The second one, who came in later to replace him, whose name I don't remember because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision and said the outpatient doctor would wean me off after the hospitalization.
 
-He (the outpatient doctor) didn't. He was like exactly what you'd imagine as the archetypal bad psychiatrist who doesn't care about his patient, is cold, unbelieving, and consumed with authority. I saw him for about 5 - 6 months and don't remember his name either. But not because of being high. At the point early when I was starting to see him, I was in severe cognitive decline, excruciating anxiety, fear, greyness and fog, and as our sessions progressed, terror, before burning hellfire with no exit. I should've weaned myself off as early as possible, but the impairment to my cognition prevented me from trusting myself enough to hear my own arguments and disobey his prescription.
+He (the outpatient doctor) didn't. He was like exactly what you'd imagine as the archetypal bad psychiatrist who doesn't care about his patient, is cold, unbelieving, and consumed with authority. I saw him for over 5 months and don't remember his name either. But not because of being high. At the point early when I was starting to see him, I was in severe cognitive decline, excruciating anxiety, fear, greyness and fog, and as our sessions progressed, terror, before burning hellfire with no exit. I should've weaned myself off as early as possible, but the impairment to my cognition prevented me from trusting myself enough to hear my own arguments and disobey his prescription.
 
 In the first month with him, I told him about all of those symptoms, and tried to relay the agony. He didn't care. He thought the benzos would help. He argued they could be safely taken for years.
 
