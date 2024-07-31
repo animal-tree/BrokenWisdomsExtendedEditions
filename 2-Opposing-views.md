@@ -226,6 +226,8 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 ### Yoga and crapes
 
+What else could the doctors have done?
+
 [Somewhere here add details about the yoga and dietary disciplines I was doing in the hospital] [Describe how my uncle came in and all that, aunt brought crapes]
 
 ### Other patients
