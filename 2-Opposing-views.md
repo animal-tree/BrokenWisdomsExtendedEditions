@@ -185,10 +185,6 @@ Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{
 
 For the first three or so weeks, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
-### Yoga and crapes
-
-[Somewhere here add details about the yoga and dietary disciplines I was doing in the hospital] [Describe how my uncle came in and all that, aunt brought crapes]
-
 ### Three psychiatrists, zero consensus, zero consent
 
 They (namely, the first psychiatrist) said they'd wean me off before I was discharged, but changed their minds. Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something. There were two psychiatrists. The first one wanted to wean me off. The second one, I don't remember her name because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision last-minute and said the outpatient doctor would wean me off after the hospitalization, though they did gradually reduce the dose.
@@ -227,6 +223,10 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 2. While systemic issues don't excuse an individual clinician's disbelief in or coercion of a patient, the profits of big pharma companies in the $3 billion benzo drug market have added to the disarray of confusion in the practice and principle of clinicians, and I suspect studies.
 3. I suspect the 6 months of inconsistent psychiatrist and doctor plans were due to the self-reinforcing biases clinicians (in the general sense) can create in themselves as they change a patient's personality through chemical interventions. My personality started very charming and cheerful due to the benzos, at which point they still planned to wean me off within the hospital. Then fear and anxiety rose due to increasing downregulation. As those induced neurological changes "doctored" my perception and psyche, my persuasiveness lessened and my presentation didn't have the emotional wealth that was perhaps expected for believability (due solely to my reduced neurological function, not any fundamental behavioral change aside from mental impairment and increasingly extreme fear), and each psychiatrist and changing shift of psychiatrists extended the asserted duration of the coerced prescription, changing the plans of themselves or of the previous psychiatrists, culminating with the outpatient doctor insisting on only increasing the dose, with no taper schedule on the foreseeable horizon. Doctors are aggressively playing Gods, and have no understanding of the severe bias that their own interventions produce in themselves, in their clinical decisions, and in their decision-making. Measurement-bias is a known analogous problem in science. Detection can result in a change in the state of the physical system (or organism or body) being detected. In medicine, this problem is less widely understood since the subjects being observed, detected, analyzed, judged, and changed are people.
 4. This reminds me, that outpatient doctor commented on my bald head. He wouldn't believe me that the hair loss was induced. $\color{#d08370}\text{He}$ $\color{#d08370}\text{interrogated,}$ $\color{#d08370}\text{rather}$ $\color{#d08370}\text{repeatedly,}$ $\color{#d08370}\text{even}$ $\color{#d08370}\text{after}$ $\color{#d08370}\text{I}$ $\color{#d08370}\text{answered,}$ $\color{#d08370}\text{whether}$ $\color{#d08370}\text{I}$ $\color{#d08370}\text{had}$ $\color{#d08370}\text{pulled}$ $\color{#d08370}\text{the}$ $\color{#d08370}\text{hair}$ $\color{#d08370}\text{out}$ $\color{#d08370}\text{myself}$.
+
+### Yoga and crapes
+
+[Somewhere here add details about the yoga and dietary disciplines I was doing in the hospital] [Describe how my uncle came in and all that, aunt brought crapes]
 
 ### Other patients
 
