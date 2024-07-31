@@ -175,8 +175,6 @@ I was locked in there for an arbitrary time date, until they weaned me off from 
 
 ### Dosage
 
-Clinicians come in, telling me I have to keep taking the benzos. 
-
 The dose is huge, bigger than I'd ever taken. Other than the temporary dose I was given by a different doctor at RGH, I also had a prescription before, when I was in undergrad, primarily for stress-induced eczema (which is actually an unconventional but appreciated prescription), and social anxiety. And I remember carefully tabulating when I could take one, but I only did rarely, mostly for social events if anxiety was too high. I had and have the intelligence to do preliminary research before taking a drug, and knew and know they're dangerous, and I took $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram before, during the time when I took them at all, spacing out dosages usually by at least two weeks, carefully. They left hangovers, not like alcohol, but noticeable, drowsiness and my cognition blurred, the next day or when they wore off. I'm 5'5" 110lb. 
 
 The hospital rate was beyond unprecedented for me.
@@ -185,11 +183,19 @@ They forced me to take 48x that dosage reduced later to 12x that dosage, over th
 
 Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $168\text{x}$ increase.
 
+I was extremely high.
+
 ### Three psychiatrists, zero consensus, zero consent
+
+I was told they'd wean me off before I was discharged. 
 
 For the first three or so weeks, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
-They (namely, the first psychiatrist) said they'd wean me off before I was discharged, but changed their minds. Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something. There were two psychiatrists. The first one wanted to wean me off. The second one, I don't remember her name because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision last-minute and said the outpatient doctor would wean me off after the hospitalization, though they did gradually reduce the dose.
+Clinicians come in, telling me I have to keep taking the benzos. 
+
+Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something, or perhaps the second psychiatrist saw me in the "fog" personality, whereas the first one had seen me in the "high" personality. 
+
+There were two psychiatrists. The first one wanted to wean me off. The second one, who came in later to replace him, whose name I don't remember either because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision last-minute and said the outpatient doctor would wean me off after the hospitalization, though they did gradually reduce the dose.
 
 He didn't, and he was a bastard. I saw him for about 5 - 6 months and don't remember his name either. But not because of being high. At the point early when I was starting to see him, I was in severe cognitive decline. And the euphoria was turning into excruciating anxiety and fear, and then grey cloud and fog, and terror, before burning hellfire with no exit even had I weaned off. I should've weaned myself off as early as possible — since the longer I took them, the worse the downregulation that happens in the brain, via a mechanism involving the neurotransmitter GABA, half of the brain's two primary chemical messengers, the other being glutamate — but not only did the drug impair my cognition, but because of the terror-state/cognitive impairment I was in due to the drug, my self-certainty was too low to defy his orders, even as every rational belief I built up to that point told me I should. I listened to him up to the 5 - 6 months point, arguing as he kept vaguely prolonging a distant eventual taper date, for no justification specified other than falling back on his clinical authority. I argued and I think that's most of what contributed to his doubling down.
 
