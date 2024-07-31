@@ -31,12 +31,9 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - House on May St.
       - Psychosis and Rochester General Hospital (RGH)
       - Clover St.
-      - Benzos and University of Rochester’s Strong Hospital
-      - Dosage
-      - Yoga and crapes
-      - Other patients
-      - Three psychiatrists, zero consensus, zero consent
+      - The University of Rochester’s Strong Hospital
       - Benzodiazepine mechanism of action
+      - Hospitalization
       - My... trauma
     - Part 3 (University PhD advisors, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
