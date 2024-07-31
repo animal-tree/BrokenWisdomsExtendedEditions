@@ -143,6 +143,8 @@ I remember my mom and sister weren’t that worried, but my sister still insiste
 
 I probably could’ve slept that night, and I’ve felt betrayed by my sister for some years after because, had I been trusted that night without intervention, then she probably wouldn’t have taken me to the hospital, and the following dive into a deeper trauma of my life could’ve been avoided. Yes, they got deeper. I was about to be waterboarded in hellfire, by the doctors.  
 
+It was late in the evening.
+
 My advisor Henry actually lived on Clover St.  I could’ve hypothetically gotten out at the red light and walked to his house. Of course, I didn’t do that, and that specific thought didn’t occur to me, but even that might’ve been a better idea than what happened. It wasn't that kind of doctor yet. 
 
 I was sleep deprived and my sister should’ve left me alone (to be clear, I didn’t jump out of the car). 
