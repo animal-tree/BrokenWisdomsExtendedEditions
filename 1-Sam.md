@@ -74,7 +74,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Mikhaila Peterson
       - Timing of benzodiazepine coercion diagram
       - CMT deletion of record
-      - "Sam Altman" same-time termination, OpenAI's Q* project
+      - Sam "Altman"
       - "Life ruined" post
       - House on May St.
       - Physics
