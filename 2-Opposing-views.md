@@ -199,11 +199,11 @@ At no point did he specify a tapering schedule, despite me practically begging h
 
 In the second month, I told him I was brain damaged. He wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low. He wanted to increase the dose.
 
+> The brain's writing mechanisms revolve around memory. During that period, I had no memory. My brain was grey. My linguistics have nothing vivid to center on because everything from that time period was grey. My brain didn't form the kind of memories I need to now relay the extreme trauma that it went through.
+
 I can't describe this. 
 
 Intermission...
-
-> The brain's writing mechanisms revolve around memory. During that period, I had no memory. My brain was grey. My linguistics have nothing vivid to center on because everything from that time period was grey. My brain didn't form the kind of memories I need to now relay the extreme trauma that it went through.
 
 ### Benzodiazepine mechanism of action
 
