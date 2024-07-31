@@ -175,17 +175,19 @@ I was locked in there for an arbitrary time date, until they weaned me off from 
 
 ### Dosage
 
-Clinicians come in, telling me I have to keep taking the benzos. It's not my choice. In the hospital, they threatened me that I had to or they would get a court order. The dose is huge, bigger than I'd ever taken. Other than the temporary dose I was given by a different doctor at RGH, I also had a prescription before, primarily for stress-induced eczema (which is actually an unconventional but appreciated prescription), and social anxiety. And I remember carefully tabulating when I could take one, but I only did rarely, mostly for social events if anxiety was too high. I had and have the intelligence to do preliminary research before taking a drug, and knew and know they're dangerous, and I took $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram before, during the time when I took them at all, spacing out dosages usually by at least two weeks, carefully. They left hangovers, not like alcohol, but noticeable, drowsiness and my cognition blurred, the next day or when they wore off. I'm 5'5" 110lb. 
+Clinicians come in, telling me I have to keep taking the benzos. 
+
+The dose is huge, bigger than I'd ever taken. Other than the temporary dose I was given by a different doctor at RGH, I also had a prescription before, when I was in undergrad, primarily for stress-induced eczema (which is actually an unconventional but appreciated prescription), and social anxiety. And I remember carefully tabulating when I could take one, but I only did rarely, mostly for social events if anxiety was too high. I had and have the intelligence to do preliminary research before taking a drug, and knew and know they're dangerous, and I took $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram before, during the time when I took them at all, spacing out dosages usually by at least two weeks, carefully. They left hangovers, not like alcohol, but noticeable, drowsiness and my cognition blurred, the next day or when they wore off. I'm 5'5" 110lb. 
 
 The hospital rate was beyond unprecedented for me.
 
 They forced me to take 48x that dosage reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most, had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
 
-Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $168\text{x}$ increase, minimum.
-
-For the first three or so weeks, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
+Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $168\text{x}$ increase.
 
 ### Three psychiatrists, zero consensus, zero consent
+
+For the first three or so weeks, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
 They (namely, the first psychiatrist) said they'd wean me off before I was discharged, but changed their minds. Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something. There were two psychiatrists. The first one wanted to wean me off. The second one, I don't remember her name because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision last-minute and said the outpatient doctor would wean me off after the hospitalization, though they did gradually reduce the dose.
 
