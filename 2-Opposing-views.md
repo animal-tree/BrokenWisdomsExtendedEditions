@@ -149,6 +149,12 @@ My advisor Henry actually lived on Clover St. I could’ve hypothetically gotten
 
 I was sleep deprived and my sister should’ve left me alone.
 
+You know, it was around this time I did an i Ching reading what causes humanity's problems. The answer was, "Difficulty at the beginning" and then "increase.
+
+Oh yes, there was a difficulty at the beginning. I was sleep deprived. Or, you could trace it back even further to when my sister saw me in the hospital, told I was catatonic, and possibly on some level traumatized by that, some generalized anxiety fueling level. But then the increase came later.
+
+The increase came in drugs.
+
 ### Psychiatrists at the University of Rochester’s Strong Hospital
 
 I get hospitalized that second time months after that discharge from the first hospitalization, because my sister was worried that I wasn't sleeping as well and didn't sleep the previous night; I’m fully lucid but sleep deprived; I'm scared as hell due to the hospital setting and end up not sleeping another night, maybe even two, while there, creating in me a more manic-seeming personality; they assume I'm going through another manic episode and at risk of entering catatonia; they force me to take benzodiazepines, not for the sleep deprivation, but I believe for mania or catatonia, at a dosage only prescribed for severe catatonia, so presumably that (I think maybe to prevent catatonia?). The dosage was so high... “and I was so high” is an accurate way to characterize the coerced drug’s unsolicited effect. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing as much GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
