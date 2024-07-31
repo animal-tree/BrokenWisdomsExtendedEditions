@@ -155,17 +155,25 @@ Oh yes, there was a difficulty at the beginning. I was sleep deprived. Or, you c
 
 The increase came in drugs.
 
-### Psychiatrists at the University of Rochester’s Strong Hospital
+### Benzos and University of Rochester’s Strong Hospital
 
-I get hospitalized that second time months after that discharge from the first hospitalization, because my sister was worried that I wasn't sleeping as well and didn't sleep the previous night; I’m fully lucid but sleep deprived; I'm scared as hell due to the hospital setting and end up not sleeping another night, maybe even two, while there, creating in me a more manic-seeming personality; they assume I'm going through another manic episode and at risk of entering catatonia; they force me to take benzodiazepines, not for the sleep deprivation, but I believe for mania or catatonia, at a dosage only prescribed for severe catatonia, so presumably that (I think maybe to prevent catatonia?). The dosage was so high... “and I was so high” is an accurate way to characterize the coerced drug’s unsolicited effect. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing as much GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
+At the hospital, the sleep deprivation got worse. They decided I was at risk of catatonia, but, their evidence for that was actually extremely false, and the experience of the previous trauma was too recent for me to explain it to them. It took the last 5 years to process into a form that I could write. And for that matter, they didn’t ask. Not one of them, not a psychiatrist, not a nurse, not an attendant. Nobody asked about the details of the previous hospitalization, “mania,” and “catatonia.” They accepted what was in the medical records and decided it was reasonable to take a preventative measure against catatonia. Obscene doses, of benzos, daily, for months, however, isn't reasonable for anything except GABA downregulation, not to mention coerced and unsolicited.
 
-Damn. I'm sorry. This is hard. 
+The antipsychotics I accepted, but the catatonia “medicine” — benzos — I tried to argue against. They didn’t allow it, threatened a court order.
 
-Even if they knew every detail about what happened from the previous hospitalization, daily coerced administration of benzos still wouldn’t have been medically helpful in that second hospitalization. Nor under their assumptions. Benzos don't do anything to treat the underlying issues involved in mania, and are extremely likely to worsen them. Their temporary administration for halting catatonia is okay, but beyond that they aren't a medicine, but a drug.
+By the way, my mom even prevented electroshock therapy (as you'll see later, not all patients were so lucky). I had my mom ask them not to give me the benzos, and they either convinced her enough, or she had no say.
 
-On the note of medicine: in addition to the benzos, they continued administering antipsychotics on me as well. If they help people, they help people. In my case, it seemed like a tradeoff that in the ideal wouldn't need to be calculated: the grey paranoia wasn't worth the loss of energy to physically move, and since I no longer had especially delusional thinking, I doubt their higher dose helped. In the ideal, [there'd be another process to heal that doesn't involve tradeoffs](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-) (that link is really worth clicking on, and opens to a video with a medical philosophy that I think can be learned from no matter one's skepticisms). But the remainder of this book will not be a dissection of antipsychotics, since I was put on them together with benzos, making the judgement of their efficacy compared to the damage from benzos hard to disentangle. The rest of this will be about the experience that was most-plausibly caused by the benzos. 
+If the University of Rochester’s Strong Hospital’s logic follows their actions, their reasoning must’ve gone something like this: if benzos helped in RGH, I just didn’t take them long enough, so waterboard my brain with them into oblivion, no questions, forget the timeline.
+
+Benzos are a drug with similar effects and risks to alcohol and an alcohol-like mechanism of action (GABA), and the longer one takes them, the more one’s brain changes states to downregulate, neurologically like a hangover, even from one dose, let alone daily for months at obscene doses. 
+
+Benzos are alcohol in a pill. The results of the studies that claim to support their use in the long-term contradict previous ones of prior decades, by the way, if that doesn’t raise an eyebrow. GABA doesn’t come up without coming down, hard. Potent GABA agonists liek benzos should never be thought of as safer or especially different from alcohol, nor prescribed differently than alcohol is recommended, that is, the short-term or with moderation between consumption/“doses.” 
+
+I also was prescribed antipsychotics, starting from RGH. But the remainder of this book will not be a dissection of antipsychotics, since I was on them together with benzos, making the judgement of their efficacy compared to the damage from benzos hard to disentangle. The rest of this will be about the experience that was most-plausibly caused by the benzos. 
 
 I was locked in there for an arbitrary time date, until they weaned me off from the benzos, which they planned to do, and promised me they would, *before* I was discharged.
+
+### Dosage
 
 Clinicians come in, telling me I have to keep taking the benzos. It's not my choice. In the hospital, they threatened me that I had to or they would get a court order. The dose is huge, bigger than I'd ever taken. Other than the temporary dose I was given by a different doctor at RGH, I also had a prescription before, primarily for stress-induced eczema (which is actually an unconventional but appreciated prescription), and social anxiety. And I remember carefully tabulating when I could take one, but I only did rarely, mostly for social events if anxiety was too high. I had and have the intelligence to do preliminary research before taking a drug, and knew and know they're dangerous, and I took $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram before, during the time when I took them at all, spacing out dosages usually by at least two weeks, carefully. They left hangovers, not like alcohol, but noticeable, drowsiness and my cognition blurred, the next day or when they wore off. I'm 5'5" 110lb. 
 
@@ -177,7 +185,11 @@ Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{
 
 For the first three or so weeks, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
-[Somewhere here add details about the yoga and dietary disciplines I was doing in the hospital]
+### Yoga and crapes
+
+[Somewhere here add details about the yoga and dietary disciplines I was doing in the hospital] [Describe how my uncle came in and all that, aunt brought crapes]
+
+### Three psychiatrists, zero consensus, zero consent
 
 They (namely, the first psychiatrist) said they'd wean me off before I was discharged, but changed their minds. Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something. There were two psychiatrists. The first one wanted to wean me off. The second one, I don't remember her name because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision last-minute and said the outpatient doctor would wean me off after the hospitalization, though they did gradually reduce the dose.
 
