@@ -137,6 +137,18 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 - **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
 - **I was there because my sister was worried.**
 
+### Clover St.
+
+Marina’s my sister, 5 years older than me and still texts me about mom, to make sure she’s safe, whenever she hasn’t heard from her recently. We’re both afraid of her dying, some now less psychotically than others. Marina has “generalized anxiety disorder.” She probably wouldn’t stick a stick up her butt, but she’d also freak out if she thought mom was in danger. And me. Enough to rush me to her car, with mom. At the time, she was a nurse at RGH (now she's a nurse practitioner). She knew not sleeping all night is a symptom or potential precursor of mania, and I think it was me who chose to go to University of Rochester’s Strong Hospital this time, given the choice between the two. That part of this was my fault.
+
+I probably could’ve slept that night, and I’ve felt betrayed by my sister for some years after. Had she trusted me that night to sleep, I probably would’ve, no intervention would’ve been needed, she probably wouldn’t have taken all of us to the hospital, and the following dive into a deeper trauma of my life wouldn’t have happened. Yes, they got deeper. I was about to be waterboarded in hellfire, by the doctors (medical doctors — the other kind comes later).  
+
+She had this big red car, like a devil vehicle. She's since replaced it with a new one, not a minivan and not red. But I was in that car when a sense told me as she was driving to open the door and run — well, not as she was driving, at least not when the opportunity presented itself: when we were at Clover St., stopped at a red light. I wasn’t psychotic this time, the sense wasn’t “God.” It was like we were headed towards danger, and I was sleep deprived enough to believe the fear.
+
+My advisor Henry actually lived on Clover St. I could’ve hypothetically gotten out at the red light and gone to his house. Of course, I didn’t do that, and that specific thought didn’t occur to me, but even that might’ve been a better idea than what followed. 
+
+I was sleep deprived and my sister should’ve left me alone.
+
 ### Psychiatrists at the University of Rochester’s Strong Hospital
 
 I get hospitalized that second time months after that discharge from the first hospitalization, because my sister was worried that I wasn't sleeping as well and didn't sleep the previous night; I’m fully lucid but sleep deprived; I'm scared as hell due to the hospital setting and end up not sleeping another night, maybe even two, while there, creating in me a more manic-seeming personality; they assume I'm going through another manic episode and at risk of entering catatonia; they force me to take benzodiazepines, not for the sleep deprivation, but I believe for mania or catatonia, at a dosage only prescribed for severe catatonia, so presumably that (I think maybe to prevent catatonia?). The dosage was so high... “and I was so high” is an accurate way to characterize the coerced drug’s unsolicited effect. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing as much GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
