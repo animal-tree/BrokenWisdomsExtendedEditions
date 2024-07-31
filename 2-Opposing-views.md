@@ -193,7 +193,7 @@ Clinicians come in, telling me I have to keep taking the benzos.
 
 I argued with them from the beginning. I later convinced the first psychiatrist while my personality was still sharp.
 
-For the first two or three weeks, I was high and having fun. Then the fog rolled in. The chemical waterboarding was taking effect.
+For the first two or three weeks, I was high and getting along well with everybody because benzos (and GABA agonists generally including alcohol) reduce my social anxiety. Then the fog rolled in. The chemical waterboarding was taking effect.
 
 Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something, or perhaps the second psychiatrist saw me in the "fog" personality, whereas the first one had seen me in the "high" personality. 
 
