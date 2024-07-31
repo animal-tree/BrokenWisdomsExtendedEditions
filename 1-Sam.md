@@ -33,9 +33,9 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Clover St.
       - Benzos and University of Rochester’s Strong Hospital
       - Dosage
-      - Yoga and crapes
       - Three psychiatrists, zero consensus, zero consent
       - Benzodiazepine mechanism of action
+      - Yoga and crapes
       - Other patients
       - My... trauma
     - Part 3 (University PhD advisors, University PhD committee members, University CS department Chair, University Deans)
