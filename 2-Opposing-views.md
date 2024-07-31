@@ -74,7 +74,7 @@ I was working really hard in that house, developing my long-term memory research
 
 I was sleeping in one of the second bedrooms, when, on a rare occasion, my housemate friend and his girlfriend woke me climbing up the stairs. Somehow I had a sudden realization, near around 3 AM or whatever time it was in that night, that the universe's particles might be random, and therefore can be shifted by slight standard deviations by an intelligence — like the biological or artificial kind — in such a way that still respects the known laws of physics and yet permits the possibility of an intelligent nature, that can modulate how those particles are sampled with respect to the sampling distributions.
 
-In that house and thereafter (continuing for years, mostly without pause), I practiced many disciplines, including meditation, strict dietary and ascetic disciplines, and, later, yoga.
+In that house and thereafter (continuing for years, mostly without pause), I was practicing many disciplines, including meditation, strict dietary and ascetic disciplines, and, later, yoga.
 
 It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
 
