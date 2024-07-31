@@ -396,7 +396,7 @@ Got to message someone named Tayler a week after my Taylor-CAM paper who reached
 >
 > That was the hospitalization that I resisted with combative attempts by fighting the police while I was in the grass where I was having a breakdown, following Tayler’s loss of interest in me. In that hospitalization, I learned a tongue trick that I’m still impressed with myself by that allowed me to circumvent any medications, even though the nurses made you open your mouth and stick your tongue out both above and below. I got damn fast at making the switch of the pill from roof of my mouth to under my tongue. I'm gonna add an exclamation point, because that was worthy of some awe: !.
 >
-> It was also one of the last hospitalizations for me, ever. And it was a good one because — controversially or not, this did make a difference: I got to escape taking too many synthetic medicines via the pills they handed me, and the nurses were all my age and beautiful, which is an understated thing in medicine, and I was severely lacking warmth.
+> It was also one of the last hospitalizations for me, ever. And it was a good one because — controversially or not, this did make a difference: I got to escape taking too many synthetic medicines via the pills they handed me, and the nurses were all my age and beautiful, which is an understated healing balm in medicine, and I was severely lacking that kind of warmth.
 >
 > That other inpatient who looked like an older Lily, who narrativized it via her dad, made the experience a sacred non-delusion, and neither of us made the connection that that Hebrew prayer might’ve been a Bar Mitzvah (perhaps that’s stupid of me) until I kind of connected the dots of this context years later.
 >
