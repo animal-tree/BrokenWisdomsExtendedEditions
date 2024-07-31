@@ -161,13 +161,13 @@ At the hospital, the sleep deprivation got worse. They decided I was at risk of 
 
 The antipsychotics I accepted, but the catatonia “medicine” — benzos — I tried to argue against. They didn’t allow it, threatened a court order.
 
-By the way, my mom even prevented electroshock therapy (as you'll see later, not all patients were so lucky). I had my mom ask them not to give me the benzos, and they either convinced her enough, or she had no say.
+<!-- By the way, my mom even prevented electroshock therapy (as you'll see later, not all patients were so lucky). I had my mom ask them not to give me the benzos, and they either convinced her enough, or she had no say. -->
 
 <!-- Benzos are a drug with similar effects and risks to alcohol and an alcohol-like mechanism of action (GABA), and the longer one takes them, the more one’s brain changes states to downregulate, neurologically like a hangover, even from one dose, let alone daily for months at obscene doses. -->
 
 <!-- Benzos are alcohol in a pill. The results of the studies that claim to support their use in the long-term contradict previous ones of prior decades, by the way, if that doesn’t raise an eyebrow. GABA doesn’t come up without coming down, hard. Potent GABA agonists, including benzos, should never be thought of as safer or especially different from alcohol, nor prescribed differently than alcohol is recommended, that is, the short-term or with moderation between consumption/“doses.” -->
 
-I also was prescribed antipsychotics, starting from RGH. But the remainder of this book will not be a dissection of antipsychotics, since hereafter I was on them together with benzos, making the judgement of their efficacy compared to the damage from benzos hard to disentangle. The rest of this will be about the experience that was most-plausibly caused by the benzos. 
+<!-- I also was prescribed antipsychotics, starting from RGH. But the remainder of this book will not be a dissection of antipsychotics, since hereafter I was on them together with benzos, making the judgement of their efficacy compared to the damage from benzos hard to disentangle. The rest of this will be about the experience that was most-plausibly caused by the benzos. -->
 
 <!-- If the University of Rochester’s Strong Hospital’s logic follows their actions, their reasoning must’ve gone something like this: if benzos helped in RGH, I just didn’t take them long enough, so waterboard my brain with them into oblivion, no questions, forget the timeline, hold me in the hospital for some reason for a month. -->
 
