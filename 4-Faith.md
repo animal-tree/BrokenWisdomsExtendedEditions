@@ -71,7 +71,7 @@ And not only foretold to my university's professors, but innovated on and execut
 
 The head of OpenAI, the company that invented ChatGPT (that used MHDPA), whose name is "Sam Altman" (mine is Sam Lerman) — "Altman," which is not German Ashkenazi for "teacher" — was terminated as the head of OpenAI in an unusually sensationalized situation exactly 17 days after my termination as PhD student, then was brought back.
 
-They were working on some AGI project called Q*, and the synchronicity may have been meant to give me hope, but [it didn't](https://github.com/animal-tree/Bad-Synchronicities/blob/main/Synchronicity-Paranoias.md).
+They were working on some AGI project called Q*, and the synchronicity may have been meant to give me hope, but [it didn't](https://github.com/animal-tree/Suspicious-Synchronicities/blob/main/Synchronicity-Paranoias.md).
 
 ### The “life ruined” entire-forum being deleted 5 months after I emailed it to the faculty/administrators, after having shown it to Niaz who commented in person about it, and writing BrokenWisdoms as a result of the depression and fear that came from losing my only description of those events, one I hadn’t backed up anywhere, with comments from others about having experienced similar things, the trauma of benzodiazepine addiction/coercion, and expressing extreme sympathy, and it was the top post in that for 4-ish years running
 
