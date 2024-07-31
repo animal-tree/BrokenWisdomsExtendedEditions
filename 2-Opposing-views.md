@@ -191,7 +191,7 @@ I was told they'd wean me off before I was discharged.
 
 Clinicians come in, telling me I have to keep taking the benzos. 
 
-I argued with them from the beginning. I later convinced the first psychiatrist while my personality was still sharp.
+I argued with them from the beginning. 
 
 For the first two or three weeks, I was high and getting along well with everybody because benzos (and GABA agonists generally including alcohol) reduce my social anxiety. Then the fog rolled in. The chemical waterboarding was taking effect.
 
