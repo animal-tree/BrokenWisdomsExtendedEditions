@@ -145,7 +145,7 @@ I probably could’ve slept that night, and I’ve felt betrayed by my sister fo
 
 My advisor Henry actually lived on Clover St.  I could’ve hypothetically gotten out at the red light and walked to his house. Of course, I didn’t do that, and that specific thought didn’t occur to me, but even that might’ve been a better idea than what happened. It wasn't that kind of doctor yet. 
 
-I was sleep deprived and my sister should’ve left me alone. 
+I was sleep deprived and my sister should’ve left me alone (to be clear, I didn’t jump out of the car). 
 
 At the hospital, the sleep deprivation got worse. They decided I was at risk of catatonia, but, their evidence for that was actually extremely false, and the experience of the previous trauma was too recent for me to explain it to them. It took the last 5 years to process into a form that I could write. And for that matter, they didn’t ask. Not one of them, not a psychiatrist, not a nurse, not an attendant. Nobody asked about the details of the previous hospitalization, “mania,” and “catatonia.” They accepted what was in the medical records and decided it was reasonable to take a preventative measure against catatonia. That was a mistake. Well, not necessarily. Benzos aren’t that harmful administered once or for a really short period to halt catatonia. But daily, against a patient’s will, for months, is, as you’ll see, atrocious. Atrocious. I can’t stress this enough. Benzos are traumatizing and the subsequent chapters describe events that traumatized me infinitely more than the previous ones. 
 
