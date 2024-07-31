@@ -73,7 +73,7 @@ The head of OpenAI, the company that invented ChatGPT (that used MHDPA), whose n
 
 They were working on some AGI project called Q*, and the synchronicity may have been meant to give me hope, but [it didn't](https://github.com/animal-tree/Suspicious-Synchronicities/blob/main/Synchronicity-Paranoias.md).
 
-### Entire-forum being deleted 5 months after I emailed it to the faculty/administrators 
+### "Life ruined" post, entire-forum being deleted 5 months after I emailed it to the faculty/administrators 
 
 Description [after having shown it to Niaz who commented in person about it, and writing BrokenWisdoms as a result of the depression and fear that came from losing my only description of those events, one I hadn’t backed up anywhere, with comments from others about having experienced similar things, the trauma of benzodiazepine addiction/coercion, and expressing extreme sympathy, and it was the top post in that for 4-ish years running]
 
