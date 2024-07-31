@@ -149,7 +149,7 @@ My advisor Henry actually lived on Clover St. I could’ve hypothetically gotten
 
 I was sleep deprived and my sister should’ve left me alone.
 
-You know, it was around this time I did an i Ching reading what causes humanity's problems. The answer was, "Difficulty at the beginning" and then "increase.
+You know, it was around this time I did an I Ching reading what causes humanity's problems. The answer was, "Difficulty at the beginning" and then "increase."
 
 Oh yes, there was a difficulty at the beginning. I was sleep deprived. Or, you could trace it back even further to when my sister saw me in the hospital, told I was catatonic, and possibly on some level traumatized by that, some generalized anxiety fueling level. But then the increase came later.
 
