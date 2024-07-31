@@ -155,7 +155,7 @@ Oh yes, there was a difficulty at the beginning. I was sleep deprived. Or, you c
 
 The increase came in drugs.
 
-### Benzos and University of Rochester’s Strong Hospital
+### The University of Rochester’s Strong Hospital
 
 At the hospital, the sleep deprivation got worse. They decided I was at risk of catatonia, but, their evidence for that was actually extremely false, and the experience of the previous trauma was too recent for me to explain it to them. It took the last 5 years to process into a form that I could write. And for that matter, they didn’t ask. Not one of them, not a psychiatrist, not a nurse, not an attendant. Nobody asked about the details of the previous hospitalization, “mania,” and “catatonia.” They accepted what was in the medical records and decided it was reasonable to take a preventative measure against catatonia. Obscene doses, of benzos, daily, for greater than 6 months, however, isn't reasonable for anything except GABA downregulation, not to mention coerced and unsolicited.
 
@@ -173,8 +173,6 @@ I also was prescribed antipsychotics, starting from RGH. But the remainder of th
 
 I was locked in there for an arbitrary time date, until they weaned me off from the benzos, which they planned to do, and promised me they would, *before* I was discharged.
 
-### Dosage
-
 The dose is huge, bigger than I'd ever taken. Other than the temporary dose I was given by a different doctor at RGH, I also had a prescription before, when I was in undergrad, primarily for stress-induced eczema (which is an unconventional but reasonable prescription), and social anxiety. And I remember carefully tabulating when I could take one, but I only did rarely, mostly for social events if anxiety was too high. I had and have the intelligence to do preliminary research before taking a drug, and knew and know they're dangerous, and I took $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram before, during the time when I took them at all, spacing out dosages usually by at least two weeks, carefully. They left hangovers, not like alcohol, but noticeable, drowsiness and my cognition blurred, the next day or when they wore off. I'm 5'5" 110lb. 
 
 The hospital rate was beyond unprecedented for me.
@@ -186,8 +184,6 @@ Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{
 For the first three weeks or so, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
 Benzos are a drug with similar effects and risks to alcohol and an alcohol-like mechanism of action (GABA), and the longer one takes them, the more one’s brain changes states to downregulate, neurologically like a hangover. At the dosage I was taking, they were like 4 - 10 shots or more of tequila a day.
-
-### Psychiatrists
 
 Clinicians come in, telling me I have to keep taking the benzos. 
 
