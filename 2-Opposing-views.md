@@ -185,6 +185,8 @@ Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{
 
 For the first three weeks or so, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
+Benzos are a drug with similar effects and risks to alcohol and an alcohol-like mechanism of action (GABA), and the longer one takes them, the more one’s brain changes states to downregulate, neurologically like a hangover. At the dosage I was taking, they were like 6 - 8 shots of tequila in a pill.
+
 ### Psychiatrists
 
 Clinicians come in, telling me I have to keep taking the benzos. 
