@@ -36,7 +36,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Yoga and crapes
       - Three psychiatrists, zero consensus, zero consent
       - Benzodiazepine mechanism of action
-      - Hospitalization
+      - Other patients
       - My... trauma
     - Part 3 (University PhD advisors, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
