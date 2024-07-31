@@ -189,7 +189,7 @@ I was extremely high.
 
 I was told they'd wean me off before I was discharged. 
 
-For the first three or so weeks, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
+For the first three or so weeks, I was high and having fun. Then the fog rolled in. The chemical waterboarding was taking effect.
 
 Clinicians come in, telling me I have to keep taking the benzos. 
 
