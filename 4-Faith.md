@@ -79,7 +79,7 @@ Description [after having shown it to Niaz who commented in person about it, and
 
 ### House on May St. 
 
-Description (this was in my 2nd semester, Spring, 2018) [where I came up with my long-term memory research ideas, and realized that stochasticism in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature]
+Description [2nd semester, Spring, 2018, where I came up with my long-term memory research ideas, and realized that stochasticism in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature]
 
 ### Physics
 
