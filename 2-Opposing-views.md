@@ -189,13 +189,13 @@ I was extremely high.
 
 I was told they'd wean me off before I was discharged. 
 
-For the first two or three weeks, I was high and having fun. Then the fog rolled in. The chemical waterboarding was taking effect.
-
 Clinicians come in, telling me I have to keep taking the benzos. 
 
-Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something, or perhaps the second psychiatrist saw me in the "fog" personality, whereas the first one had seen me in the "high" personality. 
+I argued with them from the beginning. I later convinced the first psychiatrist while my personality was still sharp.
 
-I argued with them from the beginning. I even convinced the first psychiatrist while my personality was still sharp.
+For the first two or three weeks, I was high and having fun. Then the fog rolled in. The chemical waterboarding was taking effect.
+
+Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something, or perhaps the second psychiatrist saw me in the "fog" personality, whereas the first one had seen me in the "high" personality. 
 
 There were two psychiatrists. The first one wanted to wean me off. The second one, who came in later to replace him, whose name I don't remember either because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision and said the outpatient doctor would wean me off after the hospitalization, though they did gradually reduce the dose.
 
