@@ -195,7 +195,7 @@ I argued with them from the beginning. I later convinced the first psychiatrist 
 
 For the first two or three weeks, I was high and getting along well with everybody because benzos (and GABA agonists generally including alcohol) reduce my social anxiety. Then the fog rolled in. The chemical waterboarding was taking effect.
 
-Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something, or perhaps the second psychiatrist saw me in the "fog" personality, whereas the first one had seen me in the "high" personality. 
+Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something, or perhaps the second psychiatrist saw me in the "fog" personality, whereas the first one had seen me in the "high" personality, but they changed their minds about weaning me off before I was discharged. I could tell the first psychiatrist wasn't convinced. The second one was sure.
 
 There were two psychiatrists. The first one wanted to wean me off. The second one, who came in later to replace him, whose name I don't remember either because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision and said the outpatient doctor would wean me off after the hospitalization, though they did gradually reduce the dose.
 
