@@ -137,29 +137,9 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 - **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
 - **I was there because my sister was worried.**
 
-### Ominous drive
-
-It was late in the evening.
-
-I remember my mom and sister weren’t that worried, but my sister insisted on driving me, since she has general anxiety and is quick to worry about family. She had this big red car. It looked like a devil vehicle. She's since replaced it with a new one, not a minivan and not red. But I was in that car — I guess it’s called a minivan, I don’t know, my family / she didn’t afford nice cars before — when a sense told me as she was driving to jump out — well, not as she was driving, when we were at Clover St., stopped at a red light, and a sense inside me — not “God,” I wasn’t psychotic this time — told me to jump out, like we were headed towards danger, and I was sleep deprived enough to believe the fear. 
-
-I probably could’ve slept that night, and I’ve felt betrayed by my sister for some years after because, had I been trusted that night without intervention, then she probably wouldn’t have taken me to the hospital, and the following dive into a deeper trauma of my life could’ve been avoided. Yes, they got deeper. I was about to be waterboarded in hellfire, by the doctors.  
-
-My advisor Henry actually lived on Clover St.  I could’ve hypothetically gotten out at the red light and walked to his house. Of course, I didn’t do that, and that specific thought didn’t occur to me, but even that might’ve been a better idea than what happened. It wasn't that kind of doctor yet. 
-
-I was sleep deprived and my sister should’ve left me alone (to be clear, I didn’t jump out of the car). 
-
 ### Psychiatrists at the University of Rochester’s Strong Hospital
 
-At the hospital, the sleep deprivation got worse. They decided I was at risk of catatonia, but, their evidence for that was actually extremely false, and the experience of the previous trauma was too recent for me to explain it to them. It took the last 5 years to process into a form that I could write. And for that matter, they didn’t ask. Not one of them, not a psychiatrist, not a nurse, not an attendant. Nobody asked about the details of the previous hospitalization, “mania,” and “catatonia.” They accepted what was in the medical records and decided it was reasonable to take a preventative measure against catatonia. That was a mistake. Well, not necessarily. Benzos aren’t that harmful administered once or for a really short period to halt catatonia. But daily, against a patient’s will, for months, is, as you’ll see, atrocious. Atrocious. I can’t stress this enough. Benzos are traumatizing and the subsequent chapters describe events that traumatized me infinitely more than the previous ones. 
-
-The doctors had some justification. I was several nights more without sleep in the hospital, because of the hospital, because of the intensifying sense of fear that began around Clover St. on the drive to the hospital. 
-
-But even under the worst assumptions, they had no justification for the prescription they prolonged on me. And they gave them to me coercively. The antipsychotics I accepted, but the catatonia “medicine” — benzos — I tried to argue against. They didn’t allow it, threatened a court order, because at that point I was in, my family was gone, and the doctor has the say, and crazy people need to be treated, am I right? 
-
-By the way, my mom even prevented electroshock therapy. I had my mom ask them not to give me the benzos, and they either convinced her enough, or she had no say.
-
-Plus, benzos helped so much in RGH! Must’ve been the perfect medicine and I just didn’t take them long enough. So waterboard them into my oblivions, until I have no fear left, and all is bright as rain, and we’ll see then what happens. 
+I get hospitalized that second time months after that discharge from the first hospitalization, because my sister was worried that I wasn't sleeping as well and didn't sleep the previous night; I’m fully lucid but sleep deprived; I'm scared as hell due to the hospital setting and end up not sleeping another night, maybe even two, while there, creating in me a more manic-seeming personality; they assume I'm going through another manic episode and at risk of entering catatonia; they force me to take benzodiazepines, not for the sleep deprivation, but I believe for mania or catatonia, at a dosage only prescribed for severe catatonia, so presumably that (I think maybe to prevent catatonia?). The dosage was so high... “and I was so high” is an accurate way to characterize the coerced drug’s unsolicited effect. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing as much GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
 
 Damn. I'm sorry. This is hard. 
 
