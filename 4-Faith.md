@@ -67,7 +67,7 @@ CMT (the portal that was used to submit to the "NIPS" 2018 conference, today cal
 
 And not only foretold to my university's professors, but innovated on and executed successful experiments verifying the early innovation — and formal paper submission, later derailed by me having to switch advisors, fields, and put on deadlines, not to mention all of their doubt, skepticism, and lack of enthsuiasm (oh but enthusiasm came later when MHDPA exploded, with Henry even telling me on email record, after he was no longer my advisor, that I should work on vision transformers!).
 
-### "Sam Altman" same-time termination, OpenAI's Q* project
+### Sam "Altman"
 
 The head of OpenAI, the company that invented ChatGPT (that used the same method I was still uncredited for by my university for foretelling to them), whose name is "Sam Altman" (mine is Sam Lerman), and "Altman" does not mean "teacher," was terminated as the head of OpenAI in an unusually sensationalized situation exactly 17 days after my termination, then was brought back.
 
