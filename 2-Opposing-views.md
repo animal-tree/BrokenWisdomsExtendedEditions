@@ -137,7 +137,7 @@ There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The am
 - **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
 - **I was there because my sister was worried.**
 
-### Ominous Drive
+### Ominous drive
 
 I remember my mom and sister weren’t that worried, but my sister still insisted on driving me. She had this big red car. It looked like a devil vehicle. She's since replaced it with a new one, not a minivan and not red. But I was in that car — I guess it’s called a minivan, I don’t know, my family / she didn’t afford nice cars before — when a sense told me as she was driving to jump out — well, not as she was driving, when we were at Clover St., stopped at a red light, and a sense inside me — not “God,” I wasn’t psychotic this time — told me to jump out, like we were headed towards danger, and I was sleep deprived enough to believe the fear. 
 
