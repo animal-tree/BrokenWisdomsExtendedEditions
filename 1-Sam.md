@@ -29,9 +29,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
     - Part 2 (University-hospital psychiatrists, University outpatient doctor, University psychiatric ward janitor, University-hospital police officers)
       - House on May St.
-      - Psychosis and Rochester General Hospital (RGH)
-      - Clover St.
-      - The University of Rochester’s Strong Hospital
+      - Psychiatrists
       - Benzodiazepine mechanism of action
       - Hospitalization
       - My... trauma
