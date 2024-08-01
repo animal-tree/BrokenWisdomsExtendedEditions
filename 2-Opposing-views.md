@@ -80,126 +80,29 @@ It was in that house when Aetna cut me off from Dupilumab and my hair started fa
 
 After that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized. It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Lily (temporarily name-changed, while I’m still writing this).
 
-### Psychosis, and Rochester General Hospital (RGH)
+### Psychiatrists
 
-About 5 - 8 months after the hair loss, on Chrsitmas Eve, 2018, I had a psychotic episode (no prior history, not even of mania) that was diagnosed as a “manic episode” (but in my "opinion," by an ordinary psychiatric definition, was "psychotic," since the two days of it prior to the hospitalization involved: 
+This is going to be hard. What the fuck can I say? I was going to exclude this whole section. This is night-marish and you should be scared. Oh friendly psychiatrist pops in to tell me that they can't stop the benzodiazapine coercion. No, that's not the beginning...
 
-- God telling me “He” was going to kill my mom if I didn’t circumcise myself;
-- circumcising myself;
-  - I got a clamp iron, and — how to describe the other tool I used? —
-  - “saw knife” might not be what it’s called,
-  - a kitchen knife with really toothy edges that by all expectations should’ve sliced through with the full strength I was sawing it down by;
-  - I think “God” figured “good enough” after that, seeing as all my strength was used, and blood was over the kitchen floor;
-  - I cleaned up the blood with paper towels;
-- then God telling me “He” was going to kill my mom if I didn’t go somewhere, and that being near my mom was going to drain her and kill her because of the — I don't know what to call it, transcendent, spiritual, schizophrenic — state I was in;
-- staying in the woods in the freezing snow all day and night;
-- "God" telling me I had to stay there for a week;
-- “God” telling me to choose — “up” or “down” — with a throat movement situation that I sensed — where “up” meant “power” and “siding with men” and “down” meant siding with my mom, and I chose down and kept choosing down;
-- "God" commanding me to put a stick in my butt while threatening to kill my mom, so I did that as well in the woods, uncomfortably, since I can’t even tolerate my own finger there;
-  - incidentally, this was all on Christmas, Christmas Eve to Christmas morning/night, but hopefully this context makes clear that I had nothing to do with that, and though this doesn't help my case to add, I barely knew it was Christmas since my family is Jewish and we don't celebrate;
-- “God” telling me my mom was drowning in the freezing brook;
-- me jumping in the freezing brook to save my mom who the whole time I thought was dying, and now thought was drowning in the brook;
-- me crawling out of the freezing brook feeling unable to move due to the cold, as I envisioned that my mom was dead having drowned, smiling at me with deep defeat from beyond the realms of consciousness, and that I was going to resurrect as my paralyzed wheelchair-bound neighbor who got registered as a sex-offender because of internet child porn, who depended on his 80-something year-old mom to take care of him to function, who smelled like pee, who constantly made our whole apartment hallway reek of pee, and who was an alcoholic, a Ukranian man in his 50s named Volyoda who, interestingly, ended up dying later that subsequent year in a psychosis revolving around his mom dying; and — resuming the part about me — 
-- me then screaming for the ambulance to a full moon in the woods, my voice randomly and suddenly sounding insincere;
-- my pants had fallen partially down my legs when I had crawled out of the brook and God “told me” not to adjust them on faith;
-- the ambulance then finding me like that at around maybe 3 AM or 4 AM, wet from the brook water and possibly hypothermic with pants partially down though they pulled them up quickly as they carried me up to the ambulance, and bringing me to the hospital;
-- however, I didn’t share any of those details;
-- “God told me” to tell the ambulance responders that I was in there “for pleasure” on a faith regarding my pants that had partially fallen over my boxers and the sex-offender resurrection vision, which I did;
-- and that was all I told the ambulance responders or the first nurses about what happened — “for pleasure”;
-- my legs were thawed in some machine and my mom arrived and I was still afraid she was going to die, but I didn’t say anything;
-- a nurse, but no one else, saw and remarked on the slice/gash on my foreskin;
-- the foreskin eventually healed, and that is a miracle;
-- [add details about frostbite/hypothermia situation from MyChart, which notably includes nothing about any of the details of the psychosis, including any circumcision]).
+Eczema leads to hair loss leads to depression and worsening psychiatric state.
 
-There was a Santa Clause who showed up. He wanted to say hi. It was odd. (The ambulance driver had a big bushy white beard that only now, as I’m remembering, do I sense some irony of humor about his rather out of the ordinary decision to visit me in the hospital room to check in, like coming off his ambulance sleigh to wish me a sardonic Christmas). 
+I get hospitalized. They force me to take benzodiazepines. The dosage was so high... “and I was *so high*” is an accurate way to characterize the coerced drug’s unsolicited effect. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing as much GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
 
-- Then, after they dragged me to another room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it;
-- I went into a conscious catatonia and stayed still due to a “command from God” to do so, even as the doctors, who thought I was unconscious, chatted about me being “Jesus” bullying/sarcastically while they dragged my body to the MRI machine;
-- I’d kind of intimately shaken hands with the police officers prior to the catatonia, so I think that’s what triggered that bullying;
-- there was a lot of confusion after the catatonia, so the information about my foreskin didn’t pass from nurse 1 to people N, or else “mania” wouldn’t have been the diagnosis, and more questions would’ve been asked;
-- that nurse was just there to help thaw my legs to prevent hypothermia and frostbite;
-- then my sister arrived and touched my arm and told the doctor that I was conscious because she saw my small smile when she did that — not like an insincere smile, a smile because I desperately needed that love and warmth, and was afraid;
-- and the doctor reassured her that I wasn’t (conscious);
-- the "catatonia" might've not been catatonia since it stemmed from a conscious cognitive delusion, in which I was obeying a yogic-type control of my body, but which did not immobilize me if I made the cognitive choice to surrender the obedience, which I didn't, because I was afraid that my mom was going to die if I did;
-- "God" telling me to wait like that for three days, with my jaw clenched;
-  - this detail also doesn't get shared with anyone;
-- a couple days later, benzos brought me out of the pseudo-catatonia;
-- I also gave the “for pleasure” answer to the psychiatrist, who diagnosed me with a manic episode and catatonia;
-- the nurses there were delicate and gentle;
-- then RGH discharged me two weeks later.
+Damn. I'm sorry. This is hard. 
 
-> [!NOTE]
-> I'm actually proud of that psychosis because it proved how much I'd do to save a person's life, at least my mom's anyway.
-  
-- **Months since the first hospitalization**, I end up not sleeping all night; 
-- my sister happened to visit the next day;
-- due to having not slept all night, she was worried I might be going through another manic episode and insisted to my mom and me to drive me to **the University of Rochester’s Strong Hospital;**
-- **the doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it;**
-- **I was there because my sister was worried.**
+Clinicians come in, telling me I have to keep taking the benzos. It's not my choice. In the hospital, it was either that or court order. The dose is huge. I also had a prescription before, for stress-induced eczema, and social anxiety. And I remember carefully tabulating when I could take one, but I only did rarely, mostly for social events if anxiety was too high. I knew they were dangerous. I warily took a quarter to a half of a milligram before, usually much less than once every two weeks, during the time when I took them at all, and that much left hangover symptoms. Not major hangovers, not like alcohol, but noticeable, next-day drowsiness and my cognition feeling blurred. That was before the hospitalization. The hospital rate was beyond unprecedented for me, a 5'5" 110lb guy.
 
-### Clover St.
-
-Marina’s my sister, 5 years older than me and still texts me about mom, to make sure she’s safe, whenever she hasn’t heard from her recently. We’re both afraid of her dying, some now less psychotically than others. Marina has “generalized anxiety disorder.” She probably wouldn’t stick a stick up her butt, but she’d also freak out if she thought mom was in danger. And me. Enough to rush me to her car, with mom. At the time, she was a nurse at RGH (now she's a nurse practitioner). She knew not sleeping all night is a symptom or potential precursor of mania, and I think it was me who chose to go to University of Rochester’s Strong Hospital this time, given the choice between the two. That part of this was my fault.
-
-I probably could’ve slept that night, and I’ve felt betrayed by my sister for some years after. Had she trusted me that night to sleep, I probably would’ve, no intervention would’ve been needed, she probably wouldn’t have taken all of us to the hospital, and the following dive into a deeper trauma of my life wouldn’t have happened. Yes, they got deeper. I was about to be waterboarded in hellfire, by the doctors (medical doctors — the other kind comes later).  
-
-She had this big red car, like a devil vehicle. She's since replaced it with a new one, not a minivan and not red. But I was in that car when a sense told me as she was driving to open the door and run — well, not as she was driving, at least not when the opportunity presented itself: when we were at Clover St., stopped at a red light. I wasn’t psychotic this time, the sense wasn’t “God.” It was like we were headed towards danger, and I was sleep deprived enough to believe the fear, but not act on it.
-
-My advisor Henry actually lived on Clover St. I could’ve hypothetically gotten out at the red light and gone to his house. Of course, I didn’t do that, and that specific thought didn’t occur to me, but even that might’ve been a better idea than what followed. 
-
-I was sleep deprived and my sister should’ve left me alone.
-
-You know, it was around this time I did an I Ching reading what causes humanity's problems. The answer was, "Difficulty at the beginning" and then "increase."
-
-Oh yes, there was a difficulty at the beginning. I was sleep deprived. Or, you could trace it back even further to when my sister saw me in the hospital, told (by doctor) I was catatonic, and possibly on some level was traumatized by that, some generalized anxiety fueling level, especially when her inner subconcious probably knew something about her brother's state was different than she was told, and that he was afraid. But then the increase came later.
-
-The increase came in drugs.
-
-### The University of Rochester’s Strong Hospital
-
-At the hospital, the sleep deprivation got worse. They decided I was at risk of catatonia, but, their evidence for that was actually extremely false, and the experience of the previous trauma was too recent for me to explain it to them. It took the last 5 years to process into a form that I could write. And for that matter, they didn’t ask. Not one of them, not a psychiatrist, not a nurse, not an attendant. Nobody asked about the details of the previous hospitalization, “mania,” and “catatonia.” They accepted what was in the medical records and decided it was reasonable to take a preventative measure against catatonia. Obscene doses, of benzos, daily, for greater than 6 months, however, isn't reasonable for anything except GABA downregulation, not to mention coerced and unsolicited.
-
-The antipsychotics I accepted, but the catatonia “medicine” — benzos — I tried to argue against. They didn’t allow it, threatened a court order.
-
-By the way, my mom even prevented electroshock therapy (as you'll see later, not all patients were so lucky). I had my mom ask them not to give me the benzos, and they either convinced her enough, or she had no say. 
-
-<!-- Benzos are a drug with similar effects and risks to alcohol and an alcohol-like mechanism of action (GABA), and the longer one takes them, the more one’s brain changes states to downregulate, neurologically like a hangover, even from one dose, let alone daily for months at obscene doses. -->
-
-<!-- Benzos are alcohol in a pill. The results of the studies that claim to support their use in the long-term contradict previous ones of prior decades, by the way, if that doesn’t raise an eyebrow. GABA doesn’t come up without coming down, hard. Potent GABA agonists, including benzos, should never be thought of as safer or especially different from alcohol, nor prescribed differently than alcohol is recommended, that is, the short-term or with moderation between consumption/“doses.” -->
-
-I also was prescribed antipsychotics, starting from RGH. But the remainder of this book will not be a dissection of antipsychotics, since hereafter I was on them together with benzos, making the judgement of their efficacy compared to the damage from benzos hard to disentangle. The rest of this will be about the experience that was most-plausibly caused by the benzos.
-
-<!-- If the University of Rochester’s Strong Hospital’s logic follows their actions, their reasoning must’ve gone something like this: if benzos helped in RGH, I just didn’t take them long enough, so waterboard my brain with them into oblivion, no questions, forget the timeline, hold me in the hospital for some reason for a month. -->
-
-I was locked in there for an arbitrary time date, until they weaned me off from the benzos, which they planned to do, and promised me they would, *before* I was discharged.
-
-The dose is huge, bigger than I'd ever taken. Other than the temporary dose I was given by a different doctor at RGH, I also had a prescription before, when I was in undergrad, primarily for stress-induced eczema (which is an unconventional but reasonable prescription), and social anxiety. And I remember carefully tabulating when I could take one, but I only did rarely, mostly for social events if anxiety was too high. I had and have the intelligence to do preliminary research before taking a drug, and knew and know they're dangerous, and I took $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram before, during the time when I took them at all, spacing out dosages usually by at least two weeks, carefully. They left hangovers, not like alcohol, but noticeable, drowsiness and my cognition blurred, the next day or when they wore off. I'm 5'5" 110lb. 
-
-The hospital rate was beyond unprecedented for me.
-
-They forced me to take 48x that dosage reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most, had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
+I had to stay there for a month and they forced me to take 48x that dosage reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most, had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
 
 Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $168\text{x}$ increase.
 
-For the first three weeks or so, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
+For the first three or so weeks, I was high. Then the fog rolled in. The chemical waterboarding was taking effect.
 
-Benzos are a drug with similar effects and risks to alcohol and an alcohol-like mechanism of action (GABA), and the longer one takes them, the more one’s brain changes states to downregulate, neurologically like a hangover. At the dosage I was taking, they were like 4 - 10 shots or more of tequila a day.
+They said they'd wean me off before I was discharged, but changed their minds. Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something. There were two psychiatrists. The first one seemed to want to wean me off. The second one, I don't remember her name because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision last-minute and said the outpatient doctor would wean me off after the hospitalization, though they did gradually reduce the dose.
 
-Clinicians come in, telling me I have to keep taking the benzos. 
+He didn't, and he was a bastard. I saw him for about 5 months and don't remember his name either. But not because of being high. At that point, I was in severe cognitive decline. And the euphoria was turning into excruciating anxiety and fear, and then grey cloud and fog, and terror. I should've weaned myself off, but not only did the drug effect impair my cognition, but because of the terror-state I was in due to the drug, my self-confidence was too low to defy my doctor’s orders, even as every rational thought told me I should. I listened to him up to the 6 months point, arguing as he kept vaguely prolonging a distant eventual taper date, for no justification specified other than falling back on clinical authority. I argued and I think that's most of what contributed to his doubling down.
 
-I argued with them from the beginning. 
-
-There were two psychiatrists. The first one wanted to wean me off. The second one, who came in later to replace him, whose name I don't remember because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision and said the outpatient doctor would wean me off after the hospitalization.
-
-He (the outpatient doctor) didn't. He was like exactly what you'd imagine as the archetypal bad psychiatrist who doesn't care about his patient, is cold, unbelieving, and consumed with authority. I saw him for over 5 months and don't remember his name either. But not because of being high. At the point early when I was starting to see him, I was in severe cognitive decline, excruciating anxiety, fear, greyness and fog, and as our sessions progressed, terror, before burning hellfire with no exit. I should've weaned myself off as early as possible, but the impairment to my cognition prevented me from trusting myself enough to hear my own arguments and disobey his prescription.
-
-In the first month with him, I told him about all of those symptoms, and tried to relay the agony. He didn't care. He thought the benzos would help. He argued they could be safely taken for years.
-
-At no point did he specify a tapering schedule, despite me practically begging him.
-
-In the second month, I told him I was brain damaged. He wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low. He wanted to increase the dose.
-
-> The brain's writing mechanisms revolve around memory. During that period, I had no memory. My brain was grey. My linguistics have nothing vivid to center on because everything from that time period was grey. My brain didn't form the kind of memories I need to now relay the extreme trauma that it went through.
+3 months in, after reporting that I was brain damaged, he didn't believe me and wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low. He wanted to increase the dose.
 
 I can't describe this. 
 
@@ -294,8 +197,6 @@ You know, the way I learned about the calcification was because chunks of what I
 The steak-diet saved my ass.
 
 That Hell from the GABA downregulation didn't go away for more than a year, though the linguistics seem to want to say "for a full year" everytime I type this, even though more than a year and possibly ongoing is more accurate. Every neuron in my brain was behaving as if I was being mauled by a bear, without pause, day and night, every minute.
-
-The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the year of benzo neurochemical torture.
 
 And yep to mention the paranoia and distrust built from undergoing psychiatrist coercion (and malpractice), repeatedly being told I was going to be weaned off by the psychiatrists soon then relatively soon then at least eventually, and with the psychiatrist promises ultimately having proved to be straight-up lies, unjustified by any argument, all of my predictions still holding true and evidenced by the outcome and all of the psychiatrist self-contradicting plans causing the Hell on me that I warned them (the psychiatrists) of.
 
@@ -424,37 +325,7 @@ With respect to Chenliang, Chenliang wanted to allocate that Mechanical Engineer
 
 Meanwhile, under Niaz, in the Mechanical Engineering department, specicially Materials Science, I produced exactly the paper rate that she wanted, and through really hard work to make sure the ideas, experiments, grant-writing, data, and programming were all quality ([here is the GitHub repo I built for us](https://github.com/AGI-init/XRDs)).
 
-### Comedic Aside: Sexier moments during Chenliang tenure:
-
-Got to message someone named Tayler a week after my Taylor-CAM paper who reached out to me on Facebook who turned out to be a cam-girl ([“Taylor-CAM”](https://arxiv.org/abs/2006.08601))… and wasn’t as reproducible as I would’ve liked (she was barren), she also rejected me a few times like the conferences that rejected me (including the first time after all positive reviews)! I never met her.
-- She was quite a synchronicity because she went through a similar thing that I did on the same Christmas, 2018 night, except together with a bald Jewish guy (who she was married to at the time), and our interaction began exactly one week after I first archived my Taylor-CAM paper, my first-ever published paper, though I only realized all of this two years later when I was mourning that she’d stopped messaging with me on our coinciding November birthdays — yes really I’m serious. Well, coinciding week-wise. She was a couple years younger than me.
-
-> [!WARNING]
-> I was so devastated because of her that I had another hospitalization in which I think I was incidentally Bar Mitzvah’d — an inpatient got her dad to bring in a prayer sheet that he suggested I memorize for later recitation out loud. Over the next week or more, that inpatient insisted I read it, and I had the instinct to, all around the floor of that psychiatric unit. Interestingly, I was already saying the early lines of that prayer out of vague memory, all across the hospital, prior to being moved to that psychiatric unit (I think, though I don't actually recall doing so). That inpatient — who curiously looked and sounded like a much older Lily — ritually sanctified it via sharing the same deluded state I was in in which we both sensed that I had to do that, as we both paced around the hallways to make it happen, and she like did her own prayer.
->
-> The Aliyah prayer might've been a different prayer. I recall the first lines were the same [as this prayer](https://doingjewish.blog/2022/02/18/the-shabbat-candle-lighting-blessing-and-calling-on-the-ancestors-for-connection-and-wisdom/#:~:text=Baruch%20ata%20Adonai%2C%20Eloheinu%20Melech,commandment%20of%20lighting%20Shabbat%20candles.) up to at least "Melech ha-olam" or "vitzivanu," and a good length longer, and her dad was actually Christian but he knew I was Jewish and I think the prayer he brought that I memorized and recited was Jewish and it was in Hebrew, and after practicing with that woman, later, he came to visit her again, where I recited it in front of him.
->
-> That was the hospitalization that I resisted with combative attempts by fighting the police while I was in the grass where I was having a breakdown, following Tayler’s loss of interest in me. In that hospitalization, I learned a tongue trick that I’m still impressed with myself by that allowed me to circumvent any medications, even though the nurses made you open your mouth and stick your tongue out both above and below. I got damn fast at making the switch of the pill from roof of my mouth to under my tongue. I'm gonna add an exclamation point, because that was worthy of some awe: !.
->
-> It was also one of the last hospitalizations for me, ever. And it was a good one because — controversially or not, this did make a difference: I got to escape taking too many synthetic medicines via the pills they handed me, and the nurses were all my age and beautiful, which is an understated healing balm in medicine, and I was severely lacking that kind of warmth.
->
-> That other inpatient who looked like an older Lily, who narrativized it via her dad, made the experience a sacred non-delusion, and neither of us made the connection that that Hebrew prayer might’ve been a Bar Mitzvah (perhaps that’s stupid of me) until I kind of connected the dots of this context years later.
->
-> Those kinds of ritualistic non-gaslighting shared interpretations do far more to heal a person from the underlying causes of their mental breakdown than medications, as proved to be the case for me. I actually happened to call Tayler from that hospitalization, even manically told her “I’m Jesus,” as my linguistics seemed to literally guide themselves on their own, blissfully, and she somehow took me back temporarily after that (into her flirting DMs), until our shared birthday week, at which time, since I guess I was a certified man by all “good enough” synthetic metaphorical Bar Mitzvah standards, I guess I was ready for the ultimate coming of age ritual: being blocked by a beautiful woman I really like.
->
-> Regarding the beautiful nurses, I even got reprimanded for trying to flirt with one of them by writing my phone number on an attendance sheet, inspired somewhat by Tayler’s personality, and got patronizingly lectured by a man about respecting the women nurses in the hospital, despite him and the hospital staff being the ones in the position of authority, me being held captive and drugged there against my will (by them), cameras and police everywhere, and me neither wanting to be there nor feeling comfortable. But, in my defense, in case I somehow come out like the predator in this calculus, the flirting was from a manic delusion type thing, yogic-type sense that I had to. In none of these hospitalizations was I acting on any primitive (read: “for pleasure”) impulses, nor through any of this. The whole time I was under the sense or deluded belief that Tayler’s spirit was the one governing this, but that turned out [maybe](https://github.com/animal-tree/Suspicious-Synchronicities/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md) unvalidated, and I came out lucid without that mania or deluded belief, having unknowingly undergone a meaningful ritual with a fellow inpatient, and not consumed any pills except maybe small traces. That was also the hospitalization where I met Mobi, the 16 year old with drug problems who they drugged with benzos for years.
-
-Waxed wise with a close friend who I met on a trip to Israel many years back — someone who rather serendipitously was seated next to me on that plane — about reinforcement learning on Facebook, reconnected, and at his birthday party ran into someone who my religious friend (different guy incidentally) introduced me to years ago, who I then kept running into the next weeks at the beach literally by just remarkable luck, and each usually-accidental date we had was like a reinforcement learning episode, of me trying to listen to my subconscious and instinct, and getting rewarded or punished and ultimately the world’s lowest ever score aside from one much needed hug! We were both RL agents in that one (no not [“reinforcement learning agents”](https://github.com/slerman12/UnifiedMLold2/tree/master/Agents), “real life agents”)! The fun never ends. 
-
-The next summer I got another miraculous house situation where this really attractive person my age gave me a house rental without a lease with her lesbian roommate (roommates plural ‘cause girlfriend) and no background checks, where I came up with my [BittleBot idea with the methodology of using YouTube](https://github.com/AGI-init/Tributaries/blob/73e95d5006438f678507d0067025e484e66c6e73/Examples/Sweeps/Bittle.py#L11), and she was like a famous YouTuber, and not even the first talented YouTuber I got to meet (the other one by chance while I was editing [a YouTube video](https://youtu.be/VKoSfmECpx0?si=6PNBfaqbE-iY_GV8) in the park)! Then we never talked again (except the second person who I ran into a few years later, by a [physics-subverting](https://www.nature.com/articles/s41524-023-01164-8) precognitive sense that I can’t even describe here, who I talked to around the theme of “fire” just before I wrote [this essay about fire](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Fire.md) and Chenliang called me in to notify/“fire” me I didn’t get him enough papers — not sure what that would’ve entailed considering the statistically significant correlations of all of these probably deserving [their own interrogation of p-value](https://github.com/animal-tree/Writing-stuff-2/blob/main/Theories/quackery.md)).
-
-Somebody I was texting, who I knew from undergrad, was planning to go to Acadia National Park with me, and that inspired me to call my [rQdia paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=rqdia&btnG=) “rQdia” (pronounced Arcadia), but that one was on purpose, and it was rejected, and we ended up not going (it’s still in the not-really-planned-but-hypothetical books)!
-
-Well, I suppose there was the thanksgiving with Lily (as mentioned above, in [a relevant chapter](#other-patients)), which I also appreciated (and appreciate) and give thanks to.
-
-That’s all the very brief glimpses of [happiness](https://github.com/user-attachments/assets/c857908b-f4db-438d-b597-a5beb25428d3) I [got](https://github.com/user-attachments/assets/d90d847e-0364-4c33-94ea-146045da8f73) under Chenliang. Resume [tragedy](https://github.com/user-attachments/assets/236cf39c-c0a4-45e2-b932-18f62195edd2). 
-
-### Niaz Abdolrahim (okay, some more not-tragedy)
+### Niaz Abdolrahim 
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/93e5513c-604f-4f07-aa9f-8d8e9f61fd9c">
