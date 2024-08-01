@@ -82,10 +82,6 @@ After that house, I moved in with my mom to our apartment, where I came up with 
 
 ### Psychiatrists
 
-This is going to be hard. What the fuck can I say? I was going to exclude this whole section. This is night-marish and you should be scared. Oh friendly psychiatrist pops in to tell me that they can't stop the benzodiazapine coercion. No, that's not the beginning...
-
-Eczema leads to hair loss leads to depression and worsening psychiatric state.
-
 I get hospitalized. They force me to take benzodiazepines. The dosage was so high... “and I was *so high*” is an accurate way to characterize the coerced drug’s unsolicited effect. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing as much GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
 
 Damn. I'm sorry. This is hard. 
