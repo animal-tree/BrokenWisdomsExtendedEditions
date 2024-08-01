@@ -82,7 +82,9 @@ After that house, I moved in with my mom to our apartment, where I came up with 
 
 ### Psychiatrists
 
-I get hospitalized. They force me to take benzodiazepines. The dosage was so high... “and I was *so high*” is an accurate way to characterize the coerced drug’s unsolicited effect. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing as much GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
+About 5 - 8 months after the hair loss, I have hat was diagnosed as a "anic episode" in which I got hospitalized. Then months later, because my sister was worried that I ahdn't been sleeping, I get hospitalized again.
+
+They force me to take benzodiazepines. The dosage was so high... “and I was *so high*” is an accurate way to characterize the coerced drug’s unsolicited effect. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing as much GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
 
 Damn. I'm sorry. This is hard. 
 
