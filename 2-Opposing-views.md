@@ -177,7 +177,7 @@ Intermission...
 
 This diagram is an original understanding of the  computational neuron with a differentiable analog implemented <a href="https://github.com/slerman12/UnifiedMLold2/tree/master/Blocks/Architectures/LermanBlocks/BioNeuron">here</a>. 
 
-Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) I made on the topic.
+Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) (time-stamped 04/11/2021, though the idea was realized and shared to first advisor much earlier) I made on the topic.
 
 #
 
