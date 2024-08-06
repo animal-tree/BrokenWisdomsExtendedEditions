@@ -70,7 +70,7 @@ I finished making this [benzo-timeline diagram](https://github.com/slerman12/Det
 
 ### Covid
 
-Then Covid interestingly happened when I joined an all-Chinese lab (Chenliang’s). Almost like he was taking vengeance for me.
+[Then Covid interestingly happened](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md) when I joined an all-Chinese lab (Chenliang’s). Almost like he was taking vengeance for me.
 
 ### CMT deletion of record
 
