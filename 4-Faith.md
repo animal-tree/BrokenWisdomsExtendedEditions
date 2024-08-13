@@ -76,7 +76,7 @@ They were working on some AGI project called Q*, and the synchronicity may have 
 
 Michael’s name [is mockable](https://youtu.be/ZPKdJGY0YyE?si=ja-odwAD_z7G98ZK). 
 
-But from the age of three and two thirds, until 11th grade, as a result of the Uzbek translation when we moved, mine used to be much more mockable. 
+But from the age of three and two thirds, until 11th grade, as a result of the Uzbek mistranslation when we moved, mine used to be much more mockable. 
 
 As I described to my friend: 
 
