@@ -470,7 +470,7 @@ She also made these delicious Russian cookies for us called “Korshike,” that
 
 I had healthier food than the average American as a kid, despite my family’s poverty, but I still had eczema, allergies, and asthma through my whole childhood. 
 
-My grandma taught my mom dancing when they were younger, in Uzbekistan. Seeing my grandpa bedridden in the hospital, it was obvious to me that he was losing strength, just from the sedentary confinement to bed, that the doctors put him in, in a corner of an Nth floor of a tall hospital, with no natural light, nature, or fresh air. He would’ve benefited from some motion, out of bed and walking, outdoors, with nature, with fresh air. At least once a day, each day, without any grueling transits to reach such an environment. 
+My grandma taught my mom dancing when they were younger, in Uzbekistan. Seeing my grandpa bedridden in the hospital, even before the surgery, it was obvious to me that he was losing strength, just from the sedentary confinement to bed, that the doctors put him in, in a corner of an Nth floor of a tall hospital, with no natural light, nature, or fresh air. He would’ve benefited from some motion, out of bed and walking, outdoors, with nature, with fresh air. At least once a day, each day, without any grueling transits to reach such an environment. 
 
 I think had the hospital given my grandpa an organic steak/salmon-only diet, they probably could’ve saved his main artery from being blocked, without a surgery. Then no stents would be put into his healthier narrow arteries, no damaged kidneys, no grueling transit to heart doctor. Just physical therapy and rehabilitation. And maybe many more years, living beyond my grandma. 
 
