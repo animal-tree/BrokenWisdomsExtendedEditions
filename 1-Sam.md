@@ -35,6 +35,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Hospitalization
       - My trauma
     - Part 3 (University PhD advisors, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
+      - Samarkand, Uzbekistan and subjugation
       - Charles Venuto
       - Henry Kautz
       - Chenliang Xu
@@ -138,11 +139,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Existence of Definitions
       - Cosmogenesis Myth
       - Alternative Set of Definitions of Math and Philosophy
-  - [Does Nature Endorse?](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Does-Nature-Endorse%3F.md)
-    - Synchronicities in Presidential Elections
-      - Examples of a Plausible Universe-Endorsement
-      - Meaning
-      - Political Manipulation via Manufactured Signs
   - [Dormant Communications](Philosophy/Dormant-Communications.md)
   - [Fire](Philosophy/Fire.md)
   - [Imagination Theory](Philosophy/Imagination-Theory.md)
