@@ -271,6 +271,8 @@ The experience of losing my hair has cost me relationships and worsened my socia
 - **University CS department Chair**
 - **University Deans**
 
+### Samarkand, Uzbekistan and subjugation
+
 Many Jews, fled the Nazis. Anti-semitism was so severe in Ukraine, that Muslim nations, like Kazakhstan or Uzbekistan, were often the best available refuge for Jews, including for my grandpa’s mom Maná and his younger sister Rósa, and my grandpa, Yury. 
 
 Jews in large numbers evacuated, and during the evacuations, my grandpa chased a train in Kazakhstan that was already moving, that his mom and sister were already boarded on. 
