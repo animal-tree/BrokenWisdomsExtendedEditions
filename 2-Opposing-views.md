@@ -287,7 +287,7 @@ My mom was at the Embassy from early morning to night. “I left them with relat
 
 The interviewer laughed. “No, you’re absolutely right. Usually moms bring their kids here in order to show them to us. They think by proving, they’d get sympathy.”
 
-From the Republic of Uzbekistan, more than half a year later, we flew to Rochester, New York. I was 3 and two thirds.
+From the Republic of Uzbekistan, more than half a year later, we flew to Rochester, New York, immigrating officially as Jewish refugees. I was 3 and two thirds.
 
 ### PhD program
 
