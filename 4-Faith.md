@@ -49,7 +49,14 @@ Here is my favorite Shakespeare sonnet:
 > - (f) training multiple such wisdoms in parallel to vote across each other and create a more general diversity, and
 > - (g) representing concepts more generally by learning across far more varied domains.
 >   
-> I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had specialized appreciation. Each, individually or grouped, were dismissed by the faculty when they were still essentially mine, as they repeatedly gaslit me, with authoritative demand, into doubting my own far better understanding. "Simple truth miscall'd simplicity." The CS department's faculty, with occasional exception, couldn't hear anything that they didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them through their studies, normalized by their colleagues, and standardized, discussing "needy nothing trimm'd in jollity" while my ideas were "miscall'd simplicity" until they became mainstream, with credit for my teaching then "unhappily forsworn."
+> I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had specialized appreciation. Each, individually or grouped, were dismissed by the faculty when they were still essentially mine, as they repeatedly gaslit me, with authoritative demand, into doubting my own far better understanding. "Simple truth miscall'd simplicity." As well as other intuitions:
+> - (a) Randomness and diversity to escape local or "instantaneous" search limitations,
+> - (b) gradients as directions of most increase, whose finger can point both opposite less error or up towards more reward,
+> - (c) parameter-reuse methods for invariability and greater training diversity,
+> - (d) [attention as 3 convolutions](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md), and
+> - (e) [LSTMs as biological neurons](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link).
+>
+> The CS department's faculty, with occasional exception, couldn't hear anything that they didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them through their studies, normalized by their colleagues, and standardized, discussing "needy nothing trimm'd in jollity" while my ideas were "miscall'd simplicity" until they became mainstream, with credit for my teaching then "unhappily forsworn."
 >
 > I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil," hard work, brilliance, love, and art crushed with interrogations, urgency, and criteria based on ridiculous standards where the quality of the work meant much less than how deeply in the weeds students went to claim "state of the art" in time for the latest conference deadline.
 >
