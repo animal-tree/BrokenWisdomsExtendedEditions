@@ -41,15 +41,15 @@ Here is my favorite Shakespeare sonnet:
 > The relevance of "Art made tongue-tied by authority and folly, doctor-like controlling skill" is impossible to communicate. It's no coincidence that "doctor-like" is the simile Shakespeare turned to, as that is the perfect description of the kind of authority he refers to, which governs, not just Chenliang's group, but most of the university, academia, and — most un-medically — medicine. 
 >
 > My intuitive ideas, way ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them, like, each of the following, both individually and grouped:
-> - (a) Choose actions with the highest environment rewards of those states in memory most similar to the current state, or explore via taking random actions to get more state-action memory
-> - (b) Similarity as measurable by the regular distance between those numbers (or "states") that represent datapoints
-> - (c) Decomposing those representations into representations of parts and relations
-> - (d) Efficient relational reasoning by prioritizing information for each part relative to each other part
+> - (a) Choose actions with the highest environment rewards of those states in memory most similar to the current state, or explore via taking random actions to get more state-action memory,
+> - (b) similarity as measurable by the regular distance between those numbers (or "states") that represent datapoints,
+> - (c) decomposing those representations into representations of parts and relations,
+> - (d) efficient relational reasoning by prioritizing information for each part relative to each other part,
 > - (e) Representing each part with numbers that don't vary much for that part unless there are meaningful contextual changes
-> - (f) Training multiple such wisdoms in parallel to vote across each other and create a more general diversity
-> - (g) Representing concepts more generally by learning across far more varied domains.
+> - (f) training multiple such wisdoms in parallel to vote across each other and create a more general diversity,
+> - (g) or representing concepts more generally by learning across far more varied domains.
 >   
-> I proposed all of these fundamental methods while they were still original or before they had any mainstream awareness, each, together or grouped, were dismissed by the faculty when they were still mine. "Simple truth miscall'd simplicity." The CS department's faculty, with occasional exception, couldn't hear anything that they didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them through their studies, normalized by their colleagues, and standardized, discussing "needy nothing trimm'd in jollity" while my ideas were "shamefully misplac'd" until they became mainstream, with credit for my teaching then "unhappily forsworn."
+> I proposed all of these fundamental methods while they were still original or before they had any mainstream awareness, each, together or grouped, were dismissed by the faculty when they were still mine, as they did what felt like gaslighting to convince me I was wrong. "Simple truth miscall'd simplicity." The CS department's faculty, with occasional exception, couldn't hear anything that they didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them through their studies, normalized by their colleagues, and standardized, discussing "needy nothing trimm'd in jollity" while my ideas were "shamefully misplac'd" until they became mainstream, with credit for my teaching then "unhappily forsworn."
 >
 > I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil," hard work, brilliance, love, and art crushed with interrogations, urgency, and criteria based on ridiculous standards where the quality of the work meant much less than how deeply in the weeds students went to claim "state of the art" in time for the latest conference deadline.
 >
