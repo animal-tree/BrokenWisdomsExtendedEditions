@@ -46,8 +46,8 @@ Here is my favorite Shakespeare sonnet:
 > - (c) decomposing those representations into representations of parts and relations,
 > - (d) efficient relational reasoning by prioritizing information for each part relative to each other part,
 > - (e) Representing each part with numbers that don't vary much for that part unless there are meaningful contextual changes
-> - (f) training multiple such wisdoms in parallel to vote across each other and create a more general diversity,
-> - (g) or representing concepts more generally by learning across far more varied domains.
+> - (f) training multiple such wisdoms in parallel to vote across each other and create a more general diversity, or
+> - (g) representing concepts more generally by learning across far more varied domains.
 >   
 > I proposed all of these fundamental methods while they were still original or before they had any mainstream awareness, each, together or grouped, were dismissed by the faculty when they were still mine, as they gaslit me into doubting my own far better understanding. "Simple truth miscall'd simplicity." The CS department's faculty, with occasional exception, couldn't hear anything that they didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them through their studies, normalized by their colleagues, and standardized, discussing "needy nothing trimm'd in jollity" while my ideas were "shamefully misplac'd" until they became mainstream, with credit for my teaching then "unhappily forsworn."
 >
