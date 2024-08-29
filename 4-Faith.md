@@ -49,7 +49,7 @@ Here is my favorite Shakespeare sonnet:
 > - (f) training multiple such wisdoms in parallel to vote across each other and create a more general diversity, and
 > - (g) representing concepts more generally by learning across far more varied domains.
 >   
-> I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had specialized appreciation. Each, individually or grouped, were dismissed by the faculty when they were still essentially mine, as they repeatedly gaslit me, with authoritative demand, into doubting my own far better understanding. "Simple truth miscall'd simplicity." As well as other intuitions:
+> I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had specialized appreciation. Each, individually or grouped, were dismissed by the faculty when they were still essentially mine, as I was repeatedly gaslit by them, with authoritative demand, into doubting my own far better understanding. "Simple truth miscall'd simplicity." As well as other intuitions:
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations,
 > - (b) gradients as directions of most increase, whose finger can point both opposite less error or up towards more reward,
 > - (c) parameter-reuse methods for invariability and greater training diversity,
