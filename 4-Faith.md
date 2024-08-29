@@ -45,7 +45,7 @@ Here is my favorite Shakespeare sonnet:
 > - (b) similarity as measurable by the regular distance between those numbers (or "states") that represent datapoints,
 > - (c) decomposing those representations into representations of parts and relations,
 > - (d) efficient relational reasoning by prioritizing information for each part relative to each other part,
-> - (e) Representing each part with numbers that don't vary much for that part unless there are meaningful contextual changes
+> - (e) representing each part with numbers that don't vary much for that part unless there are meaningful contextual changes
 > - (f) training multiple such wisdoms in parallel to vote across each other and create a more general diversity, or
 > - (g) representing concepts more generally by learning across far more varied domains.
 >   
