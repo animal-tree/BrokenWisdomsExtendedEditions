@@ -41,7 +41,7 @@ Here is my favorite Shakespeare sonnet:
 > The relevance of "Art made tongue-tied by authority and folly, doctor-like controlling skill" is impossible to communicate. It's no coincidence that "doctor-like" is the simile Shakespeare turned to, as that is the perfect description of the kind of authority he refers to, which governs, not just Chenliang's group, but most of the university, academia, and — most un-medically — medicine. 
 >
 > My intuitive ideas, way ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them, like:
-> - (a) Choose actions with the highest environment rewards of those states in memory most similar to the current state, or explore via taking random actions to get more state-action memory,
+> - (a) Choosing actions with the highest environment rewards of the past memories of states and actions whose states were most similar to the current state, or explore via taking random actions to get more state-action memory,
 > - (b) similarity as measurable by the regular distance between those numbers (or "states") that represent datapoints,
 > - (c) decomposing those representations into representations of parts and relations,
 > - (d) efficient relational reasoning by prioritizing information for each part relative to each other part,
