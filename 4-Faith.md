@@ -53,7 +53,7 @@ Here is my favorite Shakespeare sonnet:
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations,
 > - (b) gradients as directions of most increase, whose finger can point both opposite less error or up towards more reward,
 > - (c) parameter-reuse methods for invariability and greater training diversity,
-> - (d) [attention as 3 convolutions](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md), and
+> - (d) [convolution is all you need](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md), and
 > - (e) [LSTMs as biological neurons](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link).
 >
 > The CS department's faculty, with occasional exception, couldn't hear anything that they didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them through their studies, normalized by their colleagues, and standardized, discussing "needy nothing trimm'd in jollity" while my ideas were "miscall'd simplicity" until they became mainstream, with credit for my teaching then "unhappily forsworn."
