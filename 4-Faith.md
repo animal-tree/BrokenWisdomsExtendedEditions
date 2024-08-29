@@ -85,7 +85,7 @@ Here is my favorite Shakespeare sonnet:
 #
 
 > [!NOTE]
-> ### Exiting Hell, unifying quantum with Einstein, & transcending repressions
+> ### Exiting Hell, unifying quantum with Einstein, & symbiotically transcending individual psychological and behavioral repression
 > 
 > Sartre, in his play [No Exit](https://en.wikipedia.org/wiki/No_Exit) (wherein there is no exit door from Hell), described in less words than anybody that "Hell is other people," meaning, Hell — not just suffering, but Hell — comes from the societal relationships or lackthereof that we cannot move through, transcend, or escape. 
 >
