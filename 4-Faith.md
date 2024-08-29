@@ -42,7 +42,7 @@ Here is my favorite Shakespeare sonnet:
 >
 > My intuitive ideas, way ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them, like:
 > - (a) Choosing actions with the highest environment rewards of the past memories of states and actions whose states were most similar to the current state, or exploring via taking random actions to get more state-action memory,
-> - (b) "similarity" as measurable by the regular distance between those numbers (or "states") that represent input datapoints,
+> - (b) "similarity" as measurable by the regular distance between those numbers ("states") that represent input datapoints,
 > - (c) decomposing those representations into representations of parts and relations,
 > - (d) efficient relational reasoning by prioritizing information for each part relative to each other part,
 > - (e) representing each part with numbers that don't vary much for that part unless there are meaningful contextual changes,
