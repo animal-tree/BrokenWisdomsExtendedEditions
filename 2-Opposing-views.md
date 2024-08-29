@@ -271,6 +271,8 @@ The experience of losing my hair has cost me relationships and worsened my socia
 - **University CS department Chair**
 - **University Deans**
 
+### Subjugation in Uzbekistan
+
 Many Jews, fled the Nazis. Anti-semitism was so severe in Ukraine, that Muslim nations, like Kazakhstan or Uzbekistan, were often the best available refuge for Jews, including for my grandpa’s mom Maña and his younger sister Rosá, and my grandpa, Yury. Jews in large numbers evacuated, and during the evacuations, my grandpa chased a train in Kazakhstan that was already moving, that his mom and sister were already boarded on. Rosá was crying in fear, thinking my grandpa wasn’t going to make it. He ran and jumped, just at the edge of the moment, into their arms, onto the carriage of the train, to make the grueling journey from the basket breads he was getting, to the transit. At that time, my grandpa’s father, Yacob, wasn’t with them. Yacob, also an Ashkenazi Jew, was drafted and was mandatorily fighting in the warfront, for Ukraine. 
 
 Nearing the end of the war, my grandpa’s family returned from Kazakhstan and the warfront. My grandpa studied at a production college in Ukraine to be an engineer (like a chemical engineer), while my grandma Asya, who he knew in childhood, was studying at a different college in Ukraine, a pedagogical college to be a teacher. They met each other again, and married. The Soviet Union then assigned my grandpa to move to Samarkand, Uzbekistan, and my grandma and he had to move. He was assigned there to be a leather technology engineer, at a plant/factory that manufactured leathers from sheepskin fur. His sister Rosá also joined them later, to live with them, while she studied, in sales, at an institute, in Samarkand as well. My grandma taught German.
@@ -286,6 +288,8 @@ My mom was at the Embassy from early morning to night. “I left them with relat
 The interviewer laughed. “No, you’re absolutely right. Usually moms bring their kids here in order to show them to us. They think by proving, they’d get sympathy.”
 
 From the Republic of Uzbekistan, more than half a year later, we flew to Rochester, New York. I was 3 and two thirds.
+
+### PhD program
 
 In America, my mom found a low-paying piano teaching job, and got a second degree at a community college in Computer Information Systems to earn more money, since she had to support us and my grandparents by herself. She actually taught me how to program — specifically, object-oriented programming — when I started my undergrad at the University of Rochester. She helped me do well enough in that class. I double majored in Computer Science and Mathematics. If it weren't for my mom's love, I would not have gotten into a doctoral program.
 
