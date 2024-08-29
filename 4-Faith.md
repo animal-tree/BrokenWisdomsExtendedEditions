@@ -90,7 +90,7 @@ Here is my favorite Shakespeare sonnet:
 
 #
 
-The only time period that didn’t lead to suicide ideation, was when I lived in Drama House, a student theater living community. Undergrad years weren’t perfect, and I suffered from eczema and the stress of two majors and still pretty severe social anxiety, but it was by far the best period of my life and probably the only time I was even a modicum socially happy. That was where I first saw Sartre’s play, No Exit. 
+The only time that didn’t lead to suicide ideation, was when I lived in Drama House, a student theater living community. Undergrad years weren’t perfect, and I suffered from eczema and the stress of two majors and still pretty severe social anxiety, but it was by far the best period of my life and probably the only time I was even a modicum socially happy. That was where I first saw Sartre’s play, No Exit. 
 
 > [!NOTE]
 > ### Exiting Hell, unifying quantum with Einstein, & symbiotically transcending individual psychological and behavioral repression
