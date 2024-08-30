@@ -45,7 +45,9 @@ Here is my favorite Shakespeare sonnet:
 > I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had specialized appreciation:
 >
 > - (a) An agent "choosing" actions randomly at first in an environment, given "states" as input, remembering the actions chosen in a memory together with each state, then in future states, looking at those past actions, in memory, that corresponded to the most similar states to the current state, and taking the ones that got the highest environment rewards in the past, or, with some probability, exploring via taking random actions to get more state-action memory,
+>    - (relevant method examples: episodic control),
 > - (b) "similarity" as measurable by the regular distance between those numbers ("states") that represent input datapoints,
+>    - (relevant method examples: Euclidean, cosine, parameteric),
 > - (c) decomposing those representations into representations of parts and relations
 >   - (relevant method examples: such as with image segmentation, word vectors, parameter re-use inductive biases in neural networks like convolution, recurrence, attention, vector-quantization; or, more elementarily, weighted sums with non-linearities),
 > - (d) efficient relational reasoning by prioritizing information for each part relative to each other part
