@@ -64,7 +64,7 @@ Here is my favorite Shakespeare sonnet:
 > The CS department's faculty, with occasional exception, couldn't hear anything that they didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them through their studies, normalized by their colleagues, and standardized, discussing "needy nothing trimm'd in jollity" while my ideas were "miscall'd simplicity" until they became mainstream, with credit for my teaching then "unhappily forsworn."
 >
 > As well as just simple intuitions that were pedagogically better:
-> - (a) Randomness and diversity to escape local or "instantaneous" search limitations,
+> - (a) Randomness and diversity to escape local or "instantaneous" search limitations, and avoid premature convergence,
 > - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward,
 > - (c) parameter-reuse methods for invariability and greater training diversity,
 > - (d) training stability via incremental progress, as in small gradient steps, additive updates layer-wise, or diffusion, except not necessarily temporally,
