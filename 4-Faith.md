@@ -65,8 +65,10 @@ Here is my favorite Shakespeare sonnet:
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations,
 > - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward,
 > - (c) parameter-reuse methods for invariability and greater training diversity,
-> - (d) [LSTMs as biological neurons](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link), and
-> - (e) ["Convolution is all you need"](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md).
+> - (d) training stability via incremental progress, as in small gradient steps, additive updates layer-wise, including temporally, or diffusion,
+> - (e) [more advanced math](https://github.com/slerman12/Teaching/blob/master/Other%20materials/Integrals.md),
+> - (f) [LSTMs as biological neurons](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link), and
+> - (g) ["Convolution is all you need"](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md).
 >   - Quick rant:
 >       - "Attention is all you need" sounds like a reply to "You just want attention." It’s in bad taste. That’s the name of the paper from DeepMind that most revolutionized deep learning after 2017. My later paper under Chenliang was going to be called, ["Relation is all you need,"](https://docs.google.com/presentation/d/1QbWNfnWAgm0rHTy4EFnDrjpaMP7Ako6isNxOUSR17_A/edit?usp=sharing) which brings the idea slightly closer to "Relationships are all you need" or John Lennon’s phrasing, "Love is all you need," and the method it uses is more "democratic."
 >         - I was rushing to make [this](https://docs.google.com/presentation/d/1QbWNfnWAgm0rHTy4EFnDrjpaMP7Ako6isNxOUSR17_A/edit?usp=sharing) into an ECCV, 2022 paper, because Chenliang said it makes him "sad" that almost no one in his group was submitting to ECCV, 2022. Solely out of love, I was about to rush another extremely fundamental new MHDPA innovation just because he ended that week's meeting, the week before the submission deadline, with "It makes me sad." I managed to run one experiment in time ([see here for code](https://github.com/slerman12/UnifiedMLold2/blob/master/Blocks/Architectures/LermanBlocks/ViRP.py)), and then resumed my regular work because I still had all of UnifiedML to build, and not even a tacit hint of dissatisfaction from Chenliang.
