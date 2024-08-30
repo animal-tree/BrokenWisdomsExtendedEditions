@@ -59,7 +59,7 @@ Here is my favorite Shakespeare sonnet:
 > - (g) representing concepts more generally by learning across far more varied domains
 >   - (relevant method examples: GATO).
 >
-> Each, individually or grouped, were dismissed by the faculty when they were still essentially mine, as I was repeatedly gaslit by my faculty listeners, with their authoritative rejection or suspicion, into doubting or tripping over my own far better understanding.
+> Each, individually or grouped, were dismissed by the faculty when they were still essentially mine (not always, but at least as the field of deep learning progressed, slowly), as I was repeatedly gaslit by my faculty listeners, with their authoritative rejection or suspicion, into doubting or tripping over my own far better understanding.
 >
 > As well as other intuitions:
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations,
