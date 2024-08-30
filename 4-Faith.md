@@ -42,7 +42,7 @@ Here is my favorite Shakespeare sonnet:
 >   
 > My intuitive ideas, way ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them, like the use of rewards from past actions to inform new actions in similar states, similarity as measurable by Euclidean distance between datapoints or representations, decomposing datapoints into parts and relations, or efficient relational reasoning by prioritizing information relative to those parts. "Simple truth miscall'd simplicity."
 >
-> I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had specialized appreciation. Each, individually or grouped, were dismissed by the faculty when they were still essentially mine, as I was repeatedly gaslit by my faculty listeners, with their authoritative rejection or suspicion, into doubting or tripping over my own far better understanding.
+> I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had specialized appreciation:
 >
 > - (a) An agent chooses actions in an environment given "states" as input. One fundamental strategy for this process is to remember the actions the agent chooses in a memory together with each state, then in future states, looking at those past actions, in memory, that corresponded to the most similar states to the current state, and taking the ones that got the highest environment rewards in the past, or, with some probability, exploring via taking random actions to get more state-action memory,
 > - (b) "similarity" as measurable by the regular distance between those numbers ("states") that represent input datapoints,
@@ -51,6 +51,8 @@ Here is my favorite Shakespeare sonnet:
 > - (e) representing each part with numbers that don't vary much for that part unless there are meaningful contextual changes,
 > - (f) training multiple such wisdoms in parallel to vote across each other and create a more general diversity, and
 > - (g) representing concepts more generally by learning across far more varied domains.
+>
+> Each, individually or grouped, were dismissed by the faculty when they were still essentially mine, as I was repeatedly gaslit by my faculty listeners, with their authoritative rejection or suspicion, into doubting or tripping over my own far better understanding.
 >
 > As well as other intuitions:
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations,
