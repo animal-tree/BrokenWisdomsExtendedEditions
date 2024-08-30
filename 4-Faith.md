@@ -61,7 +61,7 @@ Here is my favorite Shakespeare sonnet:
 >
 > Each, individually or grouped, were dismissed by the faculty when they were still essentially mine (not always, but at least as the field of deep learning progressed, slowly), as I was repeatedly gaslit by my faculty listeners, with their authoritative rejection or suspicion, into doubting or tripping over my own far better understanding.
 >
-> As well as other intuitions:
+> As well as just simple intuitions that were pedagogically better:
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations,
 > - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward,
 > - (c) parameter-reuse methods for invariability and greater training diversity,
