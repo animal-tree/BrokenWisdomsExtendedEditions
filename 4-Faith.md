@@ -53,7 +53,7 @@ Here is my favorite Shakespeare sonnet:
 > - (d) efficient relational reasoning by prioritizing information for each part relative to each other part
 >   - (relevant method examples: such as via MHDPA on vectors),
 > - (e) representing each part with numbers that don't vary much for that part unless there are meaningful contextual changes
->   - (relevant method examples: such as with parameter re-use inductive biases in neural networks like convolution, recurrence, attention, vector-quantization; or frozen parameters of trained or symbolically-programmed encoders),
+>   - (relevant method examples: such as with parameter re-use inductive biases in neural networks like convolution, recurrence, attention, vector-quantization; or gating; or frozen parameters of trained or symbolically-programmed encoders),
 > - (f) training multiple such wisdoms in parallel to vote across each other and create a more general diversity
 >   - (relevant method examples: such as via ensembling, evolutionary populations, and, more elementarily, mini-batches), and
 > - (g) representing concepts more generally by learning across far more varied domains
