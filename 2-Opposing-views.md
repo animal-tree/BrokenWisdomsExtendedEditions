@@ -289,7 +289,7 @@ Alternate version:
 
 I was told, as a kind of reassuring love about the benzos pain that I was certain was going to be permanent brain damage, "Lermans are strong."
 
-My grandpa had a really good memory, but the meaning of Rosá's recollection was somehow truer.
+My grandpa had a really good memory, but the meaning of Rosá's recollection was somehow true, too.
 
 After the war, my grandpa and family returned from Kazakhstan and the warfront, to Chernihiv, Ukraine. My grandma and grandpa had known each other as children, and met again in Ukraine while in college. They were getting degrees from two different colleges, one analogous to a chemical engineering degree, another in teaching. The Soviet Union then assigned my grandpa to move to Samarkand, Uzbekistan. At that point, he was already married to my grandma, and they had to move together to Samarkand, Uzbekistan. The job my grandpa was assigned to was to work as a leather technology engineer, at a leather manufacturing plant/factory that made leathers from sheepskin furs. Meanwhile, my grandma worked as a teacher of German language. His sister Rosá also joined them later, to live with them, and studied sales in Samarkand at an institute. My mom, uncle, sister, and I were all born in Samarkand, all of us also Ashkenazi Jews. My name is Sam, but I wasn’t born "Sam." I was actually born "Siímyon," after my great aunt’s (from my grandma's side, "Tsotya Tsilia"'s) late husband, and "Sam" sort of fell on me through multiple mistranslations, starting with a really bad one that would happen when we immigrated to America. 
 
