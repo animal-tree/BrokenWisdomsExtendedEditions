@@ -68,7 +68,7 @@ Here is my favorite Shakespeare sonnet:
 > - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward,
 > - (c) parameter-reuse methods for invariability and greater training diversity,
 > - (d) training stability via incremental progress, as in small gradient steps, additive updates layer-wise, or diffusion, except not necessarily temporally,
-> - (e) [more advanced math](https://github.com/slerman12/Teaching/blob/master/Other%20materials/Integrals.md) usually pertaining to calculus (non-instantaneity, bi-directionality, cross-derivatives), 
+> - (e) [more advanced math](https://github.com/slerman12/Teaching/blob/master/Other%20materials/Integrals.md) usually pertaining to calculus (non-instantaneity, bi-directionality, cross-derivatives), backprop as just an algorithm for taking a derivative, wherein the change that would hypothetically increase or decrease a function is disseminated, operation by operation, from the output back to the input, to each parameter in that function, 
 > - (f) [LSTMs as biological neurons](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link), and
 > - (g) ["Convolution is all you need"](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md).
 >   - Quick rant, but worth reading:
