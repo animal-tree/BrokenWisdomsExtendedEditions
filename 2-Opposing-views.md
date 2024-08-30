@@ -363,7 +363,7 @@ My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did.
 
 My family besides me had also earned higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in medical fields. My sister, working to become a nurse practitioner (master's degree) [to do: fact check: she might've already gotten it at that point]. And my best friend, also in a PhD program but in another city. All were proud of me. None knew the details of the psychosis that led to the RGH hospitalization. Henry of course didn't either. This book is the witnessing in real-time as I processed all that memory into writing.
 
-Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted and I had to find a new advisor. He directed me to switch to Chenliang Xu, who gave me an ultimatum about joining. I worked under him for 3 years, at which time he deserted.
+Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted, had to give up being my advisor, reassured me that his knowledge of deep learning wasn't good enough anyway, and directed me to switch to Chenliang Xu as my next advisor, who gave me an ultimatum about joining. I worked under Chenliang for 3 years, at which time he deserted.
 
 ### Chenliang Xu
 
