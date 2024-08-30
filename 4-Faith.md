@@ -46,9 +46,9 @@ Here is my favorite Shakespeare sonnet:
 >
 > - (a) An agent "choosing" actions randomly at first in an environment, given "states" as input, remembering the actions chosen in a memory together with each state, then in future states, looking at those past actions, in memory, that corresponded to the most similar states to the current state, and taking the ones that got the highest environment rewards in the past, or, with some probability, exploring via taking random actions to get more state-action memory,
 > - (b) "similarity" as measurable by the regular distance between those numbers ("states") that represent input datapoints,
-> - (c) decomposing those representations into representations of parts and relations (such as with parameter re-use inductive biases in neural networks, convolution, recurrence, attention, vector-quantization; or, more elementarily, weighted sums with non-linearities),
+> - (c) decomposing those representations into representations of parts and relations (such as with image segmentation, word vectors, parameter re-use inductive biases in neural networks like convolution, recurrence, attention, vector-quantization; or, more elementarily, weighted sums with non-linearities),
 > - (d) efficient relational reasoning by prioritizing information for each part relative to each other part (such as via MHDPA on vectors),
-> - (e) representing each part with numbers that don't vary much for that part unless there are meaningful contextual changes (such as with parameter re-use inductive biases in neural networks, convolution, recurrence, attention, vector-quantization),
+> - (e) representing each part with numbers that don't vary much for that part unless there are meaningful contextual changes (such as with parameter re-use inductive biases in neural networks like convolution, recurrence, attention, vector-quantization),
 > - (f) training multiple such wisdoms in parallel to vote across each other and create a more general diversity (such as via ensembling, evolutionary populations, mini-batches), and
 > - (g) representing concepts more generally by learning across far more varied domains (e.g., GATO).
 >
