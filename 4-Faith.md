@@ -90,7 +90,7 @@ Here is my favorite Shakespeare sonnet:
 >
 > My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
 >
-> "Tired with all these, from these would I be gone, save that, to die, I leave my love alone."
+> <p align='center'>"Tired with all these, from these would I be gone, save that, to die, I leave my love alone."</p>
 >
 > And that might be the interpretation, but I hear in Shakespeare's words that that's not the one he necessarily meant. My interpretation might end up even more controversial than this chapter of this book, really, since a lot of people perhaps want to interpret a romantic notion at the end (my mom knows Shakespeare didn't mean "my love" maternally). In my opinion, "my love" would be a pretty big thematic divergence and betrayal, if after every line (from "purest faith unhappily forsworn," to "maiden virtue rudely strumpeted," to "gilded honour shamefully misplac'd"), Shakespeare's meaning coalesced to, "Well, I could never do that to my girlfriend." Not to man-splain what Shakespeare meant ($\text{\color{green}"sam-splaining" is a distinct form}$), but this is what I think Shakespeare meant:
 >
