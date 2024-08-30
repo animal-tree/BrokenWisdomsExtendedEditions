@@ -67,7 +67,7 @@ Here is my favorite Shakespeare sonnet:
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations,
 > - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward,
 > - (c) parameter-reuse methods for invariability and greater training diversity,
-> - (d) training stability via incremental progress, as in small gradient steps, additive updates layer-wise, except not necessarily temporally, or diffusion,
+> - (d) training stability via incremental progress, as in small gradient steps, additive updates layer-wise, or diffusion, except not necessarily temporally,
 > - (e) [more advanced math](https://github.com/slerman12/Teaching/blob/master/Other%20materials/Integrals.md) usually pertaining to calculus (non-instantaneity, bi-directionality, cross-derivatives), 
 > - (f) [LSTMs as biological neurons](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link), and
 > - (g) ["Convolution is all you need"](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md).
