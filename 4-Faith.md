@@ -39,17 +39,20 @@ Here is my favorite Shakespeare sonnet:
 > ### Academia & medicine
 > 
 > The relevance of "Art made tongue-tied by authority and folly, doctor-like controlling skill" is impossible to communicate. It's no coincidence that "doctor-like" is the simile Shakespeare turned to, as that is the perfect description of the kind of authority he refers to, which governs, not just Chenliang's group, but most of the university, academia, and — most un-medically — medicine. 
+>   
+> My intuitive ideas, way ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them, like the use of rewards from past actions to inform new actions in similar states, similarity as measurable by Euclidean distance between datapoints or representations, decomposing datapoints into parts and relations, or efficient relational reasoning by prioritizing information relative to those parts. "Simple truth miscall'd simplicity."
 >
-> My intuitive ideas, way ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them, like:
-> - (a) Choosing actions with the highest environment rewards of the past memories of states and actions whose states were most similar to the current state, or exploring via taking random actions to get more state-action memory,
+> I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had specialized appreciation. Each, individually or grouped, were dismissed by the faculty when they were still essentially mine, as I was repeatedly gaslit by my faculty listeners, with their authoritative rejection or suspicion, into doubting or tripping over my own far better understanding.
+>
+> - (a) An agent chooses actions in an environment given "states" as input. One fundamental strategy for this process is to remember the actions the agent chooses in a memory together with each state, then in future states, looking at those past actions, in memory, that corresponded to the most similar states to the current state, and taking the ones that got the highest environment rewards in the past, or, with some probability, exploring via taking random actions to get more state-action memory,
 > - (b) "similarity" as measurable by the regular distance between those numbers ("states") that represent input datapoints,
 > - (c) decomposing those representations into representations of parts and relations,
 > - (d) efficient relational reasoning by prioritizing information for each part relative to each other part,
 > - (e) representing each part with numbers that don't vary much for that part unless there are meaningful contextual changes,
 > - (f) training multiple such wisdoms in parallel to vote across each other and create a more general diversity, and
 > - (g) representing concepts more generally by learning across far more varied domains.
->   
-> I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had specialized appreciation. Each, individually or grouped, were dismissed by the faculty when they were still essentially mine, as I was repeatedly gaslit by my faculty listeners, with their authoritative rejection or suspicion, into doubting or tripping over my own far better understanding. "Simple truth miscall'd simplicity." As well as other intuitions:
+>
+> As well as other intuitions:
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations,
 > - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward,
 > - (c) parameter-reuse methods for invariability and greater training diversity,
