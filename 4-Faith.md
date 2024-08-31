@@ -65,7 +65,7 @@ Here is my favorite Shakespeare sonnet:
 >
 > As well as just simple intuitions that were pedagogically better:
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations (local optima, myopia, e.g. myopic derivatives, and the process of searching/data-acquisition),
-> - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward, the latter especially when differentiating an actor through a good differentiable predictor, or predictors, of immediate and any future outcomes, where "good" depends on the quality and quantity, perhaps prioritized for efficiency and exploration-sake, of memory/data learned-from and the outcome-goal(s)/objective(s),
+> - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward, the latter especially when differentiating an actor through a good differentiable predictor, or predictors, of immediate and any future outcomes, where "good" depends on the quality and quantity, perhaps prioritized for efficiency and exploration-sake, of memory/data learned-from and the outcome-goal(s),
 > - (c) curriculum learning as prioritized experience replay, where data that there is most to learn from is prioritized for learning,
 > - (d) learning rate schedules as exploration/exploitation tradeoffs,
 > - (e) parameter-reuse methods for invariability and greater training diversity,
