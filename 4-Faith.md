@@ -65,7 +65,7 @@ Here is my favorite Shakespeare sonnet:
 >
 > As well as just simple intuitions that were pedagogically better:
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations (local optima, myopia, e.g. myopic derivatives, and the process of searching/data-acquisition),
-> - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward, the latter especially when differentiating an actor through a good predictor, or predictors, of immediate or future outcomes, where good depends on the quality and quantity of memory learned from and the goal(s),
+> - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward, the latter especially when differentiating an actor through a good predictor, or predictors, of immediate and any future outcomes, where good depends on the quality and quantity of memory learned from and the goal(s),
 > - (c) parameter-reuse methods for invariability and greater training diversity,
 > - (d) training stability via incremental progress, as in small gradient steps, additive updates layer-wise, or diffusion, except not necessarily temporally,
 > - (e) [more advanced math](https://github.com/slerman12/Teaching/blob/master/Other%20materials/Integrals.md) usually pertaining to calculus (non-instantaneity, bi-directionality, cross-derivatives), backprop as just an algorithm for taking a derivative, wherein the change that would hypothetically increase or decrease a function is disseminated, operation by operation, from the output back to the input, to each parameter in that function, 
