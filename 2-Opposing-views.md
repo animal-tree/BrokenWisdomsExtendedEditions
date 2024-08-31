@@ -495,8 +495,6 @@ Anyway, in addition to losing all of my hair — head, eyebrows, and eyelashes �
 
 My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the list goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the year my grandpa died, 2016, when she died as well.
 
-She shortly outlived my grandpa, and died the same year as him three days before his April 16 birthday, on April 13, 2016.
-
 #### How my grandpa died
 
 When I was a kid, I listed off my favorite family members once, in my order of favorite, in front of all of them who were in our apartment living room, either standing or eating at the table. Maybe I was 5 or so. I remember they all looked big and I was standing. Grandpa was sitting in his bigger chair at the table and I started, "Babula" ("Grandma"), "mom, Marina, ..." and then after all the others who I listed, I listed my grandpa. I still remember that. He wasn’t offended, and I love and loved my grandpa a lot. In maybe 16 years, I would be standing by his bedside in the hospital, after a heart surgery he had, when he'd tell me: "Ti moy lyubimey v'nuk" (“You are my favorite grandson.”). He has 4 grandkids: Irina, Lena, Marina, and me. I'm his only v'nuk...  I could hear he didn’t mean it as a joke... maybe...
@@ -559,7 +557,7 @@ In 2016, Bernie Sanders was the first presidential candidate I was old enough to
 
 I wanted to donate to his campaign early, from a link in one of his emails. My mom cautioned me that the email might've been spam because my description sounded too good to be true. He wasn’t a household name yet. She doesn’t think that anymore. We both ended up donating, multiple times. But he was an unlikely figure in any politics, American or otherwise, devoted to principled [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md), e.g. universal healthcare, not politics.
 
-The girlfriend I mentioned earlier, [who remarked on my cuticles](#i-didnt-mention-fingernails-fingernails-regrowth), that rhymed with my grandma’s perhaps unusual remark about our fingernails, and I, actually bonded because of our shared love of Bernie Sanders, in 2016, the same semester my grandma had joined my grandpa at the platform of his last train, where her Medicare benefits were also finally relinquished to the world.
+The girlfriend I mentioned earlier, [who remarked on my cuticles](#i-didnt-mention-fingernails-fingernails-regrowth), that rhymed with my grandma’s perhaps unusual remark about our fingernails, and I, actually bonded because of our shared love of Bernie Sanders, in 2016, the same semester my grandma had joined my grandpa at the platform of his last train, where her Medicare benefits were finally relinquished to the world.
 
 But I bring him up now because the rest of this book is going to point to some serious problems more specifically, and address the specific reforms I've been referencing, specifically. These are reforms that aren't redundant to the ones Bernie Sanders has already pointed out, and unlike many bleeding-hearts who’ve copied him since, I’m sincere, and mine is gushing to the floor. How to transition into this? Well...
 
