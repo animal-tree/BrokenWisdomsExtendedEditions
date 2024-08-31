@@ -46,7 +46,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - How my grandma got dementia
         - How my grandpa died
         - When my grandma died
-        - Another old Jew helps transition the times
+        - Ascent of a Jewish old grandpa
         - Geriatric unit hospitalization
         - Warmth, nature, and organic-type foods
         - Schools
