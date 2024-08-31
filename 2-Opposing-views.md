@@ -566,7 +566,7 @@ Speaking of the elderly...
 #### Geriatric unit hospitalization
 
 > [!WARNING]
-> In December, 2020, about a month after Tayler blocked me on our coinciding birthdays, I had another hospitalization, my last hospitalization, the geriatric unit (elderly facility) one.
+> In December, 2020, about a month after Tayler blocked me, I had another hospitalization, my last hospitalization, the geriatric unit (elderly facility) one.
 >
 > I was leading another one of Chenliang's students on a long-term memory paper called [Eclectic-Mem](https://github.com/slerman12/Eclectic-Mem) for Chenliang, that I still had an extremely intense amount of work to do on in order to make the ICML deadline. My family members visited. I was again following some kind of yogic-trance, but this time, much less spiritually guided. I knew that the yogic state I'd been in before was real, and I didn't want to disobey the new flow that had taken over. I was acting strange in front of the visiting family members, and my mom called the ambulance. My behavior was strange enough that the responders decided to take me to the hospital, and as they were doing so, I broke from the obedience to that pseudo-flow state and started screaming to my mom that there was an ICML paper deadline that I had to submit to. This was still 2020, months after the Taylor-CAM paper. The responders took me away, so far with no concrete reason to do so, but only my mom's call and the superficial strangeness of my behavior.
 >
