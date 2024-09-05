@@ -40,13 +40,13 @@ Here is my favorite Shakespeare sonnet:
 > 
 > The relevance of "Art made tongue-tied by authority and folly, doctor-like controlling skill" is impossible to communicate. It's no coincidence that "doctor-like" is the simile Shakespeare turned to, as that is the perfect description of the kind of authority he refers to, which governs, not just Chenliang's group, but most of the university, academia, and — most un-medically — medicine. 
 >   
-> My intuitive ideas, way ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them, like the use of rewards from past actions to inform new actions in similar states, similarity as measurable by Euclidean distance between datapoints or representations, decomposing datapoints into parts and relations, or efficient relational reasoning by prioritizing information relative to those parts. "Simple truth miscall'd simplicity."
+> My intuitive ideas, way ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them, like the use of rewards from past actions to inform new actions in similar states, similarity as measurable by geometrical (Pythagorean) distance between datapoints or representations, decomposing datapoints into parts and relations, or efficient relational reasoning by prioritizing information relative to those parts. "Simple truth miscall'd simplicity."
 >
 > I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had specialized appreciation:
 >
-> - (a) An agent "choosing" actions at first randomly in an environment, given "states" as input, remembering the actions chosen in a memory together with each state, then in future states, looking at those past actions, in memory, that corresponded to the most similar states to the current state, and taking the ones that got the highest environment rewards in the past, or, with some probability, exploring via taking random actions to get more state-action memory,
->    - (relevant method examples: such as via K-nearest neighbors; symbolic and neural episodic control; parametrically rather than symbolically via RNNs or Decision Transformers),
-> - (b) "similarity" as measurable by the regular distance between those numbers ("states") that represent input datapoints,
+> - (a) An agent "choosing" actions at first randomly in an environment, given "states" as input, remembering the actions chosen in a memory together with each state; then in future states, looking at those past actions, in memory, that corresponded to the most similar states to the current state, and taking the ones that got the highest environment rewards in the past, or, with some probability, exploring via taking random actions to get more state-action memory
+>    - (relevant method examples: such as via K-nearest neighbors; symbolic and neural episodic control methods; parametrically rather than symbolically via RNNs or Decision Transformers),
+> - (b) "similarity" as measurable by geometric distance between those numbers ("states") that represent input datapoints
 >    - (relevant method examples: such as via Euclidean distance, cosine distance, parametric distance),
 > - (c) decomposing those representations into representations of parts and relations
 >   - (relevant method examples: such as via segmentation, parameter re-use inductive biases in neural networks like convolution, recurrence, attention, vector-quantization; or, more elementarily, weighted sums with non-linearities),
@@ -59,13 +59,13 @@ Here is my favorite Shakespeare sonnet:
 > - (g) representing concepts more generally by learning across far more varied domains
 >   - (relevant method examples: GATO).
 >
-> Each, individually or grouped, were dismissed by the faculty when they were still essentially mine (not always, but at least as the field of deep learning progressed, slowly), as I was repeatedly gaslit by my faculty listeners, with their authoritative rejection or suspicion, into doubting or tripping over my own far better understanding.
+> Each, individually or grouped, were dismissed by the faculty when they were still essentially mine (not always, but at least as the field of deep learning progressed, slowly), as I was repeatedly gaslit by my faculty listeners, with their authoritative rejection or suspicion, into doubting or tripping over my own far better understanding, as I tailored everything carefully to their understanding into symbolic methods or symbolic-neural hybrids, since most of them, initially, were skeptical of pure deep learning or thought deep learning was a fad.
 >
 > The CS department's faculty, with occasional exception, couldn't hear anything that they didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them through their studies, normalized by their colleagues, and standardized, discussing "needy nothing trimm'd in jollity" while my ideas were "miscall'd simplicity" until they became mainstream, with credit for my teaching then "unhappily forsworn."
 >
 > As well as just simple intuitions that were pedagogically better:
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations (local optima, myopia, e.g. myopic derivatives, and the process of searching/data-acquisition),
-> - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward, the latter especially when differentiating an actor through a good differentiable predictor, or predictors, of immediate and any future outcomes, where "good" depends on the quality and quantity, perhaps prioritized for efficiency and exploration-sake, of memory/data learned-from and the outcome-goal(s),
+> - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward, the latter especially when differentiating an actor through a good differentiable predictor, or predictors, of immediate and any future outcomes, where "good" depends on the quality and quantity (perhaps prioritized for efficiency and exploration-sake) of memory/data learned-from and the outcome-goal(s),
 > - (c) curriculum learning as prioritized experience replay, where data that there is most to learn from is prioritized for learning,
 > - (d) learning rate schedules as exploration/exploitation tradeoffs,
 > - (e) parameter-reuse methods for invariability and greater training diversity,
@@ -84,7 +84,7 @@ Here is my favorite Shakespeare sonnet:
 >         - The fundamental method for relational reasoning in big AI systems shouldn't be referencing a gaslighting association like "You just want attention" when a much better analogy exists. Or use the literal version: "The attention mechanism as we propose it can be useful for everything deep learning is used for today."
 >
 > I worked under Chenliang and the university's arbitrations as "captive good attending to captain evil," hard work, brilliance, love, and art crushed with interrogations, urgency, and criteria based on ridiculous standards where the quality of the work meant much less than how deeply in the weeds students went to claim "state of the art" in time for the latest conference deadline.
-> - I achieved both repeatedly though. For example, my original MHDPA innovation paper in 2018 had to be an end-of-semester "project," and in a semester when I took other classes, and had to apply for the NSF GRFP (which I got a rare and esteemed ["honorable mention" for](https://anon.cs.rochester.edu/news-events/news/archive/2019/2019-04-10_lermannsf.html)), and had my first psychosis, finishing the paper's submission-ready experiments in the hospital. Through unappreciated efforts that were side-tracked into less relevance.
+> - I achieved both repeatedly though. For example, my original MHDPA innovation paper in 2018 had to be an end-of-semester "project," and in a semester when I took other classes, and had to apply for the NSF GRFP (which I got a rare and esteemed ["honorable mention" for](https://anon.cs.rochester.edu/news-events/news/archive/2019/2019-04-10_lermannsf.html) with [excellent reviews](https://github.com/user-attachments/assets/87ef2c97-c1d5-4333-9247-a0d28a689efb)), and had my first psychosis, finishing the paper's submission-ready experiments in the hospital. Through unappreciated efforts that were side-tracked into less relevance.
 >
 > "And strength by limping sway disabled," as I limp, literally, to walk, from the eczema on my legs, as caused throughout my PhD by anxiety, and in my words, trying through repeated disappointing edits to describe the faith forsworn and right perfection disgrace'd while I was coerced, abused ("treated") (with hair loss, benzo gargling, clinical abuse, and more repeated hair losses), and worked there.
 >
@@ -106,7 +106,7 @@ Here is my favorite Shakespeare sonnet:
 
 #
 
-The only period that didn’t lead to suicide ideation, was when I lived in Drama House, a student theater living community. Undergrad years weren’t perfect, and I suffered from eczema and the stress of two majors and still pretty severe social anxiety, but it was by far the best period of my life and probably the only time I was even a modicum socially happy. That was where I first saw Sartre’s play, No Exit. 
+The only period of my life that didn’t lead to suicide ideation, was when I lived in Drama House, a student theater living community. Undergrad years weren’t perfect, and I suffered from eczema and the stress of two majors and still pretty severe social anxiety, but it was by far the best period of my life and probably the only time in my life I was even a modicum socially happy. That was where I first saw Sartre’s play, No Exit. 
 
 > [!NOTE]
 > ### Exiting Hell, unifying quantum with Einstein, & symbiotically transcending individual psychological and behavioral repression
