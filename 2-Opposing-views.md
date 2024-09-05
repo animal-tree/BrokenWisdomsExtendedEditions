@@ -270,6 +270,8 @@ So the word "synchronicity" was already familiar, as was Jung, as was Kundalini,
 
 We played Guitar Hero, I continued all of my meditation and yoga regimen, and my family, including my mom, uncle and aunt, and cousin brought in Paleo diet food for me, which I ate for my eczema but which also helped with my cognition, instead of the unhealthy processed type food of the hospital. And I shared crapes with Sarah, that my aunt brought in each time she and my uncle visited. They weren't 100% Paleo (buckwheat, goat cheese), but still delicious.
 
+So to summarize, I was doing daily meditation, twice a day, daily yoga each morning, and eating a Paleo diet in the hospital, as well as now socializing well. On top of all of that, and antipsychotics, surely the missing ingredient to cure me would be an involuntary >6 months course of benzos.
+
 > A couple weeks after returning from Finland in summer, 2017, after meeting Jane there, a short Jewish stoner-y anime-character person I met, I met another short Jewish stoner-y anime-character, Emilie, who paralleled Jane in every horrible specific way I probably shouldn't write. That was one of the few people I ever interacted with. In the hospital, I met another Jane-representative-type person, distinct from Jane, very much a person too, but still with some characteristic Jane. Jane preceded the Dupilumab. Emilie about coincided, maybe a week after my first injection.
 >
 > Sarah was 24, a year older than me, worked at a convenience store, like Jane, and had gotten hospitalized for getting drunk and trashing the whole convenience store in a somewhat psychotic fit, something Jane unfortunately doesn’t do. Her personality, pertaining to addiction and being kind of crude/cold, coincided.
